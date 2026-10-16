@@ -39,17 +39,9 @@ FPS = 30
 TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
-# English category names
-CATEGORIES_ENGLISH = [
-    "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
-    "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
-    "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
-    "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
-]
-
-# Czech translations
+# Czech translations (50 Diverse Educational & Practical Categories)
 CATEGORIES_CZECH = {
+    # 1-25: Inspirational, Mindset & Emotional Intelligence
     "Motivation": "Motivace",
     "Love": "Láska",
     "Success": "Úspěch",
@@ -75,7 +67,36 @@ CATEGORIES_CZECH = {
     "Growth": "Růst",
     "Purpose": "Smysl Života",
     "Mindfulness": "Všímavost",
+    # 26-50: Practical Conversational & Real-World Life Scenarios
+    "Travel & Airport": "Cestování a Letiště",
+    "Ordering Food & Dining": "Objednávání Jídla a Restaurace",
+    "Shopping & Prices": "Nakupování a Ceny",
+    "Asking for Directions": "Ptaní se na Cestu",
+    "Hotel & Accommodation": "Hotel a Ubytování",
+    "Daily Routine": "Denní Rutina",
+    "Meeting People & Greetings": "Seznamování a Pozdravy",
+    "Emergency & Health": "Nouzové Situace a Zdraví",
+    "Public Transportation": "Veřejná Doprava",
+    "Work & Office": "Práce a Kancelář",
+    "Weather & Small Talk": "Počasí a Nezávazná Konverzace",
+    "Coffee Shop & Bakery": "Kavárna a Pekárna",
+    "Family & Home": "Rodina a Domov",
+    "Hobbies & Free Time": "Koníčky a Volný Čas",
+    "Dating & Romance": "Rande a Romantika",
+    "Phone Calls & Messages": "Telefonování a Zprávy",
+    "Banking & Money": "Bankovnictví a Peníze",
+    "Doctor & Pharmacy": "Lékař a Lékárna",
+    "Sports & Fitness": "Sport a Fitness",
+    "Celebrations & Parties": "Oslavy a Párty",
+    "Feelings & Emotions": "Pocity a Emoce",
+    "Agreeing & Disagreeing": "Souhlas a Nesouhlas",
+    "Making Plans": "Plánování",
+    "Common Native Slang": "Běžný Hovorový Jazyk",
+    "Cultural Traditions": "Kulturní Tradice",
 }
+
+# English category names dynamically derived from Czech dictionary
+CATEGORIES_ENGLISH = list(CATEGORIES_CZECH.keys())
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
@@ -177,6 +198,37 @@ def add_phrases_to_history(phrases, category):
             
     save_phrase_history(history)
     print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
+
+
+def get_next_category(categories_dict: dict) -> str:
+    """Select the least recently used category to guarantee a smooth, non-repeating cycle"""
+    recent_file = HISTORY_DIR / "recent_categories.json"
+    recent = []
+    if recent_file.exists():
+        try:
+            with open(recent_file, "r", encoding="utf-8") as f:
+                recent = json.load(f)
+        except Exception:
+            recent = []
+
+    all_cats = list(categories_dict.keys())
+    cooldown = max(1, len(all_cats) - 10)
+    available = [c for c in all_cats if c not in recent[-cooldown:]]
+    if not available:
+        available = all_cats
+
+    chosen = random.choice(available)
+    recent.append(chosen)
+    if len(recent) > 100:
+        recent = recent[-100:]
+
+    try:
+        with open(recent_file, "w", encoding="utf-8") as f:
+            json.dump(recent, f, indent=2, ensure_ascii=False)
+    except Exception:
+        pass
+
+    return chosen
 
 
 # ============== CONTENT GENERATION ==============
@@ -1155,7 +1207,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
 def generate_longform_video(category_english: str = None, target_phrases: int = None):
     if not category_english:
-        category_english = random.choice(CATEGORIES_ENGLISH)
+        category_english = get_next_category(CATEGORIES_CZECH)
 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
