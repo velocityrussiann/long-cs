@@ -95,8 +95,10 @@ CATEGORIES_CZECH = {
     "Cultural Traditions": "Kulturní Tradice",
 }
 
-# English category names dynamically derived from Czech dictionary
+
+# English category names (dynamic)
 CATEGORIES_ENGLISH = list(CATEGORIES_CZECH.keys())
+# English category names dynamically derived from Czech dictionary
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
