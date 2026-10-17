@@ -1,4 +1,725 @@
 {
-  "phrases": [],
-  "last_updated": null
+  "phrases": [
+    {
+      "english": "Thank you, that's very kind.",
+      "czech": "Děkuji, to je od vás milé.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777884"
+    },
+    {
+      "english": "I really appreciate it, thanks.",
+      "czech": "Moc si toho vážím, díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777899"
+    },
+    {
+      "english": "You're a lifesaver, thank you!",
+      "czech": "Jste záchrana, děkuji vám!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777903"
+    },
+    {
+      "english": "Wow, thank you so much!",
+      "czech": "Páni, moc vám děkuju!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777905"
+    },
+    {
+      "english": "Thanks for your help, friend.",
+      "czech": "Díky za pomoc, příteli.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777909"
+    },
+    {
+      "english": "I owe you one, thank you.",
+      "czech": "Jeden dluh ti dlužím, díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777912"
+    },
+    {
+      "english": "That was great, thanks a lot.",
+      "czech": "To bylo skvělé, moc díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777914"
+    },
+    {
+      "english": "You're the best, thank you!",
+      "czech": "Jste nejlepší, děkuji!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777920"
+    },
+    {
+      "english": "Many thanks for everything.",
+      "czech": "Mnoho díky za všechno.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777924"
+    },
+    {
+      "english": "I'm so grateful for this.",
+      "czech": "Jsem za tohle moc vděčný.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777927"
+    },
+    {
+      "english": "That's incredibly thoughtful, thanks.",
+      "czech": "To je neuvěřitelně ohleduplné, díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777930"
+    },
+    {
+      "english": "You've been a great help.",
+      "czech": "Byla jste mi velkou pomocí.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777932"
+    },
+    {
+      "english": "Thanks for your patience.",
+      "czech": "Děkuji za vaši trpělivost.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777935"
+    },
+    {
+      "english": "What a nice gesture, thank you.",
+      "czech": "To je milé gesto, děkuji.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777937"
+    },
+    {
+      "english": "I'm truly thankful, you know.",
+      "czech": "Opravdu jsem vděčný, víte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777940"
+    },
+    {
+      "english": "Thanks for the lovely surprise.",
+      "czech": "Díky za to milé překvapení.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777942"
+    },
+    {
+      "english": "You saved my day, thanks!",
+      "czech": "Zachránili jste můj den, díky!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777944"
+    },
+    {
+      "english": "How thoughtful of you, thanks.",
+      "czech": "Jak jste ohleduplný, děkuji.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777947"
+    },
+    {
+      "english": "I'm very grateful, honestly.",
+      "czech": "Jsem velmi vděčný, upřímně.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777951"
+    },
+    {
+      "english": "Thanks for being so understanding.",
+      "czech": "Díky, že jste tak chápavý.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777953"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "czech": "Tohle hodně znamená, děkuji.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777956"
+    },
+    {
+      "english": "You're too kind, really, thanks.",
+      "czech": "Jste příliš milý, opravdu, díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777958"
+    },
+    {
+      "english": "Thank you for your generosity.",
+      "czech": "Děkuji za vaši štědrost.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777961"
+    },
+    {
+      "english": "I really appreciate your effort.",
+      "czech": "Opravdu si cením vašeho úsilí.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777963"
+    },
+    {
+      "english": "Thanks for making time for me.",
+      "czech": "Díky, že jste si na mě udělal čas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777965"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "czech": "Jsi opravdový přítel, díky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777967"
+    },
+    {
+      "english": "This is wonderful, thank you!",
+      "czech": "To je úžasné, děkuji!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777970"
+    },
+    {
+      "english": "Much appreciated, honestly.",
+      "czech": "Velice si toho vážím, upřímně.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777972"
+    },
+    {
+      "english": "You're a star, thank you!",
+      "czech": "Jste hvězda, děkuji vám!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777974"
+    },
+    {
+      "english": "Could you help me, please?",
+      "czech": "Mohl bys mi pomoct, prosím?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777977"
+    },
+    {
+      "english": "What do you think, about this?",
+      "czech": "Co si o tom myslíš?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777979"
+    },
+    {
+      "english": "Can I ask your advice?",
+      "czech": "Můžu se zeptat na radu?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777982"
+    },
+    {
+      "english": "How did you learn that?",
+      "czech": "Jak ses to naučil?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777984"
+    },
+    {
+      "english": "Where did you get that idea?",
+      "czech": "Kde jsi na to přišel?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777987"
+    },
+    {
+      "english": "Is this okay, for you?",
+      "czech": "Je to pro tebe v pořádku?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777990"
+    },
+    {
+      "english": "Do you need anything else?",
+      "czech": "Potřebuješ ještě něco?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777992"
+    },
+    {
+      "english": "What's your opinion, on this?",
+      "czech": "Jaký máš na to názor?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777995"
+    },
+    {
+      "english": "Could you explain that, again?",
+      "czech": "Mohl bys to vysvětlit, znovu?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.777997"
+    },
+    {
+      "english": "What's the best way, to do this?",
+      "czech": "Jaký je nejlepší způsob?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778000"
+    },
+    {
+      "english": "Did I do that, correctly?",
+      "czech": "Udělal jsem to správně?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778002"
+    },
+    {
+      "english": "What do you recommend, for dinner?",
+      "czech": "Co doporučuješ k večeři?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778004"
+    },
+    {
+      "english": "Can you show me, how?",
+      "czech": "Můžeš mi ukázat, jak?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778007"
+    },
+    {
+      "english": "What are your plans, for weekend?",
+      "czech": "Jaké máš plány, na víkend?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778010"
+    },
+    {
+      "english": "Do you like it, here?",
+      "czech": "Líbí se ti tady?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778024"
+    },
+    {
+      "english": "Is there anything, I can do?",
+      "czech": "Je něco, co můžu udělat?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778026"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "czech": "O čem přemýšlíš?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778028"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "czech": "Mohl bys to zopakovat, prosím?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778031"
+    },
+    {
+      "english": "How was your day, today?",
+      "czech": "Jaký jsi měl den, dnes?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778033"
+    },
+    {
+      "english": "Do you understand, this?",
+      "czech": "Rozumíš tomu?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778035"
+    },
+    {
+      "english": "What's new, with you?",
+      "czech": "Co je u tebe nového?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778038"
+    },
+    {
+      "english": "Can I borrow this, briefly?",
+      "czech": "Můžu si to půjčit, na chvíli?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778040"
+    },
+    {
+      "english": "What's your favorite, food?",
+      "czech": "Jaké je tvoje oblíbené, jídlo?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778042"
+    },
+    {
+      "english": "Do you want to join, us?",
+      "czech": "Chceš se přidat, k nám?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778045"
+    },
+    {
+      "english": "How can I help, you?",
+      "czech": "Jak ti můžu pomoct?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778047"
+    },
+    {
+      "english": "Did you enjoy, that?",
+      "czech": "Užilo sis to?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778051"
+    },
+    {
+      "english": "What are you looking, for?",
+      "czech": "Co hledáš?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778054"
+    },
+    {
+      "english": "Is there a problem, here?",
+      "czech": "Je tady nějaký problém?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778056"
+    },
+    {
+      "english": "Could you tell me, the time?",
+      "czech": "Mohl bys mi říct, kolik je hodin?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778058"
+    },
+    {
+      "english": "What's your favorite, song?",
+      "czech": "Jaká je tvoje oblíbená, píseň?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778060"
+    },
+    {
+      "english": "Keep up the good work!",
+      "czech": "Jen tak dál!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778062"
+    },
+    {
+      "english": "You're doing great, really.",
+      "czech": "Skvěle ti to jde, opravdu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778065"
+    },
+    {
+      "english": "That's a fantastic idea!",
+      "czech": "To je skvělý nápad!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778067"
+    },
+    {
+      "english": "I believe in you.",
+      "czech": "Věřím ti.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778069"
+    },
+    {
+      "english": "You've got this!",
+      "czech": "To zvládneš!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778072"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "czech": "Tvůj pohled je cenný.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778074"
+    },
+    {
+      "english": "Never give up, okay?",
+      "czech": "Nikdy to nevzdávej, jo?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778077"
+    },
+    {
+      "english": "That’s very insightful.",
+      "czech": "To je velmi pronikavé.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778083"
+    },
+    {
+      "english": "You inspire me a lot.",
+      "czech": "Hodně mě inspiruješ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778085"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "czech": "Tvoje pozitivní energie je nakažlivá.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778087"
+    },
+    {
+      "english": "I admire your determination.",
+      "czech": "Obdivuji tvé odhodlání.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778089"
+    },
+    {
+      "english": "You're making a real difference.",
+      "czech": "Opravdu něco měníš.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778094"
+    },
+    {
+      "english": "That's a brilliant approach.",
+      "czech": "To je geniální přístup.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778097"
+    },
+    {
+      "english": "Keep shining bright.",
+      "czech": "Záři dál.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778099"
+    },
+    {
+      "english": "You have a good heart.",
+      "czech": "Máš dobré srdce.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778101"
+    },
+    {
+      "english": "Always look on the bright side.",
+      "czech": "Vždycky se dívej z té lepší stránky.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778103"
+    },
+    {
+      "english": "Your kindness is truly appreciated.",
+      "czech": "Tvoje laskavost je opravdu ceněná.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778105"
+    },
+    {
+      "english": "You have a great talent.",
+      "czech": "Máš skvělý talent.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778109"
+    },
+    {
+      "english": "That was a wise decision.",
+      "czech": "To bylo moudré rozhodnutí.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778112"
+    },
+    {
+      "english": "I’m proud of you.",
+      "czech": "Jsem na tebe hrdý/hrdá.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778115"
+    },
+    {
+      "english": "You handled that perfectly.",
+      "czech": "Zvládl/a jsi to dokonale.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778117"
+    },
+    {
+      "english": "Your creativity is amazing.",
+      "czech": "Tvoje kreativita je úžasná.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778119"
+    },
+    {
+      "english": "You always know what to say.",
+      "czech": "Vždycky víš, co říct.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778121"
+    },
+    {
+      "english": "Keep that positive mindset.",
+      "czech": "Udržuj si ten pozitivní přístup.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778123"
+    },
+    {
+      "english": "You deserve all the best.",
+      "czech": "Zasloužíš si to nejlepší.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778125"
+    },
+    {
+      "english": "You make things better.",
+      "czech": "Děláš věci lepší.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778127"
+    },
+    {
+      "english": "Stay true to yourself.",
+      "czech": "Zůstaň sám/sama sebou.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778129"
+    },
+    {
+      "english": "Your effort is noticed.",
+      "czech": "Tvé úsilí je vidět.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778142"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "czech": "Jsi opravdová inspirace.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778144"
+    },
+    {
+      "english": "I truly appreciate your patience, with me.",
+      "czech": "Opravdu si vážím tvé trpělivosti, se mnou.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778146"
+    },
+    {
+      "english": "Your understanding means, a lot.",
+      "czech": "Tvé pochopení znamená, hodně.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778149"
+    },
+    {
+      "english": "Thank you for listening, so intently.",
+      "czech": "Děkuji za naslouchání, tak pozorné.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778151"
+    },
+    {
+      "english": "This moment feels, truly special.",
+      "czech": "Tento okamžik je, opravdu zvláštní.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778153"
+    },
+    {
+      "english": "I'm grateful for this quiet, reflection.",
+      "czech": "Jsem vděčný za tuto klidnou, reflexi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778156"
+    },
+    {
+      "english": "Your honesty, is refreshing.",
+      "czech": "Tvá upřímnost, je osvěžující.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778159"
+    },
+    {
+      "english": "I cherish these, honest conversations.",
+      "czech": "Vážím si těchto, upřímných rozhovorů.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778161"
+    },
+    {
+      "english": "This journey requires, much patience.",
+      "czech": "Tato cesta vyžaduje, hodně trpělivosti.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778163"
+    },
+    {
+      "english": "I'm thankful for your, sincerity.",
+      "czech": "Jsem vděčný za tvou, upřímnost.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778166"
+    },
+    {
+      "english": "Your presence brings, such peace.",
+      "czech": "Tvá přítomnost přináší, takový klid.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778168"
+    },
+    {
+      "english": "I feel a deep, gratitude now.",
+      "czech": "Cítím hlubokou, vděčnost teď.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778170"
+    },
+    {
+      "english": "Thank you for your, gentle guidance.",
+      "czech": "Děkuji za tvé, jemné vedení.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778174"
+    },
+    {
+      "english": "Your insights are, truly helpful.",
+      "czech": "Tvůj postřeh je, opravdu užitečný.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778176"
+    },
+    {
+      "english": "I appreciate your, thoughtful words.",
+      "czech": "Vážím si tvých, promyšlených slov.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778178"
+    },
+    {
+      "english": "This feeling of calm, is welcome.",
+      "czech": "Tento pocit klidu, je vítaný.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778181"
+    },
+    {
+      "english": "I'm grateful for this, shared understanding.",
+      "czech": "Jsem vděčný za toto, sdílené porozumění.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778183"
+    },
+    {
+      "english": "Your kindness, touches my heart.",
+      "czech": "Tvá laskavost, mi sahá do srdce.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778185"
+    },
+    {
+      "english": "Thank you for believing, in this.",
+      "czech": "Děkuji za důvěru, v to.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778187"
+    },
+    {
+      "english": "I value your, honest opinion.",
+      "czech": "Cením si tvého, upřímného názoru.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778189"
+    },
+    {
+      "english": "This slow progress, is fine.",
+      "czech": "Tento pomalý pokrok, je v pořádku.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778191"
+    },
+    {
+      "english": "I'm thankful for your, quiet strength.",
+      "czech": "Jsem vděčný za tvou, tichou sílu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778194"
+    },
+    {
+      "english": "Your perspective, helps me grow.",
+      "czech": "Tvůj pohled, mi pomáhá růst.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778197"
+    },
+    {
+      "english": "Thank you for your, steady support.",
+      "czech": "Děkuji za tvou, stálou podporu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778199"
+    },
+    {
+      "english": "I feel understood, truly.",
+      "czech": "Cítím se pochopený, opravdu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778201"
+    },
+    {
+      "english": "Your patience is, a gift.",
+      "czech": "Tvá trpělivost je, dar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778203"
+    },
+    {
+      "english": "I appreciate this, calm moment.",
+      "czech": "Vážím si tohoto, klidného okamžiku.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778205"
+    },
+    {
+      "english": "Thank you for being, so genuine.",
+      "czech": "Děkuji za to, že jsi tak opravdový.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778207"
+    },
+    {
+      "english": "This deep connection, matters.",
+      "czech": "Toto hluboké spojení, je důležité.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778209"
+    },
+    {
+      "english": "I'm grateful for your, thoughtful nature.",
+      "czech": "Jsem vděčný za tvou, ohleduplnou povahu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778211"
+    },
+    {
+      "english": "Great job, today's lesson went well.",
+      "czech": "Skvělá práce, dnešní lekce šla dobře.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778214"
+    },
+    {
+      "english": "I appreciate your help, with this task.",
+      "czech": "Oceňuji tvou pomoc, s tímto úkolem.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778218"
+    },
+    {
+      "english": "This practical tip, was very useful.",
+      "czech": "Tento praktický tip, byl velmi užitečný.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-17T05:25:26.778220"
+    }
+  ],
+  "last_updated": "2026-10-17T05:25:26.778222"
 }
