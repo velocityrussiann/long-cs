@@ -1439,7 +1439,727 @@
       "czech": "Naučte se pár frází, hodně to pomůže.",
       "category": "Success",
       "generated_at": "2026-10-18T05:33:16.918753"
+    },
+    {
+      "english": "How much is this, please?",
+      "czech": "Kolik to stojí, prosím?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657726"
+    },
+    {
+      "english": "That's too expensive.",
+      "czech": "To je moc drahé.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657741"
+    },
+    {
+      "english": "Can I see that?",
+      "czech": "Můžu se na to podívat?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657745"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "czech": "Máte to v modré barvě?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657749"
+    },
+    {
+      "english": "Where can I pay?",
+      "czech": "Kde můžu zaplatit?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657752"
+    },
+    {
+      "english": "I'm just looking.",
+      "czech": "Jen se dívám.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657771"
+    },
+    {
+      "english": "What's the price?",
+      "czech": "Jaká je cena?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657775"
+    },
+    {
+      "english": "Is there a discount?",
+      "czech": "Je tady sleva?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657780"
+    },
+    {
+      "english": "I'll take it.",
+      "czech": "Vezmu si to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657784"
+    },
+    {
+      "english": "I don't need it.",
+      "czech": "Nepotřebuji to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657788"
+    },
+    {
+      "english": "Do you accept cards?",
+      "czech": "Berete karty?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657791"
+    },
+    {
+      "english": "Can I have a bag?",
+      "czech": "Můžu dostat tašku?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657794"
+    },
+    {
+      "english": "It's a good deal.",
+      "czech": "To je dobrý kup.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657797"
+    },
+    {
+      "english": "I need something cheaper.",
+      "czech": "Potřebuji něco levnějšího.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657800"
+    },
+    {
+      "english": "When do you open?",
+      "czech": "Kdy otevíráte?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657803"
+    },
+    {
+      "english": "When do you close?",
+      "czech": "Kdy zavíráte?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657806"
+    },
+    {
+      "english": "This is perfect.",
+      "czech": "To je perfektní.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657808"
+    },
+    {
+      "english": "I'll think about it.",
+      "czech": "Rozmyslím si to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657812"
+    },
+    {
+      "english": "What is this made of?",
+      "czech": "Z čeho je to?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657814"
+    },
+    {
+      "english": "Can I try this on?",
+      "czech": "Můžu si to zkusit?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657820"
+    },
+    {
+      "english": "Where is the changing room?",
+      "czech": "Kde je zkušební kabinka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657823"
+    },
+    {
+      "english": "This fits well.",
+      "czech": "To mi sedí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657826"
+    },
+    {
+      "english": "This doesn't fit.",
+      "czech": "To mi nesedí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657829"
+    },
+    {
+      "english": "I need a receipt.",
+      "czech": "Potřebuji účtenku.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657832"
+    },
+    {
+      "english": "Can I get a refund?",
+      "czech": "Můžu to vrátit?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657835"
+    },
+    {
+      "english": "This is exactly what I wanted.",
+      "czech": "To je přesně to, co jsem chtěl/chtěla.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657838"
+    },
+    {
+      "english": "It's on sale.",
+      "czech": "Je to ve slevě.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657841"
+    },
+    {
+      "english": "That's a bargain!",
+      "czech": "To je výhodné!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657844"
+    },
+    {
+      "english": "I can't afford that.",
+      "czech": "Na to nemám.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657847"
+    },
+    {
+      "english": "Do you have anything else?",
+      "czech": "Máte ještě něco?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657853"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "czech": "Dobrý den, můžete mi pomoct?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657856"
+    },
+    {
+      "english": "What do you recommend, please?",
+      "czech": "Co mi doporučíte, prosím?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657860"
+    },
+    {
+      "english": "Is this the latest model?",
+      "czech": "Je tohle nejnovější model?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657864"
+    },
+    {
+      "english": "Could you show me something similar?",
+      "czech": "Ukážete mi něco podobného?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657868"
+    },
+    {
+      "english": "Where can I find the checkout?",
+      "czech": "Kde najdu pokladnu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657871"
+    },
+    {
+      "english": "Is this for sale, by chance?",
+      "czech": "Je to náhodou na prodej?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657874"
+    },
+    {
+      "english": "What's the best price you can offer?",
+      "czech": "Jaká je nejlepší cena, co nabídnete?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657878"
+    },
+    {
+      "english": "Do you have this in a smaller size?",
+      "czech": "Máte to v menší velikosti?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657883"
+    },
+    {
+      "english": "I'm not sure about the color.",
+      "czech": "Nejsem si jistý/jistá tou barvou.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657886"
+    },
+    {
+      "english": "Can I compare these two items?",
+      "czech": "Mohu porovnat tyto dva kusy?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657889"
+    },
+    {
+      "english": "How much does this cost in total?",
+      "czech": "Kolik to stojí celkem?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657892"
+    },
+    {
+      "english": "Is this genuine leather?",
+      "czech": "Je to pravá kůže?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657895"
+    },
+    {
+      "english": "What are the opening hours?",
+      "czech": "Jaká je otevírací doba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657988"
+    },
+    {
+      "english": "Can I pay with a foreign card?",
+      "czech": "Můžu platit zahraniční kartou?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657992"
+    },
+    {
+      "english": "Do you offer gift wrapping?",
+      "czech": "Nabízíte balení dárků?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657995"
+    },
+    {
+      "english": "I'm looking for a specific brand.",
+      "czech": "Hledám konkrétní značku.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.657998"
+    },
+    {
+      "english": "Is there a special offer today?",
+      "czech": "Je dneska nějaká akce?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658001"
+    },
+    {
+      "english": "This seems like a good quality.",
+      "czech": "Tohle vypadá kvalitně.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658004"
+    },
+    {
+      "english": "What about a different color option?",
+      "czech": "A co jiná barevná varianta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658007"
+    },
+    {
+      "english": "Can I get a student discount?",
+      "czech": "Mám nárok na studentskou slevu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658010"
+    },
+    {
+      "english": "Where are the nearest restrooms?",
+      "czech": "Kde jsou nejbližší toalety?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658013"
+    },
+    {
+      "english": "I need to return this item.",
+      "czech": "Potřebuji vrátit tuto věc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658016"
+    },
+    {
+      "english": "Is this item handmade?",
+      "czech": "Je tato věc ručně dělaná?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658019"
+    },
+    {
+      "english": "What's the warranty period?",
+      "czech": "Jaká je záruční doba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658022"
+    },
+    {
+      "english": "Can I reserve this for later?",
+      "czech": "Mohu si to rezervovat na později?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658025"
+    },
+    {
+      "english": "This is exactly what I was looking for!",
+      "czech": "To je přesně to, co jsem hledal/hledala!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658028"
+    },
+    {
+      "english": "Is there a loyalty program?",
+      "czech": "Máte věrnostní program?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658031"
+    },
+    {
+      "english": "Thank you for your help.",
+      "czech": "Děkuji za vaši pomoc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658034"
+    },
+    {
+      "english": "You deserve this treat, enjoy it.",
+      "czech": "Zasloužíš si to, užij si to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658037"
+    },
+    {
+      "english": "It's okay to splurge sometimes.",
+      "czech": "Je v pořádku, utratit občas víc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658041"
+    },
+    {
+      "english": "Think smart, shop wiser.",
+      "czech": "Mysli chytře, nakupuj moudřeji.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658044"
+    },
+    {
+      "english": "This is a good investment, really.",
+      "czech": "To je dobrá investice, opravdu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658053"
+    },
+    {
+      "english": "You found a hidden gem!",
+      "czech": "Našel jsi skrytý poklad!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658058"
+    },
+    {
+      "english": "Don't overthink it, just buy it.",
+      "czech": "Nemysli na to moc, prostě to kup.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658061"
+    },
+    {
+      "english": "Your intuition is usually right.",
+      "czech": "Tvá intuice má obvykle pravdu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658064"
+    },
+    {
+      "english": "Feel good about your purchase.",
+      "czech": "Cítíš se dobře z nákupu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658068"
+    },
+    {
+      "english": "You're a smart shopper, for sure.",
+      "czech": "Jsi šikovný nakupující, to jistě.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658075"
+    },
+    {
+      "english": "This will bring you joy.",
+      "czech": "Tohle ti přinese radost.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658078"
+    },
+    {
+      "english": "Focus on quality, not just price.",
+      "czech": "Zaměř se na kvalitu, ne jen cenu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658081"
+    },
+    {
+      "english": "You made a great choice.",
+      "czech": "Udělal jsi skvělou volbu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658085"
+    },
+    {
+      "english": "Treat yourself, you earned it.",
+      "czech": "Odměň se, zasloužil sis to.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658088"
+    },
+    {
+      "english": "Every purchase is a learning experience.",
+      "czech": "Každý nákup je zkušenost.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658091"
+    },
+    {
+      "english": "Believe in finding the best deal.",
+      "czech": "Věř, že najdeš nejlepší nabídku.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658094"
+    },
+    {
+      "english": "This is worth every penny.",
+      "czech": "Tohle stojí za každou korunu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658098"
+    },
+    {
+      "english": "You have a good eye for deals.",
+      "czech": "Máš dobré oko na slevy.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658100"
+    },
+    {
+      "english": "Shopping can be therapeutic, really.",
+      "czech": "Nakupování může být terapie, fakt.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658104"
+    },
+    {
+      "english": "Stay positive, the right item will appear.",
+      "czech": "Zůstaň pozitivní, správná věc se objeví.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658107"
+    },
+    {
+      "english": "You're developing great shopping habits.",
+      "czech": "Vytváříš si skvělé nákupní návyky.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658111"
+    },
+    {
+      "english": "This brings value to your life.",
+      "czech": "Toto přináší hodnotu tvému životu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658114"
+    },
+    {
+      "english": "Don't settle for less than you want.",
+      "czech": "Nesmiř se s něčím menším, než chceš.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658119"
+    },
+    {
+      "english": "Confidence is key in bargaining.",
+      "czech": "Sebevědomí je klíčové při smlouvání.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658122"
+    },
+    {
+      "english": "You're mastering the art of shopping.",
+      "czech": "Zvládáš umění nakupování.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658125"
+    },
+    {
+      "english": "Celebrate small victories, like good prices.",
+      "czech": "Oslavuj malé výhry, třeba dobré ceny.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658128"
+    },
+    {
+      "english": "This purchase makes perfect sense.",
+      "czech": "Tenhle nákup dává dokonalý smysl.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658131"
+    },
+    {
+      "english": "You're getting better at this!",
+      "czech": "V tomhle se zlepšuješ!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658134"
+    },
+    {
+      "english": "Believe in your budget, stick to it.",
+      "czech": "Věř svému rozpočtu, drž se ho.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658138"
+    },
+    {
+      "english": "You're finding value everywhere.",
+      "czech": "Nacházíš hodnotu všude.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658141"
+    },
+    {
+      "english": "A little treat, why not?",
+      "czech": "Malá radost, proč ne?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658145"
+    },
+    {
+      "english": "This price makes me a bit nervous, honestly.",
+      "czech": "Tahle cena mě upřímně trochu děsí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658148"
+    },
+    {
+      "english": "I need to reflect, this is a big decision.",
+      "czech": "Potřebuji si to promyslet, je to velké rozhodnutí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658151"
+    },
+    {
+      "english": "Perhaps a little patience will bring a better offer.",
+      "czech": "Možná trochu trpělivosti přinese lepší nabídku.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658154"
+    },
+    {
+      "english": "I'm feeling a bit hesitant, can you explain more?",
+      "czech": "Cítím se trochu váhavě, můžete vysvětlit více?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658158"
+    },
+    {
+      "english": "Is this truly the best price available?",
+      "czech": "Je to opravdu nejlepší možná cena?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658161"
+    },
+    {
+      "english": "I'm trying to be mindful of my spending.",
+      "czech": "Snažím se dávat pozor na své výdaje.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658179"
+    },
+    {
+      "english": "This really tests my budget, you know.",
+      "czech": "Tohle mi opravdu testuje rozpočet, víte.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658183"
+    },
+    {
+      "english": "I'm wondering if I'll regret this later.",
+      "czech": "Přemýšlím, jestli toho později nebudu litovat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658186"
+    },
+    {
+      "english": "It's a lot to think about, isn't it?",
+      "czech": "Je toho hodně na zamyšlení, že?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658190"
+    },
+    {
+      "english": "I need to trust my gut feeling on this.",
+      "czech": "Musím věřit svému instinktu v tomto.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658193"
+    },
+    {
+      "english": "Are there any hidden costs I should know?",
+      "czech": "Jsou tam nějaké skryté náklady, o kterých bych měl vědět?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658198"
+    },
+    {
+      "english": "My heart says yes, but my wallet says no.",
+      "czech": "Srdce říká ano, ale peněženka říká ne.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658201"
+    },
+    {
+      "english": "I'm searching for that perfect balance.",
+      "czech": "Hledám tu dokonalou rovnováhu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658205"
+    },
+    {
+      "english": "Let me sleep on it, please.",
+      "czech": "Nechte mě to ještě promyslet, prosím.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658208"
+    },
+    {
+      "english": "This price feels a little steep, to be honest.",
+      "czech": "Ta cena mi přijde trochu vysoká, abych byl upřímný.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658211"
+    },
+    {
+      "english": "I'm carefully considering all the options.",
+      "czech": "Pečlivě zvažuji všechny možnosti.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658214"
+    },
+    {
+      "english": "Does this purchase align with my values?",
+      "czech": "Odpovídá tento nákup mým hodnotám?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658217"
+    },
+    {
+      "english": "I'm hoping for a good feeling after this.",
+      "czech": "Doufám v dobrý pocit po tomto.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658220"
+    },
+    {
+      "english": "This requires some deep thought, truly.",
+      "czech": "Tohle vyžaduje hluboké zamyšlení, opravdu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658222"
+    },
+    {
+      "english": "I need to ensure it’s a sound decision.",
+      "czech": "Potřebuji si zajistit, že to je rozumné rozhodnutí.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658227"
+    },
+    {
+      "english": "Is there any room for negotiation here?",
+      "czech": "Je tu nějaký prostor pro vyjednávání?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658229"
+    },
+    {
+      "english": "I’m just trying to be sensible about this.",
+      "czech": "Jen se snažím být rozumný ohledně toho.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658233"
+    },
+    {
+      "english": "This situation makes me feel uneasy.",
+      "czech": "Tato situace ve mně vyvolává neklid.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658235"
+    },
+    {
+      "english": "I want to be sure before I commit.",
+      "czech": "Chci si být jistý, než se zavážu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658238"
+    },
+    {
+      "english": "Let’s see if we can find a compromise.",
+      "czech": "Uvidíme, jestli najdeme kompromis.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658242"
+    },
+    {
+      "english": "I’m evaluating the long-term value.",
+      "czech": "Hodnotím dlouhodobou hodnotu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658247"
+    },
+    {
+      "english": "My intuition is telling me something here.",
+      "czech": "Můj instinkt mi tu něco říká.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658250"
+    },
+    {
+      "english": "This is a delicate matter, really.",
+      "czech": "Tohle je delikátní záležitost, opravdu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658252"
+    },
+    {
+      "english": "I'm seeking genuine value for my money.",
+      "czech": "Hledám skutečnou hodnotu za své peníze.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658255"
+    },
+    {
+      "english": "Let me reconsider this purchase.",
+      "czech": "Nechte mě zvážit tento nákup znovu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658258"
+    },
+    {
+      "english": "Always check, the final price at the register.",
+      "czech": "Vždycky zkontrolujte, konečnou cenu u pokladny.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658262"
+    },
+    {
+      "english": "Do you have, a loyalty card perhaps?",
+      "czech": "Máte, věrnostní kartičku náhodou?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T05:53:26.658265"
     }
   ],
-  "last_updated": "2026-10-18T05:33:16.918754"
+  "last_updated": "2026-10-19T05:53:26.658267"
 }
