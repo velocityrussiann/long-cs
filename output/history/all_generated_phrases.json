@@ -2159,7 +2159,727 @@
       "czech": "Máte, věrnostní kartičku náhodou?",
       "category": "Shopping & Prices",
       "generated_at": "2026-10-19T05:53:26.658265"
+    },
+    {
+      "english": "Exactly, I agree completely.",
+      "czech": "Přesně tak, naprosto souhlasím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568333"
+    },
+    {
+      "english": "Yes, that's true.",
+      "czech": "Ano, to je pravda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568351"
+    },
+    {
+      "english": "I think so too.",
+      "czech": "Myslím si to taky.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568354"
+    },
+    {
+      "english": "You're right about that.",
+      "czech": "V tom máš pravdu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568357"
+    },
+    {
+      "english": "Absolutely, I feel the same.",
+      "czech": "Určitě, cítím to stejně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568359"
+    },
+    {
+      "english": "I see your point.",
+      "czech": "Chápu, co myslíš.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568362"
+    },
+    {
+      "english": "Good point, I didn't think of that.",
+      "czech": "Dobrý postřeh, o tom jsem nepřemýšlel/a.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568364"
+    },
+    {
+      "english": "That makes sense.",
+      "czech": "To dává smysl.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568368"
+    },
+    {
+      "english": "I agree with you.",
+      "czech": "Souhlasím s tebou.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568371"
+    },
+    {
+      "english": "I couldn't agree more.",
+      "czech": "Nemůžu víc souhlasit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568373"
+    },
+    {
+      "english": "On the contrary.",
+      "czech": "Naopak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568375"
+    },
+    {
+      "english": "I don't think so.",
+      "czech": "Nemyslím si.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568377"
+    },
+    {
+      "english": "That's not quite right.",
+      "czech": "To není úplně ono.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568379"
+    },
+    {
+      "english": "I disagree, actually.",
+      "czech": "Nesouhlasím, vlastně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568382"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "czech": "O tom si nejsem jistý/á.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568384"
+    },
+    {
+      "english": "We see things differently.",
+      "czech": "Vidíme to jinak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568386"
+    },
+    {
+      "english": "I have a different opinion.",
+      "czech": "Mám jiný názor.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568388"
+    },
+    {
+      "english": "No, that's not it.",
+      "czech": "Ne, to není ono.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568390"
+    },
+    {
+      "english": "Perhaps, but consider this.",
+      "czech": "Možná, ale zkus tohle.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568392"
+    },
+    {
+      "english": "I understand, but still...",
+      "czech": "Chápu, ale přesto...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568398"
+    },
+    {
+      "english": "That's debatable.",
+      "czech": "To je diskutabilní.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568400"
+    },
+    {
+      "english": "I beg to differ.",
+      "czech": "Dovolím si nesouhlasit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568402"
+    },
+    {
+      "english": "You might be right.",
+      "czech": "Možná máš pravdu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568404"
+    },
+    {
+      "english": "I'm not convinced yet.",
+      "czech": "Ještě nejsem přesvědčený/á.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568406"
+    },
+    {
+      "english": "Let's agree to disagree.",
+      "czech": "Dohodněme se, že nesouhlasíme.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568408"
+    },
+    {
+      "english": "That's one way to look at it.",
+      "czech": "To je jeden pohled na věc.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568410"
+    },
+    {
+      "english": "I can't say I agree.",
+      "czech": "Nemohu říct, že souhlasím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568412"
+    },
+    {
+      "english": "That's not my experience.",
+      "czech": "To není moje zkušenost.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568415"
+    },
+    {
+      "english": "You've got a point there.",
+      "czech": "Tady máš pravdu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568417"
+    },
+    {
+      "english": "I'm on the fence about it.",
+      "czech": "Jsem na vážkách.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568419"
+    },
+    {
+      "english": "What do you think, really?",
+      "czech": "Co si o tom, vlastně myslíš?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568421"
+    },
+    {
+      "english": "How do you see this situation?",
+      "czech": "Jak tuto situaci vidíš?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568423"
+    },
+    {
+      "english": "Could you explain your reasoning?",
+      "czech": "Mohl bys vysvětlit svůj důvod?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568426"
+    },
+    {
+      "english": "Is that your final take?",
+      "czech": "Je to tvůj konečný názor?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568428"
+    },
+    {
+      "english": "Are you absolutely sure about this?",
+      "czech": "Jsi si tím naprosto jistá/jistý?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568430"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "czech": "Jaký máš na to pohled?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568433"
+    },
+    {
+      "english": "Do you genuinely believe that?",
+      "czech": "Opravdu tomu věříš?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568435"
+    },
+    {
+      "english": "Could we look at it differently?",
+      "czech": "Mohli bychom se na to podívat jinak?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568437"
+    },
+    {
+      "english": "What are your reservations, if any?",
+      "czech": "Jaké máš výhrady, pokud nějaké jsou?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568439"
+    },
+    {
+      "english": "Tell me more, I'm listening.",
+      "czech": "Řekni mi víc, poslouchám.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568441"
+    },
+    {
+      "english": "Is there another angle here?",
+      "czech": "Není tu ještě jiný úhel pohledu?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568444"
+    },
+    {
+      "english": "What makes you say that?",
+      "czech": "Co tě k tomu vede?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568448"
+    },
+    {
+      "english": "I'm curious about your opinion.",
+      "czech": "Jsem zvědavý/zvědavá na tvůj názor.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568451"
+    },
+    {
+      "english": "Could you elaborate on that?",
+      "czech": "Mohla bys to rozebrat podrobněji?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568453"
+    },
+    {
+      "english": "Does that align with your thoughts?",
+      "czech": "Souhlasí to s tvými myšlenkami?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568454"
+    },
+    {
+      "english": "What's your honest assessment?",
+      "czech": "Jaké je tvé upřímné zhodnocení?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568456"
+    },
+    {
+      "english": "Did I understand you correctly?",
+      "czech": "Rozuměl/rozuměla jsem ti správně?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568459"
+    },
+    {
+      "english": "What's your counter-argument here?",
+      "czech": "Jaký je tvůj protiargument zde?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568463"
+    },
+    {
+      "english": "Is there common ground we can find?",
+      "czech": "Najdeme společnou řeč?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568465"
+    },
+    {
+      "english": "How firm is your stance?",
+      "czech": "Jak pevný je tvůj postoj?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568467"
+    },
+    {
+      "english": "I'm interested in your viewpoint.",
+      "czech": "Zajímá mě tvůj pohled.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568469"
+    },
+    {
+      "english": "What if we considered this?",
+      "czech": "Co kdybychom zvážili tohle?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568473"
+    },
+    {
+      "english": "Can you give me an example?",
+      "czech": "Můžeš mi dát příklad?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568475"
+    },
+    {
+      "english": "What's the biggest objection?",
+      "czech": "Jaká je největší námitka?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568477"
+    },
+    {
+      "english": "Are we on the same page?",
+      "czech": "Jsme na stejné vlně?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568479"
+    },
+    {
+      "english": "What's your gut feeling?",
+      "czech": "Jaký máš pocit?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568481"
+    },
+    {
+      "english": "Can you challenge my idea?",
+      "czech": "Můžeš zpochybnit můj nápad?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568483"
+    },
+    {
+      "english": "What are the pros and cons?",
+      "czech": "Jaké jsou pro a proti?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568485"
+    },
+    {
+      "english": "How do you feel about that suggestion?",
+      "czech": "Jaký máš názor na ten návrh?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568487"
+    },
+    {
+      "english": "Is there any room for doubt?",
+      "czech": "Je tu nějaký prostor pro pochybnosti?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568489"
+    },
+    {
+      "english": "That's exactly how I see it, yes.",
+      "czech": "Přesně tak to vidím, ano.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568491"
+    },
+    {
+      "english": "Couldn't have said it better myself.",
+      "czech": "Lépe bych to neřekl.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568494"
+    },
+    {
+      "english": "You hit the nail on the head.",
+      "czech": "Trefil jsi hřebíček na hlavičku.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568496"
+    },
+    {
+      "english": "That's spot on, really.",
+      "czech": "To je přesně ono, vážně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568500"
+    },
+    {
+      "english": "I'm right there with you.",
+      "czech": "Jsem na tom stejně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568502"
+    },
+    {
+      "english": "Makes perfect sense to me.",
+      "czech": "Dává mi to dokonalý smysl.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568504"
+    },
+    {
+      "english": "Exactly my thinking, cheers.",
+      "czech": "Přesně moje myšlenka, díky.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568506"
+    },
+    {
+      "english": "I totally agree, no doubt.",
+      "czech": "Naprosto souhlasím, bez pochyb.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568509"
+    },
+    {
+      "english": "You took the words right out of my mouth.",
+      "czech": "Vzal jsi mi slova z úst.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568511"
+    },
+    {
+      "english": "That's a good point, I admit.",
+      "czech": "To je dobrý postřeh, přiznávám.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568513"
+    },
+    {
+      "english": "I can't argue with that.",
+      "czech": "Nemohu s tím polemizovat.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568515"
+    },
+    {
+      "english": "That's not quite how I see it.",
+      "czech": "To úplně nevidím takhle.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568517"
+    },
+    {
+      "english": "I think we'll have to disagree here.",
+      "czech": "Myslím, že se tu neshodneme.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568520"
+    },
+    {
+      "english": "That doesn't sound right to me.",
+      "czech": "To mi nezně nepatří.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568522"
+    },
+    {
+      "english": "Respectfully, I disagree.",
+      "czech": "S respektem nesouhlasím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568524"
+    },
+    {
+      "english": "That's not my take on it.",
+      "czech": "To není můj pohled na to.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568528"
+    },
+    {
+      "english": "I'd put it differently.",
+      "czech": "Já bych to řekl jinak.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568530"
+    },
+    {
+      "english": "We have different perspectives, clearly.",
+      "czech": "Máme zjevně rozdílné pohledy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568533"
+    },
+    {
+      "english": "I'm leaning the other way.",
+      "czech": "Přikláním se spíše na druhou stranu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568535"
+    },
+    {
+      "english": "That's not how I'd interpret it.",
+      "czech": "Já bych to tak neinterpretoval.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568537"
+    },
+    {
+      "english": "I have reservations about that idea.",
+      "czech": "Mám k té myšlence výhrady.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568539"
+    },
+    {
+      "english": "I see where you're coming from, but...",
+      "czech": "Chápu, odkud jdeš, ale...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568541"
+    },
+    {
+      "english": "That's not entirely convincing.",
+      "czech": "To není úplně přesvědčivé.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568545"
+    },
+    {
+      "english": "I can't quite get behind that.",
+      "czech": "Za tím si nemůžu stát.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568547"
+    },
+    {
+      "english": "You might be mistaken there.",
+      "czech": "Tam se můžeš mýlit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568549"
+    },
+    {
+      "english": "That's a bold statement, frankly.",
+      "czech": "To je upřímně řečeno odvážné tvrzení.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568552"
+    },
+    {
+      "english": "I remain unconvinced.",
+      "czech": "Zůstávám nepřesvědčený.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568554"
+    },
+    {
+      "english": "Honestly, that touches me deeply.",
+      "czech": "Upřímně, to se mě hluboce dotýká.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568556"
+    },
+    {
+      "english": "My gut tells me, we're not aligned.",
+      "czech": "Můj instinkt mi říká, nejsme naladění.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568559"
+    },
+    {
+      "english": "It's hard to accept, but I must.",
+      "czech": "Je těžké to přijmout, ale musím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568561"
+    },
+    {
+      "english": "That resonates with my own thoughts.",
+      "czech": "To rezonuje s mými vlastními myšlenkami.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568563"
+    },
+    {
+      "english": "I need more time, to truly feel.",
+      "czech": "Potřebuji více času, abych to opravdu cítil.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568565"
+    },
+    {
+      "english": "This viewpoint, it really makes me pause.",
+      "czech": "Tento pohled, ten mě opravdu nutí k zamyšlení.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568568"
+    },
+    {
+      "english": "I feel a disconnect, between our views.",
+      "czech": "Cítím nesoulad, mezi našimi názory.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568570"
+    },
+    {
+      "english": "My heart says, this is the right path.",
+      "czech": "Moje srdce říká, toto je správná cesta.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568572"
+    },
+    {
+      "english": "We're approaching it differently, emotionally.",
+      "czech": "Přistupujeme k tomu jinak, emocionálně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568575"
+    },
+    {
+      "english": "I'm struggling to reconcile this.",
+      "czech": "Mám potíže to sladit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568577"
+    },
+    {
+      "english": "It sparks something deep inside me.",
+      "czech": "To ve mně něco hlubokého jiskří.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568581"
+    },
+    {
+      "english": "This feeling, it's hard to articulate.",
+      "czech": "Tento pocit, je těžké ho vyjádřit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568583"
+    },
+    {
+      "english": "I sense a subtle tension here.",
+      "czech": "Cítím zde jemné napětí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568585"
+    },
+    {
+      "english": "Let's explore this shared feeling.",
+      "czech": "Pojďme prozkoumat tento sdílený pocit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568587"
+    },
+    {
+      "english": "My inner voice, it's quiet on this.",
+      "czech": "Můj vnitřní hlas, o tom mlčí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568589"
+    },
+    {
+      "english": "This idea sits uneasily with me.",
+      "czech": "Tato myšlenka mi nesedí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568591"
+    },
+    {
+      "english": "It requires sincere introspection, I think.",
+      "czech": "Vyžaduje upřímnou sebereflexi, myslím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568594"
+    },
+    {
+      "english": "I feel a genuine connection to that.",
+      "czech": "Cítím k tomu skutečné spojení.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568596"
+    },
+    {
+      "english": "Something feels off, but I can't pinpoint.",
+      "czech": "Něco mi nesedí, ale nemohu určit.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568598"
+    },
+    {
+      "english": "This truth, it strikes a chord.",
+      "czech": "Tato pravda, ta mě zasáhla.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568600"
+    },
+    {
+      "english": "I need to process this feeling.",
+      "czech": "Potřebuji tento pocit zpracovat.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568602"
+    },
+    {
+      "english": "It stirs a deep emotional response.",
+      "czech": "To vzbuzuje hlubokou emocionální odezvu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568604"
+    },
+    {
+      "english": "This insight, it brings me peace.",
+      "czech": "Tento vhled, ten mi přináší klid.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568608"
+    },
+    {
+      "english": "I'm hesitant to fully commit yet.",
+      "czech": "Zatím váhám plně se zavázat.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568610"
+    },
+    {
+      "english": "My intuition is screaming 'no'.",
+      "czech": "Moje intuice křičí 'ne'.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568613"
+    },
+    {
+      "english": "This resonates with my core values.",
+      "czech": "Toto rezonuje s mými základními hodnotami.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568615"
+    },
+    {
+      "english": "I feel a profound sense of understanding.",
+      "czech": "Cítím hluboký pocit porozumění.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568617"
+    },
+    {
+      "english": "It challenges my personal beliefs.",
+      "czech": "To zpochybňuje mé osobní přesvědčení.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568620"
+    },
+    {
+      "english": "There's a quiet wisdom here, I feel.",
+      "czech": "Je zde tichá moudrost, cítím.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568623"
+    },
+    {
+      "english": "My emotional response is strong, surprisingly.",
+      "czech": "Moje emocionální reakce je silná, překvapivě.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568625"
+    },
+    {
+      "english": "That makes total sense, actually.",
+      "czech": "To dává vlastně úplný smysl.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568627"
+    },
+    {
+      "english": "I'd probably do it the same.",
+      "czech": "Já bych to asi udělal stejně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568630"
+    },
+    {
+      "english": "Exactly, my thoughts too.",
+      "czech": "Přesně tak, moje myšlenky taky.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-20T05:45:52.568632"
     }
   ],
-  "last_updated": "2026-10-19T05:53:26.658267"
+  "last_updated": "2026-10-20T05:45:52.568634"
 }
