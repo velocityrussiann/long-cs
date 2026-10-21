@@ -2879,7 +2879,727 @@
       "czech": "Přesně tak, moje myšlenky taky.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-20T05:45:52.568632"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "czech": "Dobré ráno, všichni.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857548"
+    },
+    {
+      "english": "How are you today?",
+      "czech": "Jak se dnes máte?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857558"
+    },
+    {
+      "english": "I'm doing well, thanks.",
+      "czech": "Mám se dobře, děkuji.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857560"
+    },
+    {
+      "english": "What are you doing?",
+      "czech": "Co děláš?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857563"
+    },
+    {
+      "english": "I'm just getting started.",
+      "czech": "Právě začínám.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857565"
+    },
+    {
+      "english": "Time for coffee, right?",
+      "czech": "Čas na kávu, že ano?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857566"
+    },
+    {
+      "english": "Let's get going.",
+      "czech": "Pojďme na to.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857568"
+    },
+    {
+      "english": "What's the plan?",
+      "czech": "Jaký je plán?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857572"
+    },
+    {
+      "english": "I need to leave soon.",
+      "czech": "Musím brzy odejít.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857573"
+    },
+    {
+      "english": "See you later.",
+      "czech": "Uvidíme se později.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857575"
+    },
+    {
+      "english": "Have a good day.",
+      "czech": "Mějte hezký den.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857577"
+    },
+    {
+      "english": "What's for breakfast?",
+      "czech": "Co je k snídani?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857578"
+    },
+    {
+      "english": "I'm still sleepy.",
+      "czech": "Jsem ještě ospalý/ospalá.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857580"
+    },
+    {
+      "english": "Let's do this.",
+      "czech": "Jdeme na to.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857581"
+    },
+    {
+      "english": "Ready when you are.",
+      "czech": "Jsem připravený/připravená.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857627"
+    },
+    {
+      "english": "Just a moment, please.",
+      "czech": "Okamžik, prosím.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857628"
+    },
+    {
+      "english": "I'll be right back.",
+      "czech": "Hned budu zpátky.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857630"
+    },
+    {
+      "english": "What time is it?",
+      "czech": "Kolik je hodin?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857631"
+    },
+    {
+      "english": "It's time to go.",
+      "czech": "Je čas jít.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857633"
+    },
+    {
+      "english": "Don't forget anything.",
+      "czech": "Nezapomeň na nic.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857635"
+    },
+    {
+      "english": "I'm heading out now.",
+      "czech": "Už jdu ven.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857636"
+    },
+    {
+      "english": "Let's start the day.",
+      "czech": "Začněme den.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857638"
+    },
+    {
+      "english": "How was your morning?",
+      "czech": "Jaké bylo vaše ráno?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857639"
+    },
+    {
+      "english": "Everything okay?",
+      "czech": "Je všechno v pořádku?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857640"
+    },
+    {
+      "english": "I'm on my way.",
+      "czech": "Jsem na cestě.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857642"
+    },
+    {
+      "english": "Let's get moving.",
+      "czech": "Pohněme se.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857643"
+    },
+    {
+      "english": "Need anything?",
+      "czech": "Potřebuješ něco?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857645"
+    },
+    {
+      "english": "Just waking up.",
+      "czech": "Právě se probouzím.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857646"
+    },
+    {
+      "english": "Let's begin.",
+      "czech": "Začneme.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857648"
+    },
+    {
+      "english": "What's next?",
+      "czech": "Co dál?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857649"
+    },
+    {
+      "english": "What are your morning plans?",
+      "czech": "Jaké máš ranní plány?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857650"
+    },
+    {
+      "english": "Did you sleep well last night?",
+      "czech": "Spal/Spala jsi dobře v noci?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857652"
+    },
+    {
+      "english": "What's the first thing you do?",
+      "czech": "Co děláš jako první?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857654"
+    },
+    {
+      "english": "Can you remind me later?",
+      "czech": "Můžeš mi to pak připomenout?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857657"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "czech": "V kolik obvykle vstáváš?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857659"
+    },
+    {
+      "english": "Is there anything I can help with?",
+      "czech": "Je něco, s čím můžu pomoct?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857661"
+    },
+    {
+      "english": "What's on your agenda today?",
+      "czech": "Co máš dneska na programu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857663"
+    },
+    {
+      "english": "How do you start your day?",
+      "czech": "Jak začínáš svůj den?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857664"
+    },
+    {
+      "english": "Should we discuss this now?",
+      "czech": "Měli bychom to probrat teď?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857667"
+    },
+    {
+      "english": "Are you ready for the day?",
+      "czech": "Jsi připraven/připravena na den?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857669"
+    },
+    {
+      "english": "What's the most important task?",
+      "czech": "Jaký je nejdůležitější úkol?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857670"
+    },
+    {
+      "english": "Do you need a moment alone?",
+      "czech": "Potřebuješ chvilku o samotě?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857673"
+    },
+    {
+      "english": "When do you plan to finish?",
+      "czech": "Kdy to plánuješ dokončit?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857675"
+    },
+    {
+      "english": "What's your usual morning routine?",
+      "czech": "Jaká je tvoje obvyklá ranní rutina?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857677"
+    },
+    {
+      "english": "Do you have any urgent matters?",
+      "czech": "Máš nějaké naléhavé záležitosti?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857679"
+    },
+    {
+      "english": "What's the best way to start?",
+      "czech": "Jaký je nejlepší způsob začít?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857680"
+    },
+    {
+      "english": "Shall we coordinate our schedules?",
+      "czech": "Máme si sladit naše plány?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857682"
+    },
+    {
+      "english": "What helps you get motivated?",
+      "czech": "Co ti pomáhá se namotivovat?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857683"
+    },
+    {
+      "english": "Could you explain that, please?",
+      "czech": "Mohl/Mohla bys mi to vysvětlit?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857685"
+    },
+    {
+      "english": "What time do you leave home?",
+      "czech": "V kolik odcházíš z domova?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857686"
+    },
+    {
+      "english": "Is everything ready for departure?",
+      "czech": "Je všechno připraveno k odjezdu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857687"
+    },
+    {
+      "english": "What's the first thing on your mind?",
+      "czech": "Co máš jako první na mysli?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857689"
+    },
+    {
+      "english": "Do you want to grab something quick?",
+      "czech": "Chceš si dát něco rychlého?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857690"
+    },
+    {
+      "english": "What are your expectations for today?",
+      "czech": "Jaká jsou tvoje očekávání na dnešek?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857692"
+    },
+    {
+      "english": "Can you confirm our meeting time?",
+      "czech": "Můžeš potvrdit čas naší schůzky?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857693"
+    },
+    {
+      "english": "What do you do to relax first?",
+      "czech": "Co děláš pro první uvolnění?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857695"
+    },
+    {
+      "english": "How do you prepare for the day?",
+      "czech": "Jak se připravuješ na den?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857696"
+    },
+    {
+      "english": "Is there a specific order you follow?",
+      "czech": "Je nějaký konkrétní pořadí, kterým se řídíš?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857697"
+    },
+    {
+      "english": "Dream big, start small.",
+      "czech": "Sněte ve velkém, začněte v malém.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857699"
+    },
+    {
+      "english": "Today will be a great day.",
+      "czech": "Dnes bude skvělý den.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857700"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "czech": "Soustřeď se na pokrok, ne na dokonalost.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857702"
+    },
+    {
+      "english": "Every step forward counts.",
+      "czech": "Každý krok vpřed se počítá.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857704"
+    },
+    {
+      "english": "Take a deep breath, you can do it.",
+      "czech": "Zhluboka se nadechni, to dáš.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857705"
+    },
+    {
+      "english": "What good thing will happen today?",
+      "czech": "Co dobrého se dnes stane?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857708"
+    },
+    {
+      "english": "Embrace the challenges, learn from them.",
+      "czech": "Přijmi výzvy, pouč se z nich.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857710"
+    },
+    {
+      "english": "You are capable of great things.",
+      "czech": "Jsi schopen velkých věcí.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857713"
+    },
+    {
+      "english": "Let your actions speak louder than words.",
+      "czech": "Nech své činy mluvit hlasitěji.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857714"
+    },
+    {
+      "english": "Stay focused, stay motivated.",
+      "czech": "Zůstaň soustředěný, zůstaň motivovaný.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857716"
+    },
+    {
+      "english": "Think positively, act proactively.",
+      "czech": "Mysli pozitivně, jednej proaktivně.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857717"
+    },
+    {
+      "english": "This is your chance to shine.",
+      "czech": "Toto je tvá šance zazářit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857719"
+    },
+    {
+      "english": "Handle today with grace and strength.",
+      "czech": "Zvládni dnešek s grácií a silou.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857720"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "czech": "Tvé odhodlání je obdivuhodné.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857723"
+    },
+    {
+      "english": "Make today count.",
+      "czech": "Ať se dnešek počítá.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857724"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "czech": "Jsi silnější, než si myslíš.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857726"
+    },
+    {
+      "english": "Turn obstacles into opportunities.",
+      "czech": "Proměň překážky v příležitosti.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857727"
+    },
+    {
+      "english": "Your effort is noticed and appreciated.",
+      "czech": "Tvoje úsilí je zaznamenáno a ceněno.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857729"
+    },
+    {
+      "english": "Stay positive, stay hopeful.",
+      "czech": "Zůstaň pozitivní, zůstaň nadějný.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857730"
+    },
+    {
+      "english": "You are capable of overcoming anything.",
+      "czech": "Jsi schopen cokoliv překonat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857732"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "czech": "Soustřeď se na to, co můžeš ovlivnit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857733"
+    },
+    {
+      "english": "Today's success starts with a good mindset.",
+      "czech": "Dnešní úspěch začíná dobrou myslí.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857735"
+    },
+    {
+      "english": "You make a difference.",
+      "czech": "Děláš rozdíl.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857736"
+    },
+    {
+      "english": "Be proud of your journey.",
+      "czech": "Buď hrdý na svou cestu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857738"
+    },
+    {
+      "english": "Your persistence will pay off.",
+      "czech": "Tvá vytrvalost se vyplatí.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857739"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "czech": "Dále posouvej své hranice.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857741"
+    },
+    {
+      "english": "Sometimes, I just need a moment, you know?",
+      "czech": "Někdy prostě potřebuju chvilku, víš?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857743"
+    },
+    {
+      "english": "This feeling, it's quite persistent today.",
+      "czech": "Tenhle pocit, dneska je docela vytrvalý.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857744"
+    },
+    {
+      "english": "I'm trying to be patient, really.",
+      "czech": "Snažím se být trpělivý, vážně.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857746"
+    },
+    {
+      "english": "Is this how it's supposed to feel?",
+      "czech": "Má se to takhle cítit?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857747"
+    },
+    {
+      "english": "My thoughts are all over the place.",
+      "czech": "Myšlenky mám naprosto všude.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857749"
+    },
+    {
+      "english": "I wonder what this means for me.",
+      "czech": "Přemýšlím, co to pro mě znamená.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857750"
+    },
+    {
+      "english": "It's hard to be honest sometimes.",
+      "czech": "Je těžké být někdy upřímný.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857752"
+    },
+    {
+      "english": "Just gotta accept this feeling, I guess.",
+      "czech": "Prostě to musím přijmout, asi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857754"
+    },
+    {
+      "english": "Deep breaths, gotta calm my mind.",
+      "czech": "Zhluboka dýchat, musím uklidnit mysl.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857755"
+    },
+    {
+      "english": "I'm reflecting on yesterday's events.",
+      "czech": "Přemýšlím o včerejších událostech.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857757"
+    },
+    {
+      "english": "What's really bothering me now?",
+      "czech": "Co mě teďka opravdu trápí?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857758"
+    },
+    {
+      "english": "This requires some serious thought.",
+      "czech": "Tohle vyžaduje vážné zamyšlení.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857760"
+    },
+    {
+      "english": "I'm trying to understand myself better.",
+      "czech": "Snažím se lépe pochopit sám sebe.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857761"
+    },
+    {
+      "english": "This is a moment for self-awareness.",
+      "czech": "Tohle je chvíle pro sebereflexi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857764"
+    },
+    {
+      "english": "I need to process these emotions.",
+      "czech": "Potřebuji zpracovat tyto emoce.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857765"
+    },
+    {
+      "english": "Is it okay to feel this way?",
+      "czech": "Je v pořádku se takhle cítit?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857767"
+    },
+    {
+      "english": "My inner monologue is loud today.",
+      "czech": "Můj vnitřní monolog je dneska hlasitý.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857768"
+    },
+    {
+      "english": "I'm wrestling with my own thoughts.",
+      "czech": "Zápasím se svými myšlenkami.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857770"
+    },
+    {
+      "english": "Patience is definitely key here.",
+      "czech": "Trpělivost je tady rozhodně klíčová.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857771"
+    },
+    {
+      "english": "This requires a genuine reflection.",
+      "czech": "Tohle vyžaduje upřímné zamyšlení.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857772"
+    },
+    {
+      "english": "Letting go is harder than it looks.",
+      "czech": "Nechat to jít je těžší, než to vypadá.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857774"
+    },
+    {
+      "english": "I'm trying to find peace within.",
+      "czech": "Snažím se najít klid uvnitř.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857776"
+    },
+    {
+      "english": "This situation makes me ponder.",
+      "czech": "Tahle situace mě nutí k zamyšlení.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857779"
+    },
+    {
+      "english": "Can I be truly honest with myself?",
+      "czech": "Mohu být opravdu upřímný sám k sobě?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857781"
+    },
+    {
+      "english": "My feelings are a bit complex now.",
+      "czech": "Moje pocity jsou teďka trochu složité.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857782"
+    },
+    {
+      "english": "It’s okay to feel uncertain.",
+      "czech": "Je v pořádku cítit se nejistě.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857784"
+    },
+    {
+      "english": "I'm allowing myself to feel this.",
+      "czech": "Dovoluji si to cítit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857785"
+    },
+    {
+      "english": "This is a learning process, I know.",
+      "czech": "Je to proces učení, vím.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857787"
+    },
+    {
+      "english": "Just need a moment to reflect.",
+      "czech": "Potřebuji jen chvilku k zamyšlení.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857788"
+    },
+    {
+      "english": "My heart feels heavy today.",
+      "czech": "Moje srdce je dneska těžké.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857790"
+    },
+    {
+      "english": "Remember to drink water, often.",
+      "czech": "Pamatuj pít vodu, často.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857791"
+    },
+    {
+      "english": "Don't forget your keys, always.",
+      "czech": "Nezapomeň klíče, vždycky.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857793"
+    },
+    {
+      "english": "Are you hungry? Let's eat soon.",
+      "czech": "Máš hlad? Pojďme jíst brzy.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857794"
+    },
+    {
+      "english": "Where did I put my phone?",
+      "czech": "Kam jsem dal telefon?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857796"
+    },
+    {
+      "english": "Check the weather, before you go.",
+      "czech": "Zkontroluj počasí, než vyrazíš.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857797"
+    },
+    {
+      "english": "Is the door locked? Double check.",
+      "czech": "Jsou dveře zamčené? Zkontroluj dvakrát.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-21T05:49:13.857799"
     }
   ],
-  "last_updated": "2026-10-20T05:45:52.568634"
+  "last_updated": "2026-10-21T05:49:13.857800"
 }
