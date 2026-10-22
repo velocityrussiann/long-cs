@@ -3599,7 +3599,727 @@
       "czech": "Jsou dveře zamčené? Zkontroluj dvakrát.",
       "category": "Daily Routine",
       "generated_at": "2026-10-21T05:49:13.857799"
+    },
+    {
+      "english": "What's the weather like, today?",
+      "czech": "Jaké je dnes počasí?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973417"
+    },
+    {
+      "english": "It's raining, again.",
+      "czech": "Zase prší.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973432"
+    },
+    {
+      "english": "The sun is shining, brightly.",
+      "czech": "Slunce svítí, jasně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973434"
+    },
+    {
+      "english": "It's quite warm, isn't it?",
+      "czech": "Je docela teplo, že?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973436"
+    },
+    {
+      "english": "It's a bit chilly, out.",
+      "czech": "Je mi trochu zima.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973438"
+    },
+    {
+      "english": "The wind is blowing, hard.",
+      "czech": "Vítr fouká, silně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973440"
+    },
+    {
+      "english": "It looks like snow, soon.",
+      "czech": "Vypadá to na sníh, brzy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973442"
+    },
+    {
+      "english": "What a beautiful, day!",
+      "czech": "To je krásný, den!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973445"
+    },
+    {
+      "english": "The sky is, cloudy.",
+      "czech": "Obloha je, zatažená.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973448"
+    },
+    {
+      "english": "It might rain, later.",
+      "czech": "Možná bude pršet, později.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973449"
+    },
+    {
+      "english": "How are you, doing?",
+      "czech": "Jak se máš?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973452"
+    },
+    {
+      "english": "I'm doing, fine.",
+      "czech": "Mám se dobře.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973454"
+    },
+    {
+      "english": "Not too bad, thanks.",
+      "czech": "Není to špatné, díky.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973455"
+    },
+    {
+      "english": "Everything's okay, so far.",
+      "czech": "Všechno je v pořádku, zatím.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973457"
+    },
+    {
+      "english": "How's life, treating you?",
+      "czech": "Jak ti život, jde?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973459"
+    },
+    {
+      "english": "Keeping busy, I guess.",
+      "czech": "Zůstávám zaneprázdněný, asi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973461"
+    },
+    {
+      "english": "Same old, same old.",
+      "czech": "Po starém, po starém.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973462"
+    },
+    {
+      "english": "What are you, up to?",
+      "czech": "Co máš, v plánu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973464"
+    },
+    {
+      "english": "Just relaxing, today.",
+      "czech": "Jen relaxuji, dnes.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973466"
+    },
+    {
+      "english": "Looking forward to the, weekend.",
+      "czech": "Těším se na, víkend.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973468"
+    },
+    {
+      "english": "Anything new, happening?",
+      "czech": "Děje se něco, nového?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973470"
+    },
+    {
+      "english": "Not much, really.",
+      "czech": "Nic moc, vlastně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973472"
+    },
+    {
+      "english": "Have a good, one!",
+      "czech": "Měj se, hezky!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973473"
+    },
+    {
+      "english": "Take care, now.",
+      "czech": "Opatruj se, teď.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973475"
+    },
+    {
+      "english": "It's getting dark, early.",
+      "czech": "Stmívá se, brzy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973477"
+    },
+    {
+      "english": "A bit foggy, this morning.",
+      "czech": "Trochu mlhavo, dnes ráno.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973478"
+    },
+    {
+      "english": "Hope it clears, up.",
+      "czech": "Doufám, že se vyjasní.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973480"
+    },
+    {
+      "english": "Nice meeting, you.",
+      "czech": "Rád jsem tě, poznal.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973481"
+    },
+    {
+      "english": "Likewise, the pleasure, was mine.",
+      "czech": "Rovněž, potěšení, bylo mé.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973483"
+    },
+    {
+      "english": "What's the forecast, for tomorrow?",
+      "czech": "Jaká je předpověď, na zítra?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973485"
+    },
+    {
+      "english": "Do you think, it will freeze?",
+      "czech": "Myslíš, že bude mrzet?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973487"
+    },
+    {
+      "english": "Should we take, an umbrella?",
+      "czech": "Máme si vzít, deštník?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973489"
+    },
+    {
+      "english": "Is it going to storm, tonight?",
+      "czech": "Bude dnes večer, bouřka?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973491"
+    },
+    {
+      "english": "How's the temperature, generally?",
+      "czech": "Jaká je teplota, obecně?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973494"
+    },
+    {
+      "english": "Is it usually this, humid?",
+      "czech": "Je obvykle takhle, vlhko?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973496"
+    },
+    {
+      "english": "What do people, usually do, when it's cold?",
+      "czech": "Co lidé obvykle dělají, když je zima?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973498"
+    },
+    {
+      "english": "Any tips, for this heat?",
+      "czech": "Nějaké tipy, na tohle horko?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973499"
+    },
+    {
+      "english": "Did you see, the hail, earlier?",
+      "czech": "Viděl jsi, ten krupobití, dříve?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973501"
+    },
+    {
+      "english": "How long does the fog, usually last?",
+      "czech": "Jak dlouho ta mlha, obvykle trvá?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973503"
+    },
+    {
+      "english": "Is it prone to, sudden rain?",
+      "czech": "Je to náchylné, k náhlým dešťům?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973506"
+    },
+    {
+      "english": "What's the best season, here?",
+      "czech": "Jaké je tady, nejlepší roční období?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973507"
+    },
+    {
+      "english": "Are you a fan, of winter?",
+      "czech": "Jsi fanoušek, zimy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973509"
+    },
+    {
+      "english": "Do you prefer, clear skies, or dramatic clouds?",
+      "czech": "Máš raději, jasnou oblohu, nebo dramatické mraky?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973512"
+    },
+    {
+      "english": "How's the air quality, today?",
+      "czech": "Jaká je dnes, kvalita vzduchu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973514"
+    },
+    {
+      "english": "Is it safe, to walk, in this weather?",
+      "czech": "Je bezpečné, jít, v tomhle počasí?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973516"
+    },
+    {
+      "english": "What's your favorite, thing about spring?",
+      "czech": "Co máš nejraději, na jaře?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973518"
+    },
+    {
+      "english": "Are there many, thunderstorms, in summer?",
+      "czech": "Je v létě, hodně bouřek?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973519"
+    },
+    {
+      "english": "What are you planning, for the weekend?",
+      "czech": "Co plánuješ, na víkend?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973521"
+    },
+    {
+      "english": "Anything interesting, happening, soon?",
+      "czech": "Děje se něco, zajímavého, brzy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973523"
+    },
+    {
+      "english": "How's work, going for you?",
+      "czech": "Jak jde práce, tobě?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973525"
+    },
+    {
+      "english": "Seen any good, movies, lately?",
+      "czech": "Viděl jsi nějaké dobré, filmy, v poslední době?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973528"
+    },
+    {
+      "english": "What are your, hobbies?",
+      "czech": "Jaké jsou tvoje, koníčky?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973529"
+    },
+    {
+      "english": "Do you like, reading?",
+      "czech": "Máš rád, čtení?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973531"
+    },
+    {
+      "english": "Any recommendations, for a good, book?",
+      "czech": "Máš nějaké doporučení, na dobrou, knihu?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973533"
+    },
+    {
+      "english": "Thinking of going, out tonight.",
+      "czech": "Přemýšlím o tom jít, dnes večer ven.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973535"
+    },
+    {
+      "english": "Hope you have, a great, evening.",
+      "czech": "Doufám, že máš, skvělý, večer.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973537"
+    },
+    {
+      "english": "Let's do this, again, sometime.",
+      "czech": "Uděláme to, znovu, někdy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973538"
+    },
+    {
+      "english": "Have a safe, trip.",
+      "czech": "Šťastnou cestu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973540"
+    },
+    {
+      "english": "Positive vibes, only, today.",
+      "czech": "Jen pozitivní vibrace, dnes.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973542"
+    },
+    {
+      "english": "This weather, is a good sign.",
+      "czech": "Tohle počasí, je dobré znamení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973544"
+    },
+    {
+      "english": "We can handle, this weather.",
+      "czech": "Tohle počasí, zvládneme.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973546"
+    },
+    {
+      "english": "Every day, is a chance, to shine.",
+      "czech": "Každý den, je šance, zazářit.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973548"
+    },
+    {
+      "english": "Let's make, the best, of it.",
+      "czech": "Udělejme, z toho, maximum.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973551"
+    },
+    {
+      "english": "Even bad weather, can be beautiful.",
+      "czech": "I špatné počasí, může být krásné.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973553"
+    },
+    {
+      "english": "Adapt and, overcome, challenges.",
+      "czech": "Přizpůsob se a, překonej, výzvy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973555"
+    },
+    {
+      "english": "Think positive, the sun, will come.",
+      "czech": "Mysli pozitivně, slunce, vyjde.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973558"
+    },
+    {
+      "english": "We are stronger, than any, storm.",
+      "czech": "Jsme silnější, než jakákoli, bouře.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973560"
+    },
+    {
+      "english": "Keep your chin, up, always.",
+      "czech": "Hlavu vzhůru, drž, pořád.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973562"
+    },
+    {
+      "english": "You're doing, great, with this weather.",
+      "czech": "Skvěle to zvládáš, v tomhle, počasí.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973564"
+    },
+    {
+      "english": "Your attitude, makes the difference.",
+      "czech": "Tvůj postoj, dělá rozdíl.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973566"
+    },
+    {
+      "english": "Let's find, the silver lining.",
+      "czech": "Najděme, světlou stránku.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973569"
+    },
+    {
+      "english": "Embrace the, change, in weather.",
+      "czech": "Přijmi tu, změnu, v počasí.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973571"
+    },
+    {
+      "english": "This weather, is good, for reflection.",
+      "czech": "Tohle počasí, je dobré, na přemýšlení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973573"
+    },
+    {
+      "english": "Stay positive, despite, the clouds.",
+      "czech": "Zůstaň pozitivní, navzdory, mrakům.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973576"
+    },
+    {
+      "english": "You've got, this, whatever, the weather.",
+      "czech": "To zvládneš, cokoliv, počasí.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973578"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "czech": "Každý mrak, má svůj, světlý okraj.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973580"
+    },
+    {
+      "english": "Your efforts, are inspiring, today.",
+      "czech": "Tvé úsilí, je dnes, inspirativní.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973582"
+    },
+    {
+      "english": "A little rain, can't stop, us.",
+      "czech": "Trocha deště, nás, nezastaví.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973583"
+    },
+    {
+      "english": "Let's make, some sunshine, indoors.",
+      "czech": "Udělejme, si slunce, uvnitř.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973585"
+    },
+    {
+      "english": "You handle, the weather, so well.",
+      "czech": "Tak dobře, zvládáš, to počasí.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973587"
+    },
+    {
+      "english": "Keep pushing, through, the elements.",
+      "czech": "Bojuj dál, skrz, živly.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973589"
+    },
+    {
+      "english": "This weather, is a chance, to recharge.",
+      "czech": "Tohle počasí, je šance, dobít baterky.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973590"
+    },
+    {
+      "english": "Stay warm, and hopeful, always.",
+      "czech": "Zůstaň v teple, a naději, vždycky.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973593"
+    },
+    {
+      "english": "Your positive outlook, is contagious.",
+      "czech": "Tvůj pozitivní pohled, je nakažlivý.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973594"
+    },
+    {
+      "english": "We can find, joy, in any, weather.",
+      "czech": "Radost najdeme, v jakémkoli, počasí.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973596"
+    },
+    {
+      "english": "Let's look, for the good, things.",
+      "czech": "Hledejme, ty dobré, věci.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973598"
+    },
+    {
+      "english": "Your resilience, shines, through.",
+      "czech": "Tvá odolnost, prozařuje, skrz.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973600"
+    },
+    {
+      "english": "This weather, won't last, forever.",
+      "czech": "Tohle počasí, nebude trvat, navždy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973601"
+    },
+    {
+      "english": "Honestly, this weather feels deep.",
+      "czech": "Upřímně, tohle počasí působí hluboce.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973603"
+    },
+    {
+      "english": "It makes me pause, and think, you know?",
+      "czech": "Přiměje mě to se zastavit, a zamyslet, že jo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973605"
+    },
+    {
+      "english": "Sometimes, quiet days are needed.",
+      "czech": "Někdy jsou klidné dny potřeba.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973607"
+    },
+    {
+      "english": "What's your honest opinion, about this?",
+      "czech": "Jaký je tvůj upřímný názor, na tohle?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973609"
+    },
+    {
+      "english": "I'm trying to be patient, with it.",
+      "czech": "Snažím se být trpělivý, s tím.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973611"
+    },
+    {
+      "english": "This weather invites introspection.",
+      "czech": "Tohle počasí zve k zamyšlení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973612"
+    },
+    {
+      "english": "Do you ever feel this way, too?",
+      "czech": "Cítíš se někdy takhle, taky?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973614"
+    },
+    {
+      "english": "It's a good time for deep talks.",
+      "czech": "Je to dobrý čas na hluboké rozhovory.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973616"
+    },
+    {
+      "english": "I'm reflecting, on a lot, lately.",
+      "czech": "Hodně přemýšlím, poslední dobou.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973618"
+    },
+    {
+      "english": "This mood, it lingers, doesn't it?",
+      "czech": "Tahle nálada, ta přetrvává, že?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973620"
+    },
+    {
+      "english": "Let's just, be honest, about feelings.",
+      "czech": "Buďme prostě, upřímní, o pocitech.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973622"
+    },
+    {
+      "english": "This weather really, gets me thinking.",
+      "czech": "Tohle počasí mě vážně, nutí k přemýšlení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973623"
+    },
+    {
+      "english": "I'm trying to find, inner peace.",
+      "czech": "Snažím se najít, vnitřní klid.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973625"
+    },
+    {
+      "english": "Does this weather affect you, deeply?",
+      "czech": "Ovlivňuje tě tohle počasí, hluboce?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973627"
+    },
+    {
+      "english": "It's okay to feel, a bit down.",
+      "czech": "Je v pořádku cítit se, trochu sklesle.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973629"
+    },
+    {
+      "english": "I appreciate your, honest words.",
+      "czech": "Oceňuji tvá, upřímná slova.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973631"
+    },
+    {
+      "english": "This calls for, some serious thought.",
+      "czech": "Tohle volá po, vážném zamyšlení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973633"
+    },
+    {
+      "english": "Let's talk about, what matters.",
+      "czech": "Pojďme mluvit o, tom, na čem záleží.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973635"
+    },
+    {
+      "english": "I'm feeling quite reflective, today.",
+      "czech": "Dneska se cítím dost zamyšleně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973636"
+    },
+    {
+      "english": "Sometimes, we need to slow down.",
+      "czech": "Někdy, musíme zpomalit.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973638"
+    },
+    {
+      "english": "What's going on, in your head?",
+      "czech": "Co se děje, v tvé hlavě?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973640"
+    },
+    {
+      "english": "This weather, sparks deep thoughts.",
+      "czech": "Tohle počasí, podněcuje hluboké myšlenky.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973641"
+    },
+    {
+      "english": "How do you, genuinely feel, right now?",
+      "czech": "Jak se, upřímně, cítíš, teď?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973643"
+    },
+    {
+      "english": "This requires, honest reflection.",
+      "czech": "Tohle vyžaduje, upřímné zamyšlení.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973644"
+    },
+    {
+      "english": "Are you finding, any meaning, in this?",
+      "czech": "Nacházíš, v tom, nějaký smysl?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973646"
+    },
+    {
+      "english": "Let's embrace, this moment, honestly.",
+      "czech": "Přijměme, tohle chvíli, upřímně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973649"
+    },
+    {
+      "english": "I'm just letting, thoughts flow.",
+      "czech": "Jen nechávám, myšlenky plynout.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973651"
+    },
+    {
+      "english": "Crazy weather, huh? What do you think?",
+      "czech": "Šílené počasí, co myslíš?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973653"
+    },
+    {
+      "english": "Looks like rain, maybe grab an umbrella?",
+      "czech": "Vypadá to na déšť, asi vezmeme deštník?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973654"
+    },
+    {
+      "english": "Perfect day for staying inside, right?",
+      "czech": "Ideální den na zbytek doma, že?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973656"
+    },
+    {
+      "english": "Hope this clears up soon, I need to go out.",
+      "czech": "Doufám, že se to brzy zlepší, potřebuji jít ven.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973658"
+    },
+    {
+      "english": "It's quite chilly, better wear a warm jacket.",
+      "czech": "Je docela zima, radši si vezmi teplou bundu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-22T05:52:22.973660"
     }
   ],
-  "last_updated": "2026-10-21T05:49:13.857800"
+  "last_updated": "2026-10-22T05:52:22.973662"
 }
