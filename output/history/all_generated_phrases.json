@@ -5039,7 +5039,727 @@
       "czech": "Buď přítomný, užij si tento moment.",
       "category": "Positive Life",
       "generated_at": "2026-10-23T05:50:44.333393"
+    },
+    {
+      "english": "Hello, how are you?",
+      "czech": "Ahoj, jak se máš?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341034"
+    },
+    {
+      "english": "Good morning, dear.",
+      "czech": "Dobré ráno, miláčku.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341049"
+    },
+    {
+      "english": "Good afternoon, sir.",
+      "czech": "Dobrý den, pane.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341051"
+    },
+    {
+      "english": "Good evening, madam.",
+      "czech": "Dobrý večer, paní.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341053"
+    },
+    {
+      "english": "Nice to meet you.",
+      "czech": "Těší mě.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341055"
+    },
+    {
+      "english": "What's your name?",
+      "czech": "Jak se jmenuješ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341056"
+    },
+    {
+      "english": "My name is...",
+      "czech": "Jmenuji se...",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341058"
+    },
+    {
+      "english": "Where are you from?",
+      "czech": "Odkud jsi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341062"
+    },
+    {
+      "english": "I am from...",
+      "czech": "Jsem z...",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341064"
+    },
+    {
+      "english": "It was good, thanks.",
+      "czech": "Byl dobrý, díky.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341085"
+    },
+    {
+      "english": "Are you busy?",
+      "czech": "Máš práci?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341087"
+    },
+    {
+      "english": "A little bit busy.",
+      "czech": "Trochu zaneprázdněný.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341089"
+    },
+    {
+      "english": "I'm just relaxing.",
+      "czech": "Jen odpočívám.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341090"
+    },
+    {
+      "english": "Goodbye for now.",
+      "czech": "Zatím nashledanou.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341092"
+    },
+    {
+      "english": "Have a nice day.",
+      "czech": "Přeji hezký den.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341093"
+    },
+    {
+      "english": "Thanks a lot.",
+      "czech": "Moc děkuji.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341095"
+    },
+    {
+      "english": "You're welcome.",
+      "czech": "Není zač.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341096"
+    },
+    {
+      "english": "Excuse me, please.",
+      "czech": "Promiňte, prosím.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341098"
+    },
+    {
+      "english": "I don't understand.",
+      "czech": "Nerozumím.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341099"
+    },
+    {
+      "english": "Can you repeat that?",
+      "czech": "Můžeš to zopakovat?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341101"
+    },
+    {
+      "english": "Do you speak English?",
+      "czech": "Mluvíš anglicky?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341102"
+    },
+    {
+      "english": "Just a little Czech.",
+      "czech": "Jen trochu česky.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341104"
+    },
+    {
+      "english": "What is this?",
+      "czech": "Co je tohle?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341105"
+    },
+    {
+      "english": "Yes, please.",
+      "czech": "Ano, prosím.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341107"
+    },
+    {
+      "english": "No, thank you.",
+      "czech": "Ne, děkuji.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341108"
+    },
+    {
+      "english": "It's a pleasure.",
+      "czech": "To je mi potěšení.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341110"
+    },
+    {
+      "english": "May I join you, please?",
+      "czech": "Můžu se k vám přidat?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341112"
+    },
+    {
+      "english": "What brings you here today?",
+      "czech": "Co vás sem dnes přivádí?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341113"
+    },
+    {
+      "english": "Do you come here often?",
+      "czech": "Chodíte sem často?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341115"
+    },
+    {
+      "english": "Could you recommend something?",
+      "czech": "Můžete mi něco doporučit?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341117"
+    },
+    {
+      "english": "How long have you lived here?",
+      "czech": "Jak dlouho tady žijete?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341119"
+    },
+    {
+      "english": "What do you think of Prague?",
+      "czech": "Co si myslíte o Praze?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341121"
+    },
+    {
+      "english": "Is this your first time?",
+      "czech": "Jste tady poprvé?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341123"
+    },
+    {
+      "english": "Can I buy you a drink?",
+      "czech": "Můžu vám koupit pití?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341124"
+    },
+    {
+      "english": "What do you do for work?",
+      "czech": "Co děláte za práci?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341126"
+    },
+    {
+      "english": "Are you traveling alone?",
+      "czech": "Cestujete sám?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341128"
+    },
+    {
+      "english": "Tell me about yourself.",
+      "czech": "Řekněte mi o sobě.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341129"
+    },
+    {
+      "english": "Have you tried Trdelník yet?",
+      "czech": "Už jste zkoušel Trdelník?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341132"
+    },
+    {
+      "english": "Where is the best place to go?",
+      "czech": "Kam je nejlepší jít?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341134"
+    },
+    {
+      "english": "Can you show me around?",
+      "czech": "Můžete mi to tu ukázat?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341135"
+    },
+    {
+      "english": "Do you have any recommendations?",
+      "czech": "Máte nějaká doporučení?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341137"
+    },
+    {
+      "english": "What are you drinking there?",
+      "czech": "Co si tam dáváte?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341138"
+    },
+    {
+      "english": "This place is great, isn't it?",
+      "czech": "Tohle místo je skvělé, že?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341140"
+    },
+    {
+      "english": "How was your day so far?",
+      "czech": "Jaký byl váš den?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341141"
+    },
+    {
+      "english": "What are you studying?",
+      "czech": "Co studujete?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341143"
+    },
+    {
+      "english": "Are you here on vacation?",
+      "czech": "Jste tady na dovolené?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341144"
+    },
+    {
+      "english": "What's your favorite hobby?",
+      "czech": "Jaký je váš oblíbený koníček?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341146"
+    },
+    {
+      "english": "Could you speak a bit slower?",
+      "czech": "Mohl byste mluvit pomaleji?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341148"
+    },
+    {
+      "english": "What's the best way to get there?",
+      "czech": "Jak se tam nejlépe dostanu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341149"
+    },
+    {
+      "english": "Do you need any help?",
+      "czech": "Potřebujete s něčím pomoct?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341151"
+    },
+    {
+      "english": "It's lovely weather, isn't it?",
+      "czech": "Je krásné počasí, že ano?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341153"
+    },
+    {
+      "english": "Where do you usually hang out?",
+      "czech": "Kde se obvykle zdržujete?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341155"
+    },
+    {
+      "english": "What a coincidence, meeting you!",
+      "czech": "Jaká náhoda, že se potkáváme!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341156"
+    },
+    {
+      "english": "Every conversation, a new step.",
+      "czech": "Každý rozhovor, nový krok.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341158"
+    },
+    {
+      "english": "Don't be afraid, just try.",
+      "czech": "Neboj se, prostě zkus.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341160"
+    },
+    {
+      "english": "Learning Czech, it's possible.",
+      "czech": "Učit se česky, to jde.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341162"
+    },
+    {
+      "english": "Your accent is charming.",
+      "czech": "Tvůj akcent je roztomilý.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341164"
+    },
+    {
+      "english": "Keep practicing, you're improving.",
+      "czech": "Trénuj dál, zlepšuješ se.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341166"
+    },
+    {
+      "english": "Be open, new friends await.",
+      "czech": "Buď otevřený, čekají noví přátelé.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341168"
+    },
+    {
+      "english": "Small talk builds big connections.",
+      "czech": "Malé řeči budují velké vztahy.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341170"
+    },
+    {
+      "english": "Confidence is key, just smile.",
+      "czech": "Sebevědomí je klíč, jen se usměj.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341172"
+    },
+    {
+      "english": "Mistakes are learning opportunities.",
+      "czech": "Chyby jsou příležitosti k učení.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341173"
+    },
+    {
+      "english": "You are braver than you think.",
+      "czech": "Jsi statečnější, než si myslíš.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341175"
+    },
+    {
+      "english": "Embrace the challenge, enjoy it.",
+      "czech": "Přijmi výzvu, užij si to.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341177"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "czech": "Tvoje úsilí je obdivuhodné.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341178"
+    },
+    {
+      "english": "Every 'ahoj' is a good start.",
+      "czech": "Každé 'ahoj' je dobrý začátek.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341180"
+    },
+    {
+      "english": "Stay positive, connect easily.",
+      "czech": "Zůstaň pozitivní, spojíš se snadno.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341181"
+    },
+    {
+      "english": "You're making progress, fantastic!",
+      "czech": "Děláš pokroky, to je super!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341183"
+    },
+    {
+      "english": "Don't overthink, just speak.",
+      "czech": "Nemysli moc, prostě mluv.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341185"
+    },
+    {
+      "english": "Your curiosity is wonderful.",
+      "czech": "Tvá zvědavost je úžasná.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341187"
+    },
+    {
+      "english": "This is how real learning happens.",
+      "czech": "Takto probíhá skutečné učení.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341188"
+    },
+    {
+      "english": "You are capable of more.",
+      "czech": "Jsi schopen/schopna více.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341190"
+    },
+    {
+      "english": "Listen actively, respond thoughtfully.",
+      "czech": "Naslouchej pozorně, odpovídej promyšleně.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341192"
+    },
+    {
+      "english": "You're creating valuable experiences.",
+      "czech": "Tvoříš cenné zážitky.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341194"
+    },
+    {
+      "english": "It's okay to be a beginner.",
+      "czech": "Je v pořádku být začátečník.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341196"
+    },
+    {
+      "english": "Your willingness to learn shines.",
+      "czech": "Tvá ochota učit se září.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341198"
+    },
+    {
+      "english": "Every interaction builds fluency.",
+      "czech": "Každá interakce buduje plynnost.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341199"
+    },
+    {
+      "english": "You are getting closer to fluency.",
+      "czech": "Blížíš se k plynné češtině.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341201"
+    },
+    {
+      "english": "Embrace the learning curve.",
+      "czech": "Přijmi křivku učení.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341203"
+    },
+    {
+      "english": "Are you from around here?",
+      "czech": "Jsi odsud?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341204"
+    },
+    {
+      "english": "I'm new here, just arrived.",
+      "czech": "Jsem tu nový, teprve jsem přijel.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341206"
+    },
+    {
+      "english": "How's it going, mate?",
+      "czech": "Jak to jde, kámo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341208"
+    },
+    {
+      "english": "Long time no see!",
+      "czech": "Dlouho jsme se neviděli!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341210"
+    },
+    {
+      "english": "Any plans for the evening?",
+      "czech": "Máš večer něco v plánu?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341212"
+    },
+    {
+      "english": "We should catch up soon.",
+      "czech": "Měli bychom se brzy sejít.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341214"
+    },
+    {
+      "english": "Lost, are you?",
+      "czech": "Ztratil ses?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341215"
+    },
+    {
+      "english": "Fancy a beer sometime?",
+      "czech": "Zaskočil by sis někdy na pivo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341217"
+    },
+    {
+      "english": "What's the buzz?",
+      "czech": "Co se děje?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341218"
+    },
+    {
+      "english": "My Czech is still basic.",
+      "czech": "Moje čeština je pořád základní.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341220"
+    },
+    {
+      "english": "Learning the ropes here.",
+      "czech": "Učím se tu novým věcem.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341222"
+    },
+    {
+      "english": "Hope to see you around.",
+      "czech": "Snad se tu ještě uvidíme.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341223"
+    },
+    {
+      "english": "Small world, isn't it?",
+      "czech": "Malý svět, co?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341225"
+    },
+    {
+      "english": "Just killing time.",
+      "czech": "Jen zabíjím čas.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341227"
+    },
+    {
+      "english": "A pleasure meeting you.",
+      "czech": "Potěšení tě poznat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341229"
+    },
+    {
+      "english": "Don't be a stranger!",
+      "czech": "Nezapomeň na mě!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341230"
+    },
+    {
+      "english": "Mind if I join you?",
+      "czech": "Nevadí, když se přidám?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341232"
+    },
+    {
+      "english": "Hope you're having fun.",
+      "czech": "Doufám, že se bavíš.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341233"
+    },
+    {
+      "english": "Just wanted to say hi.",
+      "czech": "Jen jsem se chtěl pozdravit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341235"
+    },
+    {
+      "english": "This is my first time here.",
+      "czech": "Jsem tu poprvé.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341237"
+    },
+    {
+      "english": "Any local tips for me?",
+      "czech": "Máš pro mě nějaké místní tipy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341238"
+    },
+    {
+      "english": "Enjoying the city?",
+      "czech": "Užíváš si město?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341239"
+    },
+    {
+      "english": "Great to finally meet.",
+      "czech": "Skvělé se konečně potkat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341241"
+    },
+    {
+      "english": "What's the story?",
+      "czech": "Jaký je příběh?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341242"
+    },
+    {
+      "english": "Let's keep in touch.",
+      "czech": "Zůstaneme v kontaktu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341244"
+    },
+    {
+      "english": "Can you recommend a good place?",
+      "czech": "Doporučíte mi dobré místo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341245"
+    },
+    {
+      "english": "Excuse me, do you live nearby?",
+      "czech": "Promiňte, bydlíte blízko?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341247"
+    },
+    {
+      "english": "I'm looking for something specific.",
+      "czech": "Hledám něco konkrétního.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341249"
+    },
+    {
+      "english": "What brings you to this area?",
+      "czech": "Co vás sem přivádí?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341251"
+    },
+    {
+      "english": "I’m trying to practice my Czech.",
+      "czech": "Snažím se procvičit češtinu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341253"
+    },
+    {
+      "english": "Do you know how to get there?",
+      "czech": "Víte, jak se tam dostat?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341255"
+    },
+    {
+      "english": "This is harder than I thought.",
+      "czech": "Je to těžší, než jsem čekal.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341257"
+    },
+    {
+      "english": "Where's the nearest station?",
+      "czech": "Kde je nejbližší stanice?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341259"
+    },
+    {
+      "english": "I'm really enjoying this city.",
+      "czech": "Moc se mi tu líbí.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341260"
+    },
+    {
+      "english": "What's a common local greeting?",
+      "czech": "Jaký je běžný pozdrav?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341262"
+    },
+    {
+      "english": "Are you a tourist, or live here?",
+      "czech": "Jste turista, nebo tu bydlíte?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341264"
+    },
+    {
+      "english": "I need some help, please.",
+      "czech": "Potřebuji pomoc, prosím.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341265"
+    },
+    {
+      "english": "I hope I'm not bothering you.",
+      "czech": "Doufám, že vás neobtěžuji.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341267"
+    },
+    {
+      "english": "Just observing the local culture.",
+      "czech": "Jen pozoruji místní kulturu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341269"
+    },
+    {
+      "english": "I'm trying to be more social.",
+      "czech": "Snažím se být společenský.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341270"
+    },
+    {
+      "english": "Can you point me in that direction?",
+      "czech": "Můžete mě nasměrovat tamhle?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-24T05:32:29.341272"
     }
   ],
-  "last_updated": "2026-10-23T05:50:44.333394"
+  "last_updated": "2026-10-24T05:32:29.341273"
 }
