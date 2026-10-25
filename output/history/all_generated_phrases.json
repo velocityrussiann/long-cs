@@ -5759,7 +5759,727 @@
       "czech": "Můžete mě nasměrovat tamhle?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-10-24T05:32:29.341272"
+    },
+    {
+      "english": "Hello, who's calling, please?",
+      "czech": "Haló, kdo volá, prosím?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897101"
+    },
+    {
+      "english": "Can you hear me well?",
+      "czech": "Slyšíš mě dobře?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897113"
+    },
+    {
+      "english": "I can't hear you clearly.",
+      "czech": "Nerozumím ti zřetelně.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897116"
+    },
+    {
+      "english": "The signal is bad.",
+      "czech": "Ten signál je špatný.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897119"
+    },
+    {
+      "english": "I'll call you back later.",
+      "czech": "Zavolám ti později.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897122"
+    },
+    {
+      "english": "Is this a good time?",
+      "czech": "Je teď dobrý čas?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897125"
+    },
+    {
+      "english": "I'm a bit busy now.",
+      "czech": "Teď jsem trochu zaneprázdněný.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897128"
+    },
+    {
+      "english": "Please leave a message.",
+      "czech": "Prosím, nech vzkaz.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897133"
+    },
+    {
+      "english": "What's your number?",
+      "czech": "Jaké je tvé číslo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897137"
+    },
+    {
+      "english": "I'll send you a text.",
+      "czech": "Pošlu ti zprávu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897140"
+    },
+    {
+      "english": "Did you get my message?",
+      "czech": "Dostal jsi moji zprávu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897142"
+    },
+    {
+      "english": "It's urgent, please answer.",
+      "czech": "Je to naléhavé, prosím, odpověz.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897145"
+    },
+    {
+      "english": "Where are you now?",
+      "czech": "Kde teď jsi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897148"
+    },
+    {
+      "english": "I'm almost there.",
+      "czech": "Už skoro jsem tam.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897151"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "czech": "Promiň, zmeškal jsem tvůj hovor.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897154"
+    },
+    {
+      "english": "Can you charge your phone?",
+      "czech": "Můžeš si nabít telefon?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897156"
+    },
+    {
+      "english": "My battery is dead.",
+      "czech": "Mám vybitou baterii.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897160"
+    },
+    {
+      "english": "Let's meet soon.",
+      "czech": "Sejdeme se brzy.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897163"
+    },
+    {
+      "english": "What time works for you?",
+      "czech": "Kdy se ti to hodí?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897165"
+    },
+    {
+      "english": "Can you confirm?",
+      "czech": "Můžeš to potvrdit?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897168"
+    },
+    {
+      "english": "I'm waiting for your call.",
+      "czech": "Čekám na tvůj hovor.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897171"
+    },
+    {
+      "english": "Don't forget to call me.",
+      "czech": "Nezapomeň mi zavolat.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897174"
+    },
+    {
+      "english": "Just checking in.",
+      "czech": "Jen se ozývám.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897176"
+    },
+    {
+      "english": "I'll text you the address.",
+      "czech": "Pošlu ti adresu zprávou.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897181"
+    },
+    {
+      "english": "Are you online?",
+      "czech": "Jsi online?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897183"
+    },
+    {
+      "english": "Talk soon!",
+      "czech": "Mluvím brzy!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897186"
+    },
+    {
+      "english": "What were you saying, sorry?",
+      "czech": "Co jsi říkal, promiň?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897189"
+    },
+    {
+      "english": "Is everything okay on your end?",
+      "czech": "Je u tebe všechno v pořádku?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897192"
+    },
+    {
+      "english": "Shall we discuss it later then?",
+      "czech": "Probereme to tedy později?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897196"
+    },
+    {
+      "english": "Do you have a moment for a quick chat?",
+      "czech": "Máš chvilku na rychlý pokec?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897199"
+    },
+    {
+      "english": "Did you have any trouble finding us?",
+      "czech": "Měl jsi nějaké potíže nás najít?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897202"
+    },
+    {
+      "english": "Can you give me some advice?",
+      "czech": "Můžeš mi dát radu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897205"
+    },
+    {
+      "english": "What's your availability like?",
+      "czech": "Jaká je tvoje časová možnost?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897207"
+    },
+    {
+      "english": "Are you free to talk right now?",
+      "czech": "Máš čas mluvit hned teď?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897210"
+    },
+    {
+      "english": "Should I call you back tomorrow?",
+      "czech": "Mám ti zavolat zítra zpět?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897213"
+    },
+    {
+      "english": "What time is best for you?",
+      "czech": "V kolik hodin je to pro tebe nejlepší?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897215"
+    },
+    {
+      "english": "Can you explain that further?",
+      "czech": "Můžeš to vysvětlit podrobněji?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897218"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "czech": "Co si o tom myslíš?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897220"
+    },
+    {
+      "english": "Is there anything else important?",
+      "czech": "Je ještě něco důležitého?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897223"
+    },
+    {
+      "english": "How about we arrange that?",
+      "czech": "Co kdybychom to zařídili?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897225"
+    },
+    {
+      "english": "Did you receive my email?",
+      "czech": "Dostal jsi můj email?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897228"
+    },
+    {
+      "english": "What should I do next?",
+      "czech": "Co bych měl dělat dál?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897230"
+    },
+    {
+      "english": "Can you confirm the details?",
+      "czech": "Můžeš potvrdit detaily?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897233"
+    },
+    {
+      "english": "I need your quick input.",
+      "czech": "Potřebuji tvůj rychlý vstup.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897235"
+    },
+    {
+      "english": "What's happening over there?",
+      "czech": "Co se tam děje?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897238"
+    },
+    {
+      "english": "Is there a better way?",
+      "czech": "Je nějaký lepší způsob?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897240"
+    },
+    {
+      "english": "Could you send me the link?",
+      "czech": "Mohl bys mi poslat odkaz?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897242"
+    },
+    {
+      "english": "What’s the latest update?",
+      "czech": "Jaký je nejnovější update?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897248"
+    },
+    {
+      "english": "Can you follow along?",
+      "czech": "Můžeš sledovat?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897250"
+    },
+    {
+      "english": "What else is new?",
+      "czech": "Co je nového?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897252"
+    },
+    {
+      "english": "Keep up the great work, you're doing well!",
+      "czech": "Drž se skvěle, vedeš si výborně!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897256"
+    },
+    {
+      "english": "Every step forward counts, no matter how small.",
+      "czech": "Každý krok vpřed se počítá, i malý.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897260"
+    },
+    {
+      "english": "Don't let challenges stop you, learn from them.",
+      "czech": "Nenech se zastavit výzvami, uč se z nich.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897264"
+    },
+    {
+      "english": "You're making great progress, I'm proud of you.",
+      "czech": "Děláš velký pokrok, jsem na tebe hrdý/hrdá.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897267"
+    },
+    {
+      "english": "Focus on your strengths, you're capable.",
+      "czech": "Soustřeď se na své silné stránky, jsi schopný/schopná.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897270"
+    },
+    {
+      "english": "Think positively, good things will happen.",
+      "czech": "Mysli pozitivně, dobré věci se stanou.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897273"
+    },
+    {
+      "english": "You can achieve amazing things, keep pushing.",
+      "czech": "Dokážeš úžasné věci, pokračuj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897275"
+    },
+    {
+      "english": "Your determination is commendable.",
+      "czech": "Tvoje odhodlání je chvályhodné.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897278"
+    },
+    {
+      "english": "Believe in the process, trust the journey.",
+      "czech": "Věř procesu, důvěř cestě.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897281"
+    },
+    {
+      "english": "Let's stay motivated, together we can do it.",
+      "czech": "Zůstaňme motivovaní, společně to zvládneme.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897284"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "czech": "Tvé úsilí je opravdu oceněné.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897287"
+    },
+    {
+      "english": "Embrace the learning curve, it's normal.",
+      "czech": "Přijmi křivku učení, je to normální.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897289"
+    },
+    {
+      "english": "You're handling this really well.",
+      "czech": "Zvládáš to opravdu dobře.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897292"
+    },
+    {
+      "english": "Keep that positive spark alive.",
+      "czech": "Udržuj tu pozitivní jiskru.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897295"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "czech": "Tahle výzva tě posílí.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897298"
+    },
+    {
+      "english": "Your dedication is outstanding.",
+      "czech": "Tvoje nasazení je vynikající.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897300"
+    },
+    {
+      "english": "Focus on the next step, you're almost there.",
+      "czech": "Soustrěď se na další krok, jsi skoro tam.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897303"
+    },
+    {
+      "english": "You have a great mindset for this.",
+      "czech": "Máš na to skvělou mysl.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897306"
+    },
+    {
+      "english": "Each small victory builds momentum.",
+      "czech": "Každé malé vítězství buduje hybnost.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897308"
+    },
+    {
+      "english": "Your resilience is truly admirable.",
+      "czech": "Tvoje odolnost je opravdu obdivuhodná.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897311"
+    },
+    {
+      "english": "Keep believing, keep striving.",
+      "czech": "Dále věř, dále snaž se.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897313"
+    },
+    {
+      "english": "You're capable of so much more.",
+      "czech": "Dokážeš mnohem víc.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897316"
+    },
+    {
+      "english": "Let's celebrate your successes, big and small.",
+      "czech": "Oslavuj své úspěchy, velké i malé.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897319"
+    },
+    {
+      "english": "Speak up, I can't hear you.",
+      "czech": "Mluv nahlas, neslyším tě.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897322"
+    },
+    {
+      "english": "Is this line free?",
+      "czech": "Je tohle volno?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897324"
+    },
+    {
+      "english": "Hold on a sec, please.",
+      "czech": "Počkej chvilku, prosím.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897327"
+    },
+    {
+      "english": "He's not here right now.",
+      "czech": "Teď tady není.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897330"
+    },
+    {
+      "english": "Can you speak slower?",
+      "czech": "Můžeš mluvit pomaleji?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897332"
+    },
+    {
+      "english": "Leave a message after beep.",
+      "czech": "Nech vzkaz po tónu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897335"
+    },
+    {
+      "english": "What's the signal like?",
+      "czech": "Jaký je signál?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897337"
+    },
+    {
+      "english": "My battery is dying.",
+      "czech": "Baterka mi umírá.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897341"
+    },
+    {
+      "english": "Is the reception good?",
+      "czech": "Je dobrý signál?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897344"
+    },
+    {
+      "english": "Let's text instead.",
+      "czech": "Napíšeme si radši.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897347"
+    },
+    {
+      "english": "Don't hang up yet.",
+      "czech": "Ještě nezavěšuj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897349"
+    },
+    {
+      "english": "The line is busy.",
+      "czech": "Linka je obsazená.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897352"
+    },
+    {
+      "english": "I'm on another call.",
+      "czech": "Jsem na jiném hovoru.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897356"
+    },
+    {
+      "english": "Let's make plans soon.",
+      "czech": "Uděláme brzy plány.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897358"
+    },
+    {
+      "english": "Call me back when free.",
+      "czech": "Zavolej, až budeš moct.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897361"
+    },
+    {
+      "english": "I'm experiencing bad reception.",
+      "czech": "Mám špatný signál.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897364"
+    },
+    {
+      "english": "Is this a bad time?",
+      "czech": "Je špatný čas?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897366"
+    },
+    {
+      "english": "Talk to you later.",
+      "czech": "Mluvíme později.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897382"
+    },
+    {
+      "english": "Send me a quick text.",
+      "czech": "Pošli mi rychlou zprávu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897384"
+    },
+    {
+      "english": "I'll be brief.",
+      "czech": "Budu stručný.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897389"
+    },
+    {
+      "english": "The call dropped.",
+      "czech": "Hovor spadl.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897392"
+    },
+    {
+      "english": "Are you on silent mode?",
+      "czech": "Máš to na tichém?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897394"
+    },
+    {
+      "english": "Let's wrap this up.",
+      "czech": "Ukončeme to.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897397"
+    },
+    {
+      "english": "I need to think about it, deeply.",
+      "czech": "Musím si to, pořádně promyslet.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897399"
+    },
+    {
+      "english": "This really makes me, ponder things.",
+      "czech": "Tohle mě nutí, k zamyšlení.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897402"
+    },
+    {
+      "english": "I feel a bit, lost in thought.",
+      "czech": "Cítím se trochu, ztracený v myšlenkách.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897405"
+    },
+    {
+      "english": "It's important, to be vulnerable.",
+      "czech": "Je důležité, být zranitelný.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897408"
+    },
+    {
+      "english": "I'm still processing, this situation.",
+      "czech": "Stále to zpracovávám, tu situaci.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897411"
+    },
+    {
+      "english": "Give me some, time to reflect.",
+      "czech": "Dej mi chvíli, na zamyšlení.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897414"
+    },
+    {
+      "english": "I'm thinking, beyond the surface.",
+      "czech": "Přemýšlím, pod povrchem.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897417"
+    },
+    {
+      "english": "This requires, genuine introspection.",
+      "czech": "Tohle vyžaduje, upřímnou sebereflexi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897420"
+    },
+    {
+      "english": "Can we talk, about what's inside?",
+      "czech": "Můžeme mluvit, o tom co je uvnitř?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897423"
+    },
+    {
+      "english": "I'm feeling, quite contemplative today.",
+      "czech": "Dnes se cítím, dost zamyšleně.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897426"
+    },
+    {
+      "english": "What's truly, on your mind?",
+      "czech": "Co máš opravdu, na srdci?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897428"
+    },
+    {
+      "english": "Let's explore, our inner world.",
+      "czech": "Pojďme prozkoumat, náš vnitřní svět.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897431"
+    },
+    {
+      "english": "I need patience, with myself.",
+      "czech": "Potřebuji trpělivost, sám se sebou.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897434"
+    },
+    {
+      "english": "This calls for, deep consideration.",
+      "czech": "Tohle volá, po hlubokém zvážení.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897437"
+    },
+    {
+      "english": "I'm trying, to understand my motives.",
+      "czech": "Snažím se, pochopit své motivy.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897440"
+    },
+    {
+      "english": "Let's share, our raw thoughts.",
+      "czech": "Sdílejme, své syrové myšlenky.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897443"
+    },
+    {
+      "english": "My perspective, has shifted lately.",
+      "czech": "Můj pohled, se v poslední době změnil.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897449"
+    },
+    {
+      "english": "I'm reassessing, my priorities.",
+      "czech": "Přehodnocuji, své priority.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897452"
+    },
+    {
+      "english": "This moment, requires honesty.",
+      "czech": "Tento moment, vyžaduje upřímnost.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897456"
+    },
+    {
+      "english": "I'm not sure, how I feel yet.",
+      "czech": "Ještě si nejsem, jistý/á jak se cítím.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897459"
+    },
+    {
+      "english": "This conversation, is profound.",
+      "czech": "Tato konverzace, je hluboká.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897462"
+    },
+    {
+      "english": "I'm contemplating, the bigger picture.",
+      "czech": "Přemýšlím, nad širším obrazem.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897464"
+    },
+    {
+      "english": "Let's pause, and listen within.",
+      "czech": "Zastavme se, a naslouchejme uvnitř.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897467"
+    },
+    {
+      "english": "This makes me, wonder about purpose.",
+      "czech": "Tohle mě nutí, přemýšlet o smyslu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-25T05:49:42.897470"
     }
   ],
-  "last_updated": "2026-10-24T05:32:29.341273"
+  "last_updated": "2026-10-25T05:49:42.897472"
 }
