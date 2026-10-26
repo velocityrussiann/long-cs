@@ -6479,7 +6479,727 @@
       "czech": "Tohle mě nutí, přemýšlet o smyslu.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-25T05:49:42.897470"
+    },
+    {
+      "english": "Happy birthday, my friend!",
+      "czech": "Všechno nejlepší, kamaráde!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228360"
+    },
+    {
+      "english": "Cheers, to us!",
+      "czech": "Na zdraví, na nás!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228373"
+    },
+    {
+      "english": "Let's celebrate!",
+      "czech": "Pojďme to oslavit!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228377"
+    },
+    {
+      "english": "What a great party!",
+      "czech": "To je skvělá párty!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228379"
+    },
+    {
+      "english": "Are you having fun?",
+      "czech": "Bavíš se?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228381"
+    },
+    {
+      "english": "This cake is delicious!",
+      "czech": "Ten dort je výborný!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228383"
+    },
+    {
+      "english": "When is the party?",
+      "czech": "Kdy je ta oslava?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228385"
+    },
+    {
+      "english": "I can't wait!",
+      "czech": "Už se nemůžu dočkat!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228390"
+    },
+    {
+      "english": "Thanks for inviting me!",
+      "czech": "Díky za pozvání!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228392"
+    },
+    {
+      "english": "Let's dance!",
+      "czech": "Pojďme tancovat!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228394"
+    },
+    {
+      "english": "Happy New Year!",
+      "czech": "Šťastný nový rok!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228398"
+    },
+    {
+      "english": "Time for presents!",
+      "czech": "Čas na dárky!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228400"
+    },
+    {
+      "english": "This is amazing!",
+      "czech": "To je úžasné!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228404"
+    },
+    {
+      "english": "Let's have some fun.",
+      "czech": "Pojďme se pobavit.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228405"
+    },
+    {
+      "english": "Happy anniversary!",
+      "czech": "Všechno nejlepší k výročí!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228407"
+    },
+    {
+      "english": "Is there music?",
+      "czech": "Hraje hudba?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228409"
+    },
+    {
+      "english": "You look great!",
+      "czech": "Vypadáš skvěle!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228411"
+    },
+    {
+      "english": "Let's make a toast.",
+      "czech": "Pojďme si připít.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228413"
+    },
+    {
+      "english": "I brought a gift.",
+      "czech": "Přinesl/a jsem dárek.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228415"
+    },
+    {
+      "english": "What are we celebrating?",
+      "czech": "Co slavíme?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228416"
+    },
+    {
+      "english": "Another year older!",
+      "czech": "Další rok starší!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228418"
+    },
+    {
+      "english": "This is the best party!",
+      "czech": "Tohle je nejlepší večírek!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228422"
+    },
+    {
+      "english": "Let's sing!",
+      "czech": "Pojďme zpívat!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228424"
+    },
+    {
+      "english": "Enjoy the evening!",
+      "czech": "Užijte si večer!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228425"
+    },
+    {
+      "english": "So happy to be here!",
+      "czech": "Jsem tak rád/a, že tu můžu být!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228429"
+    },
+    {
+      "english": "Let's eat!",
+      "czech": "Pojďme jíst!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228431"
+    },
+    {
+      "english": "To new beginnings!",
+      "czech": "Na nové začátky!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228433"
+    },
+    {
+      "english": "What are you bringing, maybe?",
+      "czech": "Co přineseš, asi?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228435"
+    },
+    {
+      "english": "Who else is coming, do you know?",
+      "czech": "Kdo ještě přijde, víš?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228438"
+    },
+    {
+      "english": "What time does it start?",
+      "czech": "V kolik to začíná?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228440"
+    },
+    {
+      "english": "Where should I park?",
+      "czech": "Kde mám zaparkovat?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228442"
+    },
+    {
+      "english": "Is it a surprise party?",
+      "czech": "Je to překvapení?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228445"
+    },
+    {
+      "english": "Do you need directions?",
+      "czech": "Potřebuješ poradit cestu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228447"
+    },
+    {
+      "english": "What should I wear?",
+      "czech": "Co si mám vzít na sebe?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228449"
+    },
+    {
+      "english": "How do I get there?",
+      "czech": "Jak se tam dostanu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228451"
+    },
+    {
+      "english": "Is there enough food?",
+      "czech": "Je dost jídla?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228453"
+    },
+    {
+      "english": "Can I bring a plus one?",
+      "czech": "Můžu vzít někoho s sebou?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228455"
+    },
+    {
+      "english": "What's the dress code?",
+      "czech": "Jaký je dress code?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228457"
+    },
+    {
+      "english": "Should I bring drinks?",
+      "czech": "Mám přinést pití?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228459"
+    },
+    {
+      "english": "Is it okay to be late?",
+      "czech": "Můžu přijít pozdě?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228461"
+    },
+    {
+      "english": "What kind of music?",
+      "czech": "Jaká bude hudba?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228463"
+    },
+    {
+      "english": "Where is the restroom?",
+      "czech": "Kde je toaleta?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228465"
+    },
+    {
+      "english": "Who is the host?",
+      "czech": "Kdo je hostitel?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228467"
+    },
+    {
+      "english": "Can I invite a friend?",
+      "czech": "Můžu pozvat kamaráda?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228469"
+    },
+    {
+      "english": "What time should I leave?",
+      "czech": "Kdy mám odejít?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228472"
+    },
+    {
+      "english": "Do you want to sit here?",
+      "czech": "Chceš si sednout sem?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228474"
+    },
+    {
+      "english": "Is this seat taken?",
+      "czech": "Je tohle místo volné?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228476"
+    },
+    {
+      "english": "Can we talk later?",
+      "czech": "Můžeme si promluvit později?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228478"
+    },
+    {
+      "english": "What's your favorite part?",
+      "czech": "Co je tvůj nejoblíbenější?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228480"
+    },
+    {
+      "english": "Do you like the decorations?",
+      "czech": "Líbí se ti výzdoba?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228482"
+    },
+    {
+      "english": "Can you pass the salt?",
+      "czech": "Můžeš mi podat sůl?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228485"
+    },
+    {
+      "english": "Did you enjoy the event?",
+      "czech": "Užil sis akci?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228487"
+    },
+    {
+      "english": "Can we take a photo?",
+      "czech": "Můžeme se vyfotit?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228489"
+    },
+    {
+      "english": "Keep shining, my friend.",
+      "czech": "Záři dál, příteli.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228492"
+    },
+    {
+      "english": "This moment is yours.",
+      "czech": "Tenhle okamžik je tvůj.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228494"
+    },
+    {
+      "english": "You're doing wonderfully.",
+      "czech": "Počínáš si skvěle.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228496"
+    },
+    {
+      "english": "Embrace the good vibes.",
+      "czech": "Přijmi dobrou náladu.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228498"
+    },
+    {
+      "english": "Celebrate your progress.",
+      "czech": "Oslav svůj pokrok.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228500"
+    },
+    {
+      "english": "This is your time, shine.",
+      "czech": "Teď je tvůj čas, zazář.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228502"
+    },
+    {
+      "english": "You deserve this joy.",
+      "czech": "Zasloužíš si tuhle radost.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228504"
+    },
+    {
+      "english": "Stay positive, my dear.",
+      "czech": "Zůstaň pozitivní, zlatíčko.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228506"
+    },
+    {
+      "english": "Every step counts, truly.",
+      "czech": "Každý krok se počítá, vážně.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228509"
+    },
+    {
+      "english": "Enjoy this fantastic moment.",
+      "czech": "Užij si tenhle skvělý moment.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228511"
+    },
+    {
+      "english": "Let your spirit soar.",
+      "czech": "Nech svou duši létat.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228513"
+    },
+    {
+      "english": "You are truly amazing.",
+      "czech": "Jsi opravdu úžasný.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228515"
+    },
+    {
+      "english": "Radiate happiness, friend.",
+      "czech": "Vyzařuj štěstí, příteli.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228517"
+    },
+    {
+      "english": "Dream big, enjoy now.",
+      "czech": "Sněte ve velkém, užijte si teď.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228519"
+    },
+    {
+      "english": "This party has great energy.",
+      "czech": "Tato párty má skvělou energii.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228521"
+    },
+    {
+      "english": "You light up the room.",
+      "czech": "Rozsvítíš celou místnost.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228523"
+    },
+    {
+      "english": "Keep that positive outlook.",
+      "czech": "Udrž ten pozitivní pohled.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228525"
+    },
+    {
+      "english": "You deserve all the cheers.",
+      "czech": "Zasloužíš si všechnu slávu.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228531"
+    },
+    {
+      "english": "This calls for celebration!",
+      "czech": "Tohle si žádá oslavu!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228533"
+    },
+    {
+      "english": "You inspire everyone here.",
+      "czech": "Inspiruješ všechny tady.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228535"
+    },
+    {
+      "english": "Let's soak in this moment.",
+      "czech": "Pojďme si tenhle moment vychutnat.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228537"
+    },
+    {
+      "english": "Your presence makes it special.",
+      "czech": "Tvoje přítomnost to dělá speciální.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228539"
+    },
+    {
+      "english": "You're wonderful, simply put.",
+      "czech": "Jsi báječný, jednoduše řečeno.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228542"
+    },
+    {
+      "english": "Keep believing, keep growing.",
+      "czech": "Stále věř, stále rostete.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228545"
+    },
+    {
+      "english": "This joy is well-earned.",
+      "czech": "Tato radost je zasloužená.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228549"
+    },
+    {
+      "english": "Let's get this party started!",
+      "czech": "Jdeme na to!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228551"
+    },
+    {
+      "english": "To good times, always!",
+      "czech": "Na zdraví, navždycky!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228553"
+    },
+    {
+      "english": "This is the life, eh?",
+      "czech": "To je život, co?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228555"
+    },
+    {
+      "english": "May your glass never be empty.",
+      "czech": "Ať se ti sklenice nikdy nevyprázdní.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228557"
+    },
+    {
+      "english": "Let's raise a glass!",
+      "czech": "Pozvedněme sklenice!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228559"
+    },
+    {
+      "english": "We're here to celebrate!",
+      "czech": "Jsme tu, abychom to oslavili!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228561"
+    },
+    {
+      "english": "Have a blast tonight!",
+      "czech": "Užijte si to!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228564"
+    },
+    {
+      "english": "May fortune be with you.",
+      "czech": "Štěstí ti přeji.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228566"
+    },
+    {
+      "english": "Let the good times roll!",
+      "czech": "Ať se zábava rozjede!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228568"
+    },
+    {
+      "english": "Cheers to friendship!",
+      "czech": "Na přátelství!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228569"
+    },
+    {
+      "english": "This calls for dancing!",
+      "czech": "Tohle si žádá tanec!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228571"
+    },
+    {
+      "english": "Enjoy every moment.",
+      "czech": "Užívej si každý okamžik.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228573"
+    },
+    {
+      "english": "Here's to success!",
+      "czech": "Na úspěch!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228575"
+    },
+    {
+      "english": "This is truly special.",
+      "czech": "Tohle je opravdu speciální.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228577"
+    },
+    {
+      "english": "Let's make merry!",
+      "czech": "Pojďme se bavit!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228579"
+    },
+    {
+      "english": "May joy be yours.",
+      "czech": "Ať je radost tvá.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228581"
+    },
+    {
+      "english": "This deserves a celebration.",
+      "czech": "Tohle si zaslouží oslavu.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228583"
+    },
+    {
+      "english": "Let's cut loose!",
+      "czech": "Pojďme se uvolnit!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228585"
+    },
+    {
+      "english": "To health and happiness!",
+      "czech": "Na zdraví a štěstí!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228587"
+    },
+    {
+      "english": "This is unforgettable.",
+      "czech": "Tohle je nezapomenutelné.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228589"
+    },
+    {
+      "english": "Let's live it up!",
+      "czech": "Pojďme si to užít!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228590"
+    },
+    {
+      "english": "A moment to cherish.",
+      "czech": "Okamžik k uchování.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228592"
+    },
+    {
+      "english": "Let's make some noise!",
+      "czech": "Udělejme hluk!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228594"
+    },
+    {
+      "english": "This is what it's all about.",
+      "czech": "O tohle tady jde.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228596"
+    },
+    {
+      "english": "To our next adventure!",
+      "czech": "Na naše další dobrodružství!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228598"
+    },
+    {
+      "english": "May your dreams come true.",
+      "czech": "Ať se ti sny splní.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228601"
+    },
+    {
+      "english": "Don't forget the invitations, please.",
+      "czech": "Nezapomeň, prosím, na pozvánky.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228604"
+    },
+    {
+      "english": "Who is bringing the cake?",
+      "czech": "Kdo přinese dort?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228606"
+    },
+    {
+      "english": "We need more decorations, don't we?",
+      "czech": "Potřebujeme víc výzdoby, že ano?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228608"
+    },
+    {
+      "english": "Is the music loud enough?",
+      "czech": "Je hudba dostatečně hlasitá?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228612"
+    },
+    {
+      "english": "Make sure guests feel welcome.",
+      "czech": "Ať se hosté cítí vítaně.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228614"
+    },
+    {
+      "english": "Remember to take photos, okay?",
+      "czech": "Pamatuj, že fotíme, ano?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228616"
+    },
+    {
+      "english": "Help yourself to snacks, please.",
+      "czech": "Nabírejte si občerstvení, prosím.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228618"
+    },
+    {
+      "english": "Did you get enough drinks?",
+      "czech": "Máš dostatek pití?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228620"
+    },
+    {
+      "english": "Let's clean up afterwards, together.",
+      "czech": "Pořádně uklidíme, společně.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228622"
+    },
+    {
+      "english": "Don't forget your coat, it's cold.",
+      "czech": "Nezapomeň kabát, je zima.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228625"
+    },
+    {
+      "english": "Can you help me with this?",
+      "czech": "Můžeš mi s tím pomoct?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228627"
+    },
+    {
+      "english": "Where should we put the gifts?",
+      "czech": "Kam dáme dárky?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228629"
+    },
+    {
+      "english": "Is there anything else needed?",
+      "czech": "Je ještě něco potřeba?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228631"
+    },
+    {
+      "english": "Everyone seems to be having fun.",
+      "czech": "Všichni se baví, zdá se.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228633"
+    },
+    {
+      "english": "This party is very well organized.",
+      "czech": "Tato párty je velmi dobře zorganizovaná.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228636"
+    },
+    {
+      "english": "Don't leave food on the table.",
+      "czech": "Nenechávej jídlo na stole.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-26T05:52:55.228638"
     }
   ],
-  "last_updated": "2026-10-25T05:49:42.897472"
+  "last_updated": "2026-10-26T05:52:55.228640"
 }
