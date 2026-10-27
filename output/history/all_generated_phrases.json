@@ -7199,7 +7199,727 @@
       "czech": "Nenechávej jídlo na stole.",
       "category": "Celebrations & Parties",
       "generated_at": "2026-10-26T05:52:55.228638"
+    },
+    {
+      "english": "Let's hope for the best, okay?",
+      "czech": "Doufejme v to nejlepší, ano?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430332"
+    },
+    {
+      "english": "I'm hoping for good news.",
+      "czech": "Doufám v dobré zprávy.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430345"
+    },
+    {
+      "english": "Fingers crossed for you!",
+      "czech": "Držím ti palce!",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430348"
+    },
+    {
+      "english": "Maybe it will work out.",
+      "czech": "Možná to vyjde.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430352"
+    },
+    {
+      "english": "Let's keep our fingers crossed.",
+      "czech": "Nechme si držet palce.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430354"
+    },
+    {
+      "english": "I have a good feeling.",
+      "czech": "Mám dobrý pocit.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430359"
+    },
+    {
+      "english": "Hopefully, it won't rain.",
+      "czech": "Snad nebude pršet.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430362"
+    },
+    {
+      "english": "We can only hope.",
+      "czech": "Můžeme jen doufat.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430368"
+    },
+    {
+      "english": "Let's wish for success.",
+      "czech": "Přejme si úspěch.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430371"
+    },
+    {
+      "english": "It might get better.",
+      "czech": "Mohlo by to být lepší.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430374"
+    },
+    {
+      "english": "I hope you get well soon.",
+      "czech": "Doufám, že se brzy uzdravíš.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430377"
+    },
+    {
+      "english": "Let's hope for a miracle.",
+      "czech": "Doufejme v zázrak.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430380"
+    },
+    {
+      "english": "I'm optimistic about this.",
+      "czech": "Jsem v tomhle optimistický.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430382"
+    },
+    {
+      "english": "There's still a chance.",
+      "czech": "Stále existuje šance.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430385"
+    },
+    {
+      "english": "Let's cross our fingers.",
+      "czech": "Zkřížíme prsty.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430390"
+    },
+    {
+      "english": "I'm looking forward to it.",
+      "czech": "Těším se na to.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430392"
+    },
+    {
+      "english": "Maybe tomorrow will be better.",
+      "czech": "Možná bude zítra lépe.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430395"
+    },
+    {
+      "english": "Let's keep a positive outlook.",
+      "czech": "Zachovejme si pozitivní pohled.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430398"
+    },
+    {
+      "english": "I'm hoping for a positive outcome.",
+      "czech": "Doufám v pozitivní výsledek.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430401"
+    },
+    {
+      "english": "Let's believe it can happen.",
+      "czech": "Věřme, že se to může stát.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430403"
+    },
+    {
+      "english": "I'm sending you good vibes.",
+      "czech": "Posílám ti dobré vibrace.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430406"
+    },
+    {
+      "english": "It's worth a shot, right?",
+      "czech": "Stojí to za pokus, že?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430409"
+    },
+    {
+      "english": "I'm holding out hope.",
+      "czech": "Držím se naděje.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430411"
+    },
+    {
+      "english": "Let's hope it all works out.",
+      "czech": "Doufejme, že to všechno klapne.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430414"
+    },
+    {
+      "english": "I'm feeling hopeful today.",
+      "czech": "Dnes mám naději.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430416"
+    },
+    {
+      "english": "Let's wish for good luck.",
+      "czech": "Přejme si hodně štěstí.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430419"
+    },
+    {
+      "english": "It could be worse, you know.",
+      "czech": "Mohlo by být hůř, víš.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430421"
+    },
+    {
+      "english": "I'm counting on a positive turn.",
+      "czech": "Spoléhám na pozitivní obrat.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430424"
+    },
+    {
+      "english": "Let's hope for a bright future.",
+      "czech": "Doufejme v jasnou budoucnost.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430459"
+    },
+    {
+      "english": "What do you think, will it work?",
+      "czech": "Co myslíš, povede se to?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430463"
+    },
+    {
+      "english": "Do you have any suggestions for hope?",
+      "czech": "Máš nějaké tipy na naději?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430466"
+    },
+    {
+      "english": "How can we stay positive about this?",
+      "czech": "Jak můžeme zůstat optimističtí ohledně toho?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430468"
+    },
+    {
+      "english": "What if we try this approach?",
+      "czech": "Co kdybychom zkusili tento přístup?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430473"
+    },
+    {
+      "english": "Can we rely on luck here?",
+      "czech": "Můžeme se tu spolehnout na štěstí?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430476"
+    },
+    {
+      "english": "What's your best guess for the outcome?",
+      "czech": "Jaký je tvůj nejlepší odhad výsledku?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430479"
+    },
+    {
+      "english": "Should we expect good things?",
+      "czech": "Měli bychom očekávat dobré věci?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430482"
+    },
+    {
+      "english": "Is there a chance for improvement?",
+      "czech": "Je tu šance na zlepšení?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430484"
+    },
+    {
+      "english": "What's your feeling about the situation?",
+      "czech": "Jaký máš pocit ohledně situace?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430487"
+    },
+    {
+      "english": "Tell me, what do you hope for?",
+      "czech": "Řekni mi, v co doufáš?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430490"
+    },
+    {
+      "english": "Do you believe it's possible?",
+      "czech": "Věříš, že je to možné?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430493"
+    },
+    {
+      "english": "Could things turn out differently?",
+      "czech": "Mohly by se věci vyvinout jinak?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430496"
+    },
+    {
+      "english": "What's the plan for a positive result?",
+      "czech": "Jaký je plán pro pozitivní výsledek?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430498"
+    },
+    {
+      "english": "Are you optimistic about this venture?",
+      "czech": "Jsi ohledně tohoto podniku optimista?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430501"
+    },
+    {
+      "english": "What advice do you have for staying hopeful?",
+      "czech": "Jakou radu máš pro udržení naděje?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430503"
+    },
+    {
+      "english": "Can we influence the outcome?",
+      "czech": "Můžeme ovlivnit výsledek?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430506"
+    },
+    {
+      "english": "What are your expectations now?",
+      "czech": "Jaká jsou teď tvá očekávání?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430512"
+    },
+    {
+      "english": "Is there room for optimism?",
+      "czech": "Je tu prostor pro optimismus?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430515"
+    },
+    {
+      "english": "What if we aimed higher?",
+      "czech": "Co kdybychom mířili výš?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430517"
+    },
+    {
+      "english": "Do you sense a good sign?",
+      "czech": "Cítíš nějaké dobré znamení?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430520"
+    },
+    {
+      "english": "What do we do next for hope?",
+      "czech": "Co uděláme dál pro naději?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430522"
+    },
+    {
+      "english": "Will this situation improve, do you think?",
+      "czech": "Zlepší se tato situace, myslíš?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430525"
+    },
+    {
+      "english": "How can we encourage positive change?",
+      "czech": "Jak můžeme podpořit pozitivní změnu?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430528"
+    },
+    {
+      "english": "Are we on the right track for success?",
+      "czech": "Jsme na správné cestě k úspěchu?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430531"
+    },
+    {
+      "english": "What positive outcome do you envision?",
+      "czech": "Jaký pozitivní výsledek si představuješ?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430533"
+    },
+    {
+      "english": "Should we maintain hope?",
+      "czech": "Máme si udržet naději?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430535"
+    },
+    {
+      "english": "What are the chances of a breakthrough?",
+      "czech": "Jaké jsou šance na průlom?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430540"
+    },
+    {
+      "english": "How do you feel about the possibilities?",
+      "czech": "Jak se cítíš ohledně možností?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430542"
+    },
+    {
+      "english": "Keep your chin up, friend.",
+      "czech": "Drž hlavu vzhůru, příteli.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430545"
+    },
+    {
+      "english": "Better days are coming.",
+      "czech": "Lepší dny přijdou.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430547"
+    },
+    {
+      "english": "There's always a way.",
+      "czech": "Vždycky existuje cesta.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430550"
+    },
+    {
+      "english": "Good things take time.",
+      "czech": "Dobré věci potřebují čas.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430553"
+    },
+    {
+      "english": "Stay strong, no matter what.",
+      "czech": "Zůstaň silný, ať se děje cokoliv.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430555"
+    },
+    {
+      "english": "Tomorrow is a new chance.",
+      "czech": "Zítra je nová šance.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430558"
+    },
+    {
+      "english": "Hang in there.",
+      "czech": "Vydrž.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430560"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "czech": "Tvoje úsilí se vyplatí.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430563"
+    },
+    {
+      "english": "We're almost there.",
+      "czech": "Už jsme skoro tam.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430567"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "czech": "Pokračuj dál.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430570"
+    },
+    {
+      "english": "Don't lose faith.",
+      "czech": "Neztrácej víru.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430572"
+    },
+    {
+      "english": "The future looks bright.",
+      "czech": "Budoucnost vypadá skvěle.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430575"
+    },
+    {
+      "english": "Let the light in.",
+      "czech": "Pusť dovnitř světlo.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430577"
+    },
+    {
+      "english": "Things will get better.",
+      "czech": "Věci se zlepší.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430580"
+    },
+    {
+      "english": "Stay positive, always.",
+      "czech": "Zůstaň pozitivní, vždycky.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430582"
+    },
+    {
+      "english": "A new dawn is rising.",
+      "czech": "Nová úsvit stoupá.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430585"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "czech": "Nikdy se nepodceňuj.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430588"
+    },
+    {
+      "english": "This too shall pass.",
+      "czech": "I tohle přejde.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430590"
+    },
+    {
+      "english": "There is always hope.",
+      "czech": "Naděje je vždy.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430592"
+    },
+    {
+      "english": "Keep your spirits high.",
+      "czech": "Udržuj si dobrou náladu.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430595"
+    },
+    {
+      "english": "A brighter future awaits.",
+      "czech": "Čeká nás světlejší budoucnost.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430599"
+    },
+    {
+      "english": "Hope springs eternal, you know?",
+      "czech": "Naděje umírá poslední, víš?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430601"
+    },
+    {
+      "english": "Don't give up the ghost yet.",
+      "czech": "Ještě to nevzdávej.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430604"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "czech": "Měj oči na šťávě.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430606"
+    },
+    {
+      "english": "Who knows what tomorrow brings?",
+      "czech": "Kdo ví, co přinese zítra?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430609"
+    },
+    {
+      "english": "It's not over until it's over.",
+      "czech": "Není to konec, dokud není konec.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430612"
+    },
+    {
+      "english": "There's always a glimmer of hope.",
+      "czech": "Vždycky je tam záblesk naděje.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430615"
+    },
+    {
+      "english": "We'll see what happens.",
+      "czech": "Uvidíme, co se stane.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430617"
+    },
+    {
+      "english": "It might just work out.",
+      "czech": "Mohlo by to vyjít.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430620"
+    },
+    {
+      "english": "Keep the faith alive.",
+      "czech": "Uchovej víru živou.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430622"
+    },
+    {
+      "english": "Let's give it a go.",
+      "czech": "Dejme tomu šanci.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430625"
+    },
+    {
+      "english": "A little hope goes a long way.",
+      "czech": "Trocha naděje znamená hodně.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430628"
+    },
+    {
+      "english": "We're looking for a positive turn.",
+      "czech": "Hledáme pozitivní obrat.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430630"
+    },
+    {
+      "english": "It's worth hoping for.",
+      "czech": "Stojí za to doufat.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430633"
+    },
+    {
+      "english": "We'll get through this.",
+      "czech": "Zvládneme to.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430637"
+    },
+    {
+      "english": "Maybe a miracle will happen.",
+      "czech": "Možná se stane zázrak.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430640"
+    },
+    {
+      "english": "Let's remain hopeful.",
+      "czech": "Zůstaňme doufat.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430642"
+    },
+    {
+      "english": "This could be our lucky break.",
+      "czech": "Tohle by mohl být náš šťastný zlom.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430645"
+    },
+    {
+      "english": "A fresh start is possible.",
+      "czech": "Čerstvý začátek je možný.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430647"
+    },
+    {
+      "english": "Let's see where this leads.",
+      "czech": "Uvidíme, kam to povede.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430650"
+    },
+    {
+      "english": "It's a long shot, but okay.",
+      "czech": "Je to vzdálená šance, ale dobře.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430653"
+    },
+    {
+      "english": "We're counting on a good outcome.",
+      "czech": "Počítáme s dobrým výsledkem.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430655"
+    },
+    {
+      "english": "There's always a chance.",
+      "czech": "Vždycky je šance.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430658"
+    },
+    {
+      "english": "Let's put our faith in it.",
+      "czech": "Vložme do toho naši víru.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430660"
+    },
+    {
+      "english": "Believe in yourself, even when it's hard.",
+      "czech": "Věř si, i když je to těžké.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430663"
+    },
+    {
+      "english": "Small steps, big progress, remember that.",
+      "czech": "Malé kroky, velký pokrok, pamatuj na to.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430666"
+    },
+    {
+      "english": "What's the worst that can happen, really?",
+      "czech": "Co nejhoršího se může stát, vážně?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430669"
+    },
+    {
+      "english": "Keep trying, don't give up easily.",
+      "czech": "Zkoušej dál, nevzdávej to snadno.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430672"
+    },
+    {
+      "english": "Look for the good, wherever you are.",
+      "czech": "Hledej to dobré, ať jsi kdekoli.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430675"
+    },
+    {
+      "english": "Every day offers a new possibility.",
+      "czech": "Každý den nabízí novou možnost.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430679"
+    },
+    {
+      "english": "Can we find a way around this?",
+      "czech": "Dokážeme to obejít?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430682"
+    },
+    {
+      "english": "Let's take it one step at a time.",
+      "czech": "Pojďme na to krok za krokem.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430684"
+    },
+    {
+      "english": "Sometimes, just waiting helps a lot.",
+      "czech": "Někdy pomůže i prosté čekání.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430689"
+    },
+    {
+      "english": "Keep your mind open for new ideas.",
+      "czech": "Měj mysl otevřenou novým nápadům.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430691"
+    },
+    {
+      "english": "This situation, it will pass eventually.",
+      "czech": "Tahle situace, ta nakonec přejde.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430694"
+    },
+    {
+      "english": "Find comfort in the small things, okay?",
+      "czech": "Najdi útěchu v maličkostech, ano?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430697"
+    },
+    {
+      "english": "We learn more from mistakes than successes.",
+      "czech": "Z chyb se učíme víc než z úspěchů.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430699"
+    },
+    {
+      "english": "Don't let fear stop your plans.",
+      "czech": "Nenech strach zastavit tvé plány.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430702"
+    },
+    {
+      "english": "Who else can we ask for help?",
+      "czech": "Koho dalšího můžeme požádat o pomoc?",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430705"
+    },
+    {
+      "english": "Things tend to work out in the end.",
+      "czech": "Věci se nakonec nějak vyřeší.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430709"
+    },
+    {
+      "english": "It’s worth giving this one more try.",
+      "czech": "Stojí za to tomu dát ještě jednu šanci.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430713"
+    },
+    {
+      "english": "Let's consider all the options we have.",
+      "czech": "Zvažme všechny možnosti, co máme.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430716"
+    },
+    {
+      "english": "Adaptability is key to moving forward.",
+      "czech": "Přizpůsobivost je klíčem k postupu.",
+      "category": "Hope",
+      "generated_at": "2026-10-27T06:04:57.430718"
     }
   ],
-  "last_updated": "2026-10-26T05:52:55.228640"
+  "last_updated": "2026-10-27T06:04:57.430720"
 }
