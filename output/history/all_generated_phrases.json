@@ -7919,7 +7919,727 @@
       "czech": "Přizpůsobivost je klíčem k postupu.",
       "category": "Hope",
       "generated_at": "2026-10-27T06:04:57.430718"
+    },
+    {
+      "english": "What a great day, isn't it?",
+      "czech": "To je skvělý den, že jo?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847277"
+    },
+    {
+      "english": "I'm so happy, really!",
+      "czech": "Mám takovou radost, vážně!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847291"
+    },
+    {
+      "english": "This is wonderful news!",
+      "czech": "To je báječná zpráva!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847293"
+    },
+    {
+      "english": "I feel great, thank you.",
+      "czech": "Cítím se skvěle, děkuji.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847295"
+    },
+    {
+      "english": "That makes me smile.",
+      "czech": "To mě rozesmálo.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847298"
+    },
+    {
+      "english": "Everything is perfect right now.",
+      "czech": "Všechno je teď perfektní.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847300"
+    },
+    {
+      "english": "I'm really excited about this.",
+      "czech": "Opravdu se na to těším.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847302"
+    },
+    {
+      "english": "This is fantastic, absolutely!",
+      "czech": "To je fantastické, naprosto!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847306"
+    },
+    {
+      "english": "A wonderful achievement, well done!",
+      "czech": "Skvělý úspěch, gratuluji!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847309"
+    },
+    {
+      "english": "I'm in a good mood today.",
+      "czech": "Mám dnes dobrou náladu.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847311"
+    },
+    {
+      "english": "That's so kind of you.",
+      "czech": "To je od vás moc milé.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847312"
+    },
+    {
+      "english": "Pure joy, I love it!",
+      "czech": "Čistá radost, miluji to!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847314"
+    },
+    {
+      "english": "This is just brilliant!",
+      "czech": "To je prostě skvělé!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847315"
+    },
+    {
+      "english": "I'm so pleased with this outcome.",
+      "czech": "Jsem z toho výsledku nadšený/á.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847317"
+    },
+    {
+      "english": "That's a happy coincidence.",
+      "czech": "To je šťastná náhoda.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847319"
+    },
+    {
+      "english": "What a delightful moment!",
+      "czech": "To je potěšující okamžik!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847320"
+    },
+    {
+      "english": "I'm feeling very optimistic.",
+      "czech": "Cítím se velmi optimisticky.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847322"
+    },
+    {
+      "english": "Such a pleasant experience.",
+      "czech": "Takový příjemný zážitek.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847323"
+    },
+    {
+      "english": "We're doing great, aren't we?",
+      "czech": "Daří se nám skvěle, že?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847325"
+    },
+    {
+      "english": "This brings me so much joy.",
+      "czech": "To mi přináší tolik radosti.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847326"
+    },
+    {
+      "english": "I'm thrilled to be here.",
+      "czech": "Jsem nadšený/á, že tu jsem.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847328"
+    },
+    {
+      "english": "What a cheerful atmosphere!",
+      "czech": "To je veselá atmosféra!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847329"
+    },
+    {
+      "english": "This is simply the best!",
+      "czech": "To je prostě to nejlepší!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847331"
+    },
+    {
+      "english": "I'm so glad we met.",
+      "czech": "Jsem tak rád/a, že jsme se potkali.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847332"
+    },
+    {
+      "english": "This is absolutely wonderful!",
+      "czech": "To je naprosto úžasné!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847334"
+    },
+    {
+      "english": "What a pleasant surprise, really.",
+      "czech": "To je milé překvapení, opravdu.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847336"
+    },
+    {
+      "english": "I feel so content right now.",
+      "czech": "Cítím se teď tak spokojeně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847337"
+    },
+    {
+      "english": "What brings you such joy today?",
+      "czech": "Co ti dnes dělá takovou radost?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847339"
+    },
+    {
+      "english": "May I ask, what's making you happy?",
+      "czech": "Mohu se zeptat, co tě těší?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847341"
+    },
+    {
+      "english": "How did you achieve this happiness?",
+      "czech": "Jak jsi k téhle radosti dospěl?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847342"
+    },
+    {
+      "english": "Can you share your secret to joy?",
+      "czech": "Můžeš mi prozradit recept na štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847344"
+    },
+    {
+      "english": "Did something good happen, tell me?",
+      "czech": "Stalo se něco hezkého, pověz mi?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847346"
+    },
+    {
+      "english": "Do you recommend this place for fun?",
+      "czech": "Doporučil bys tohle místo pro zábavu?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847349"
+    },
+    {
+      "english": "Is there a special occasion you're celebrating?",
+      "czech": "Slavíš nějakou speciální příležitost?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847352"
+    },
+    {
+      "english": "What advice do you have for finding joy?",
+      "czech": "Jakou radu máš pro hledání štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847353"
+    },
+    {
+      "english": "Are you enjoying this conversation?",
+      "czech": "Baví tě tenhle rozhovor?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847355"
+    },
+    {
+      "english": "What makes you laugh the most?",
+      "czech": "Co tě rozesmívá nejvíc?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847357"
+    },
+    {
+      "english": "Could you explain this happy feeling?",
+      "czech": "Mohl bys mi vysvětlit tenhle pocit štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847358"
+    },
+    {
+      "english": "Did you find something delightful nearby?",
+      "czech": "Našel jsi něco roztomilého poblíž?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847360"
+    },
+    {
+      "english": "What's your favorite happy memory?",
+      "czech": "Jaká je tvoje oblíbená šťastná vzpomínka?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847362"
+    },
+    {
+      "english": "Are we on the same wavelength for fun?",
+      "czech": "Jsme naladění na stejnou vlnu zábavy?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847363"
+    },
+    {
+      "english": "What hobby brings you the most satisfaction?",
+      "czech": "Který koníček ti přináší největší uspokojení?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847365"
+    },
+    {
+      "english": "How do you spread happiness around?",
+      "czech": "Jak šíříš kolem sebe štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847367"
+    },
+    {
+      "english": "Would you like to join us for some fun?",
+      "czech": "Nechtěl by ses přidat k nám na chvíli zábavy?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847368"
+    },
+    {
+      "english": "What's your opinion on spontaneous joy?",
+      "czech": "Jaký máš názor na spontánní radost?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847370"
+    },
+    {
+      "english": "Can you believe this lucky turn of events?",
+      "czech": "Věříš tomuhle šťastnému obratu událostí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847371"
+    },
+    {
+      "english": "What's your favorite way to relax and be happy?",
+      "czech": "Jaký je tvůj oblíbený způsob relaxace a štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847373"
+    },
+    {
+      "english": "Are you finding joy in the simple things?",
+      "czech": "Nacházíš radost v maličkostech?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847375"
+    },
+    {
+      "english": "What inspired this cheerful mood?",
+      "czech": "Co inspirovalo tuhle veselou náladu?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847376"
+    },
+    {
+      "english": "Shall we explore something new and exciting?",
+      "czech": "Půjdeme prozkoumat něco nového a vzrušujícího?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847378"
+    },
+    {
+      "english": "What makes this moment truly special?",
+      "czech": "Co dělá tenhle moment opravdu výjimečným?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847379"
+    },
+    {
+      "english": "Do you believe in serendipity?",
+      "czech": "Věříš na náhodná, šťastná setkání?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847380"
+    },
+    {
+      "english": "What is your philosophy on happiness?",
+      "czech": "Jaká je tvoje filozofie štěstí?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847382"
+    },
+    {
+      "english": "Did you have a good laugh recently?",
+      "czech": "Uchvátil tě nedávno nějaký dobrý smích?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847383"
+    },
+    {
+      "english": "What are your dreams for the future?",
+      "czech": "Jaké jsou tvé sny o budoucnosti?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847385"
+    },
+    {
+      "english": "What's the best compliment you received?",
+      "czech": "Jaký je nejlepší kompliment, co jsi dostal?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847386"
+    },
+    {
+      "english": "Keep up the great work!",
+      "czech": "Jen tak dál!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847388"
+    },
+    {
+      "english": "You're really shining today.",
+      "czech": "Dneska ti to opravdu sluší.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847390"
+    },
+    {
+      "english": "Focus on the positive.",
+      "czech": "Soustřeď se na to dobré.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847391"
+    },
+    {
+      "english": "Let's celebrate your success!",
+      "czech": "Oslavme tvůj úspěch!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847393"
+    },
+    {
+      "english": "Think happy thoughts.",
+      "czech": "Mysli na to hezké.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847394"
+    },
+    {
+      "english": "This is a new beginning.",
+      "czech": "Tohle je nový začátek.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847396"
+    },
+    {
+      "english": "Your attitude is inspiring.",
+      "czech": "Tvůj přístup je inspirativní.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847397"
+    },
+    {
+      "english": "You have a bright future.",
+      "czech": "Máš skvělou budoucnost.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847399"
+    },
+    {
+      "english": "Embrace this moment fully.",
+      "czech": "Užívej si tento moment naplno.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847401"
+    },
+    {
+      "english": "You radiate positive energy.",
+      "czech": "Vyzařuješ pozitivní energii.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847403"
+    },
+    {
+      "english": "This is all going to work out.",
+      "czech": "Tohle všechno dopadne dobře.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847404"
+    },
+    {
+      "english": "You're making real progress.",
+      "czech": "Děláš opravdový pokrok.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847406"
+    },
+    {
+      "english": "Let your joy be contagious.",
+      "czech": "Ať tvá radost je nakažlivá.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847408"
+    },
+    {
+      "english": "Keep that positive spirit.",
+      "czech": "Zachovej si ten pozitivní duch.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847411"
+    },
+    {
+      "english": "You deserve all the good things.",
+      "czech": "Zasloužíš si všechno dobré.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847413"
+    },
+    {
+      "english": "This is a moment of triumph.",
+      "czech": "Tohle je okamžik triumfu.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847415"
+    },
+    {
+      "english": "Never underestimate your potential.",
+      "czech": "Nikdy nepodceňuj svůj potenciál.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847416"
+    },
+    {
+      "english": "Wishing you continued happiness.",
+      "czech": "Přeji ti další štěstí.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847418"
+    },
+    {
+      "english": "This is the bee's knees, isn't it?",
+      "czech": "To je pecka, ne?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847420"
+    },
+    {
+      "english": "My heart's singing, truly.",
+      "czech": "Srdce mi zpívá, fakt.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847422"
+    },
+    {
+      "english": "Feeling on top of the world, me.",
+      "czech": "Cítím se světu pánem, já.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847424"
+    },
+    {
+      "english": "This is pure bliss, honestly.",
+      "czech": "To je čirá blaženost, upřímně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847425"
+    },
+    {
+      "english": "Such a good vibe, here.",
+      "czech": "Taková dobrá nálada, tady.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847427"
+    },
+    {
+      "english": "I'm over the moon, today.",
+      "czech": "Jsem nadšený, dneska.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847428"
+    },
+    {
+      "english": "Pure delight, what a day!",
+      "czech": "Čistá radost, to je den!",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847430"
+    },
+    {
+      "english": "Things are looking up, finally.",
+      "czech": "Věci se obrací k lepšímu, konečně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847432"
+    },
+    {
+      "english": "A real cause for celebration, yes.",
+      "czech": "Opravdu důvod k oslavě, jo.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847433"
+    },
+    {
+      "english": "This feels like winning, it does.",
+      "czech": "Tohle je jako výhra, fakt.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847435"
+    },
+    {
+      "english": "My cup of tea, this is.",
+      "czech": "Moje parketa, tohle je.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847437"
+    },
+    {
+      "english": "Couldn't be happier, honestly.",
+      "czech": "Nemůžu být šťastnější, upřímně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847439"
+    },
+    {
+      "english": "A moment of pure joy, this.",
+      "czech": "Okamžik čisté radosti, tohle.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847440"
+    },
+    {
+      "english": "This hits the spot, perfectly.",
+      "czech": "To sedí jako ulité, perfektně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847442"
+    },
+    {
+      "english": "Everything's coming up roses, now.",
+      "czech": "Všechno jde jako po másle, teď.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847444"
+    },
+    {
+      "english": "Soaking up the good times, I am.",
+      "czech": "Vychutnávám si dobré chvíle, já.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847446"
+    },
+    {
+      "english": "This is the stuff of dreams, truly.",
+      "czech": "Tohle je sen, fakt.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847447"
+    },
+    {
+      "english": "Feeling rather chuffed, actually.",
+      "czech": "Cítím se docela spokojený, vlastně.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847449"
+    },
+    {
+      "english": "This is my happy place, here.",
+      "czech": "Tohle je moje šťastné místo, tady.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847451"
+    },
+    {
+      "english": "A real ray of sunshine, this.",
+      "czech": "Skutečný paprsek slunce, tohle.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847452"
+    },
+    {
+      "english": "Absolutely buzzing, I am.",
+      "czech": "Jsem úplně nabitý energií, já.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847453"
+    },
+    {
+      "english": "This is the cat's pyjamas, right?",
+      "czech": "To je paráda, že jo?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847459"
+    },
+    {
+      "english": "Couldn't ask for more, really.",
+      "czech": "Nemůžu si přát víc, opravdu.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847462"
+    },
+    {
+      "english": "A feeling of pure contentment, yes.",
+      "czech": "Pocit naprosté spokojenosti, ano.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847464"
+    },
+    {
+      "english": "This is just perfect, truly.",
+      "czech": "Tohle je prostě dokonalé, fakt.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847465"
+    },
+    {
+      "english": "Feeling absolutely tickled pink, me.",
+      "czech": "Cítím se úplně potěšený, já.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847467"
+    },
+    {
+      "english": "A real happy camper, today.",
+      "czech": "Opravdu spokojený člověk, dneska.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847468"
+    },
+    {
+      "english": "This lights up my day, it does.",
+      "czech": "Tohle mi rozzáří den, fakt.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847470"
+    },
+    {
+      "english": "My spirits are soaring, high.",
+      "czech": "Moje nálada stoupá, vysoko.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847471"
+    },
+    {
+      "english": "Let's make today count, shall we?",
+      "czech": "Udělejme z dneška něco skvělého, jo?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847473"
+    },
+    {
+      "english": "Find joy in the little things.",
+      "czech": "Hledej radost v maličkostech.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847474"
+    },
+    {
+      "english": "How can I help make it better?",
+      "czech": "Jak to můžu vylepšit?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847476"
+    },
+    {
+      "english": "This problem is solvable, don't worry.",
+      "czech": "Tenhle problém se dá vyřešit, neboj.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847478"
+    },
+    {
+      "english": "Let's tackle this together, okay?",
+      "czech": "Pojďme se do toho pustit společně, jo?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847479"
+    },
+    {
+      "english": "A small success, is still a success.",
+      "czech": "Malý úspěch, je pořád úspěch.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847481"
+    },
+    {
+      "english": "What's your favorite simple pleasure?",
+      "czech": "Co je tvůj nejoblíbenější malý potěšení?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847483"
+    },
+    {
+      "english": "This routine brings me so much calm.",
+      "czech": "Tato rutina mi přináší klid.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847484"
+    },
+    {
+      "english": "Try to smile more often, it helps.",
+      "czech": "Zkus se víc smát, pomáhá to.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847486"
+    },
+    {
+      "english": "Are you feeling good today, friend?",
+      "czech": "Cítíš se dneska dobře, příteli?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847488"
+    },
+    {
+      "english": "This little break, feels fantastic.",
+      "czech": "Tahle malá pauza, je skvělá.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847489"
+    },
+    {
+      "english": "Let's share a positive thought, now.",
+      "czech": "Sdílejme teď pozitivní myšlenku.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847491"
+    },
+    {
+      "english": "Don't forget to recharge your energy.",
+      "czech": "Nezapomeň si dobít baterky.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847492"
+    },
+    {
+      "english": "Every day, find something to appreciate.",
+      "czech": "Každý den najdi něco, co oceníš.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847494"
+    },
+    {
+      "english": "This simple act, brought me joy.",
+      "czech": "Tento prostý čin, mi udělal radost.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847495"
+    },
+    {
+      "english": "What made you happy recently?",
+      "czech": "Co tě v poslední době potěšilo?",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847497"
+    },
+    {
+      "english": "Let's make a happy memory today.",
+      "czech": "Vytvořme si dneska šťastnou vzpomínku.",
+      "category": "Joy",
+      "generated_at": "2026-10-28T06:43:39.847498"
     }
   ],
-  "last_updated": "2026-10-27T06:04:57.430720"
+  "last_updated": "2026-10-28T06:43:39.847500"
 }
