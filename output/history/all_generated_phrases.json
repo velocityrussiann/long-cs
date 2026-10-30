@@ -9359,7 +9359,727 @@
       "czech": "Obhajuj své přesvědčení, s respektem.",
       "category": "Courage",
       "generated_at": "2026-10-29T06:51:12.119428"
+    },
+    {
+      "english": "Good morning, I have a reservation.",
+      "czech": "Dobré ráno, mám rezervaci.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034375"
+    },
+    {
+      "english": "Hello, do you have a free room?",
+      "czech": "Dobrý den, máte volný pokoj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034389"
+    },
+    {
+      "english": "How much is a single room?",
+      "czech": "Kolik stojí jednolůžkový pokoj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034391"
+    },
+    {
+      "english": "I'd like to check in, please.",
+      "czech": "Chtěl bych se ubytovat, prosím.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034393"
+    },
+    {
+      "english": "When is breakfast served?",
+      "czech": "Kdy je podávána snídaně?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034395"
+    },
+    {
+      "english": "Could I see the room first?",
+      "czech": "Mohu se nejdříve podívat na pokoj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034396"
+    },
+    {
+      "english": "Is Wi-Fi included?",
+      "czech": "Je Wi-Fi zahrnuto v ceně?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034398"
+    },
+    {
+      "english": "Where is the elevator?",
+      "czech": "Kde je výtah?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034402"
+    },
+    {
+      "english": "My room key doesn't work.",
+      "czech": "Můj klíč od pokoje nefunguje.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034404"
+    },
+    {
+      "english": "Can I have an extra towel?",
+      "czech": "Můžu dostat ručník navíc?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034407"
+    },
+    {
+      "english": "What time is checkout?",
+      "czech": "V kolik hodin je odhlášení?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034409"
+    },
+    {
+      "english": "I need to leave early.",
+      "czech": "Potřebuji odejít brzy.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034410"
+    },
+    {
+      "english": "Can you call me a taxi?",
+      "czech": "Můžete mi zavolat taxi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034412"
+    },
+    {
+      "english": "Is there a restaurant here?",
+      "czech": "Je zde restaurace?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034413"
+    },
+    {
+      "english": "I'd like some coffee, please.",
+      "czech": "Dal bych si kávu, prosím.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034415"
+    },
+    {
+      "english": "The shower isn't working.",
+      "czech": "Sprcha nefunguje.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034416"
+    },
+    {
+      "english": "Can I have a quiet room?",
+      "czech": "Můžu dostat tichý pokoj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034418"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "czech": "Kde si mohu koupit SIM kartu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034419"
+    },
+    {
+      "english": "How do I get to the center?",
+      "czech": "Jak se dostanu do centra?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034421"
+    },
+    {
+      "english": "What's the hotel's phone number?",
+      "czech": "Jaké je telefonní číslo hotelu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034424"
+    },
+    {
+      "english": "I need an adapter, please.",
+      "czech": "Potřebuji adaptér, prosím.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034425"
+    },
+    {
+      "english": "Can I store my luggage?",
+      "czech": "Mohu si uložit zavazadla?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034427"
+    },
+    {
+      "english": "Is breakfast included?",
+      "czech": "Je snídaně v ceně?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034428"
+    },
+    {
+      "english": "I'm looking for the reception.",
+      "czech": "Hledám recepci.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034429"
+    },
+    {
+      "english": "Could you wake me up at seven?",
+      "czech": "Mohli byste mě vzbudit v sedm?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034431"
+    },
+    {
+      "english": "Is there air conditioning?",
+      "czech": "Je zde klimatizace?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034433"
+    },
+    {
+      "english": "My bed is uncomfortable.",
+      "czech": "Moje postel je nepohodlná.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034435"
+    },
+    {
+      "english": "Can I pay by card?",
+      "czech": "Mohu platit kartou?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034436"
+    },
+    {
+      "english": "This is not my room.",
+      "czech": "Tohle není můj pokoj.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034438"
+    },
+    {
+      "english": "I'm satisfied with everything.",
+      "czech": "Jsem spokojený se vším.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034439"
+    },
+    {
+      "english": "Can you recommend, a good local restaurant?",
+      "czech": "Můžete mi doporučit, dobrou místní restauraci?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034441"
+    },
+    {
+      "english": "What's the best way, to get to the train station?",
+      "czech": "Jaký je nejlepší způsob, jak se dostat na nádraží?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034443"
+    },
+    {
+      "english": "Is there, a pharmacy nearby?",
+      "czech": "Je tu, v blízkosti nějaká lékárna?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034445"
+    },
+    {
+      "english": "Could you help me, with my suitcase?",
+      "czech": "Mohl byste mi pomoci, s mým kufrem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034447"
+    },
+    {
+      "english": "Is breakfast, included in the price?",
+      "czech": "Je snídaně, zahrnuta v ceně?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034449"
+    },
+    {
+      "english": "What time, do you serve dinner?",
+      "czech": "V kolik hodin, podáváte večeři?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034450"
+    },
+    {
+      "english": "Can I get, a room with a view?",
+      "czech": "Mohu dostat, pokoj s výhledem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034453"
+    },
+    {
+      "english": "Where can I find, a good map?",
+      "czech": "Kde najdu, dobrou mapu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034455"
+    },
+    {
+      "english": "Is it possible, to get a late checkout?",
+      "czech": "Je možné, získat pozdní odhlášení?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034457"
+    },
+    {
+      "english": "Could you explain, how to use the TV?",
+      "czech": "Mohli byste vysvětlit, jak používat televizi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034458"
+    },
+    {
+      "english": "Is there, a swimming pool here?",
+      "czech": "Je tu, plavecký bazén?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034460"
+    },
+    {
+      "english": "What's the Wi-Fi password, please?",
+      "czech": "Jaké je heslo k Wi-Fi, prosím?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034462"
+    },
+    {
+      "english": "Can I borrow, a hairdryer?",
+      "czech": "Mohu si půjčit, fén?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034463"
+    },
+    {
+      "english": "Is there, a safe in the room?",
+      "czech": "Je v pokoji, trezor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034465"
+    },
+    {
+      "english": "How do I turn on, the heating?",
+      "czech": "Jak zapnu, topení?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034467"
+    },
+    {
+      "english": "Could you arrange, a guided tour?",
+      "czech": "Mohli byste zařídit, prohlídku s průvodcem?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034468"
+    },
+    {
+      "english": "Where is the nearest, ATM machine?",
+      "czech": "Kde je nejbližší, bankomat?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034470"
+    },
+    {
+      "english": "Do you have, a quiet room available?",
+      "czech": "Máte, volný tichý pokoj?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034471"
+    },
+    {
+      "english": "What's the best way, to book a ticket?",
+      "czech": "Jaký je nejlepší způsob, jak si zarezervovat lístek?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034473"
+    },
+    {
+      "english": "Can I get, a wake-up call?",
+      "czech": "Mohu dostat, budíček?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034475"
+    },
+    {
+      "english": "Is there, a laundry service?",
+      "czech": "Je tu, prádelna?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034476"
+    },
+    {
+      "english": "Could you call, a taxi for me?",
+      "czech": "Mohli byste mi zavolat, taxi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034478"
+    },
+    {
+      "english": "Where can I get, tourist information?",
+      "czech": "Kde seženu, turistické informace?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034479"
+    },
+    {
+      "english": "Do you serve, vegetarian food?",
+      "czech": "Podáváte, vegetariánská jídla?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034481"
+    },
+    {
+      "english": "How late, is the reception open?",
+      "czech": "Jak dlouho, je otevřená recepce?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034482"
+    },
+    {
+      "english": "Is there, a doctor on call?",
+      "czech": "Je tu, pohotovostní lékař?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034484"
+    },
+    {
+      "english": "Could you book, a table for two?",
+      "czech": "Mohli byste rezervovat, stůl pro dva?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034485"
+    },
+    {
+      "english": "What time, does the bar close?",
+      "czech": "V kolik hodin, zavírá bar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034486"
+    },
+    {
+      "english": "Can I get, a receipt please?",
+      "czech": "Mohu dostat, účtenku prosím?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034489"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "czech": "Skvěle ti to jde, pokračuj!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034491"
+    },
+    {
+      "english": "Don't be afraid, to try new things.",
+      "czech": "Neboj se, zkoušet nové věci.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034493"
+    },
+    {
+      "english": "Learning a new language, is an adventure.",
+      "czech": "Učit se nový jazyk, je dobrodružství.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034494"
+    },
+    {
+      "english": "Mistakes are proof, you are trying.",
+      "czech": "Chyby jsou důkazem, že se snažíš.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034496"
+    },
+    {
+      "english": "You're learning so quickly!",
+      "czech": "Učíš se tak rychle!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034498"
+    },
+    {
+      "english": "Embrace the challenge, it makes you stronger.",
+      "czech": "Přijmi výzvu, posílí tě.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034499"
+    },
+    {
+      "english": "Think positive, speak positive.",
+      "czech": "Mysli pozitivně, mluv pozitivně.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034501"
+    },
+    {
+      "english": "You can do this, just breathe.",
+      "czech": "To zvládneš, jen dýchej.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034502"
+    },
+    {
+      "english": "Every conversation, is a learning opportunity.",
+      "czech": "Každá konverzace, je příležitost k učení.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034505"
+    },
+    {
+      "english": "Celebrate your small victories.",
+      "czech": "Oslavuj svá malá vítězství.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034507"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "czech": "Tvé úsilí je znát.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034508"
+    },
+    {
+      "english": "Imagine yourself succeeding.",
+      "czech": "Představ si, že jsi úspěšný.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034510"
+    },
+    {
+      "english": "Learning Czech, is rewarding.",
+      "czech": "Učení češtiny, je odměňující.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034511"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "czech": "Nevzdávej to, jsi skoro tam.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034513"
+    },
+    {
+      "english": "Enjoy the journey, of learning.",
+      "czech": "Užívej si cestu, učení.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034515"
+    },
+    {
+      "english": "This is a valuable skill.",
+      "czech": "Toto je cenná dovednost.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034516"
+    },
+    {
+      "english": "You're a natural learner.",
+      "czech": "Jsi přirozený student.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034518"
+    },
+    {
+      "english": "Every attempt, builds confidence.",
+      "czech": "Každý pokus, buduje sebevědomí.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034519"
+    },
+    {
+      "english": "Stay curious, stay motivated.",
+      "czech": "Zůstaň zvědavý, zůstaň motivovaný.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034520"
+    },
+    {
+      "english": "You're overcoming challenges.",
+      "czech": "Překonáváš výzvy.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034522"
+    },
+    {
+      "english": "This is totally achievable.",
+      "czech": "Tohle je naprosto dosažitelné.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034523"
+    },
+    {
+      "english": "You're doing better than you think.",
+      "czech": "Vedeš si lépe, než si myslíš.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034525"
+    },
+    {
+      "english": "Fantastic job on that!",
+      "czech": "Fantastická práce na tom!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034526"
+    },
+    {
+      "english": "This place, really feels like home.",
+      "czech": "Tohle místo, opravdu působí jako domov.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034529"
+    },
+    {
+      "english": "I needed this quiet, so much.",
+      "czech": "Tolik jsem potřeboval/a tento klid.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034530"
+    },
+    {
+      "english": "The atmosphere here, is quite special.",
+      "czech": "Atmosféra tady, je docela výjimečná.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034532"
+    },
+    {
+      "english": "It’s moments like these, I cherish.",
+      "czech": "Jsou to chvíle jako tyto, které si cením.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034535"
+    },
+    {
+      "english": "I’m feeling incredibly relaxed now.",
+      "czech": "Teď se cítím neuvěřitelně uvolněně.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034538"
+    },
+    {
+      "english": "This view, is truly inspiring.",
+      "czech": "Tento výhled, je opravdu inspirující.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034539"
+    },
+    {
+      "english": "A little bit of luxury, goes a long way.",
+      "czech": "Trocha luxusu, vydrží dlouho.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034541"
+    },
+    {
+      "english": "I’m reflecting on the journey here.",
+      "czech": "Přemýšlím o cestě sem.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034543"
+    },
+    {
+      "english": "It’s good to pause, and just be.",
+      "czech": "Je dobré se zastavit, a jen tak být.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034546"
+    },
+    {
+      "english": "My patience, is being rewarded here.",
+      "czech": "Moje trpělivost, je zde odměňována.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034548"
+    },
+    {
+      "english": "I appreciate the quiet, so much.",
+      "czech": "Velmi si cením ticha.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034549"
+    },
+    {
+      "english": "A little bit of downtime, is essential.",
+      "czech": "Trocha odpočinku, je nezbytná.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034551"
+    },
+    {
+      "english": "This stay, feels deeply restorative.",
+      "czech": "Tento pobyt, působí hluboce obnovujícím dojmem.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034552"
+    },
+    {
+      "english": "Sometimes, less is truly more.",
+      "czech": "Někdy, méně je skutečně více.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034554"
+    },
+    {
+      "english": "I’m finding my center, right here.",
+      "czech": "Nacházím své centrum, právě zde.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034556"
+    },
+    {
+      "english": "This comfort, means the world to me.",
+      "czech": "Toto pohodlí, pro mě znamená svět.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034557"
+    },
+    {
+      "english": "It’s a good feeling, to be this calm.",
+      "czech": "Je to dobrý pocit, být takto klidný/á.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034561"
+    },
+    {
+      "english": "I'm grateful for this tranquility.",
+      "czech": "Jsem vděčný/á za tento klid.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034562"
+    },
+    {
+      "english": "This experience, is quite profound.",
+      "czech": "Tato zkušenost, je docela hluboká.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034564"
+    },
+    {
+      "english": "It's the simple things, that matter.",
+      "czech": "Jsou to jednoduché věci, na kterých záleží.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034565"
+    },
+    {
+      "english": "This sense of peace, is invaluable.",
+      "czech": "Tento pocit míru, je neocenitelný.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034567"
+    },
+    {
+      "english": "I’m soaking in, this wonderful moment.",
+      "czech": "Vychutnávám si, tento nádherný okamžik.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034569"
+    },
+    {
+      "english": "This quietude, is deeply soothing.",
+      "czech": "Tato tichost, je hluboce uklidňující.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034570"
+    },
+    {
+      "english": "It's a blessing, to be here.",
+      "czech": "Je to požehnání, být zde.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034578"
+    },
+    {
+      "english": "I feel genuinely content, right now.",
+      "czech": "Cítím se upřímně spokojený/á, právě teď.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034580"
+    },
+    {
+      "english": "This atmosphere, fosters reflection.",
+      "czech": "Tato atmosféra, podporuje zamyšlení.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034582"
+    },
+    {
+      "english": "My expectations, were exceeded.",
+      "czech": "Moje očekávání, byla překonána.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034583"
+    },
+    {
+      "english": "A little escape, can do wonders.",
+      "czech": "Malý únik, dokáže divy.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034585"
+    },
+    {
+      "english": "This serenity, is truly rejuvenating.",
+      "czech": "Tato vyrovnanost, je skutečně omlazující.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034586"
+    },
+    {
+      "english": "Can I have the Wi-Fi password?",
+      "czech": "Máte heslo na Wi-Fi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034588"
+    },
+    {
+      "english": "I need to charge my phone.",
+      "czech": "Potřebuji nabít telefon.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034590"
+    },
+    {
+      "english": "Could you call a taxi, please?",
+      "czech": "Můžete zavolat taxi, prosím?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034591"
+    },
+    {
+      "english": "Do you have a map of the city?",
+      "czech": "Máte mapu města?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034593"
+    },
+    {
+      "english": "I lost my room key.",
+      "czech": "Ztratil jsem klíč od pokoje.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034594"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "czech": "Jak se dostanu na nádraží?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034596"
+    },
+    {
+      "english": "Is there a supermarket nearby?",
+      "czech": "Je poblíž nějaký supermarket?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034597"
+    },
+    {
+      "english": "I need an extra towel.",
+      "czech": "Potřebuji ručník navíc.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034599"
+    },
+    {
+      "english": "What is the hotel address?",
+      "czech": "Jaká je adresa hotelu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-30T06:54:38.034601"
     }
   ],
-  "last_updated": "2026-10-29T06:51:12.119430"
+  "last_updated": "2026-10-30T06:54:38.034602"
 }
