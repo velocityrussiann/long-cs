@@ -11,6 +11,21 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+def sanitize_youtube_title(raw_title, fallback="Learn Czech with Velocity Czech"):
+    """Coerce a candidate title into YouTube's snippet.title contract (1-100 chars).
+
+    The API rejects anything empty or longer than 100 characters with
+    400 invalidTitle, so fall back when empty and truncate at a word
+    boundary when too long.
+    """
+    title = " ".join(str(raw_title or "").split())
+    if not title:
+        title = fallback
+    if len(title) > 100:
+        title = title[:100].rsplit(" ", 1)[0].rstrip(" |:-") or title[:100]
+    return title
+
 # YouTube API credentials
 YT_CLIENT_ID = os.getenv("YT_CLIENT_ID")
 YT_CLIENT_SECRET = os.getenv("YT_CLIENT_SECRET")
@@ -149,13 +164,13 @@ def upload_to_youtube(video_info):
     youtube._http.timeout = 600
     
     # Get title and description
-    title = "Learn Polish with Velocity Polish"
+    title = "Learn Czech with Velocity Czech"
     description = ""
     
     if video_info.get("metadata") and video_info["metadata"].exists():
         with open(video_info["metadata"], "r", encoding="utf-8") as f:
             metadata = json.load(f)
-            title = metadata.get("selected_title", title)
+            title = sanitize_youtube_title(metadata.get("selected_title") or metadata.get("title"), fallback=title)
             description = metadata.get("description", description)
     elif video_info.get("info"):
         parsed_title, parsed_desc = parse_upload_info(video_info["info"])
@@ -178,11 +193,11 @@ def upload_to_youtube(video_info):
             "title": title,
             "description": description,
             "tags": [
-                "Learn Polish",
-                "Polish Phrases",
-                "Polish Language",
-                "Velocity Polish",
-                "Polish for Beginners",
+                "Learn Czech",
+                "Czech Phrases",
+                "Czech Language",
+                "Velocity Czech",
+                "Czech for Beginners",
                 "Language Learning"
             ],
             "categoryId": "27"  # Education
@@ -256,7 +271,7 @@ def upload_to_youtube(video_info):
 
 def main():
     print("\n" + "="*80)
-    print("🇵🇱 VELOCITY POLISH - YOUTUBE LONG-FORM UPLOADER 🇵🇱")
+    print("🇨🇿 VELOCITY CZECH - YOUTUBE LONG-FORM UPLOADER 🇨🇿")
     print("="*80)
     
     # Find latest video

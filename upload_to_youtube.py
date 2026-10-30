@@ -1,5 +1,5 @@
 """
-YouTube Upload Script for Velocity Polish
+YouTube Upload Script for Velocity Czech
 """
 
 import os, sys, json
@@ -7,6 +7,21 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
+
+
+def sanitize_youtube_title(raw_title, fallback="Learn Czech with Velocity Czech"):
+    """Coerce a candidate title into YouTube's snippet.title contract (1-100 chars).
+
+    The API rejects anything empty or longer than 100 characters with
+    400 invalidTitle (run #14 failed on a 113-char generated title), so
+    fall back when empty and truncate at a word boundary when too long.
+    """
+    title = " ".join(str(raw_title or "").split())
+    if not title:
+        title = fallback
+    if len(title) > 100:
+        title = title[:100].rsplit(" ", 1)[0].rstrip(" |:-") or title[:100]
+    return title
 
 YT_CLIENT_ID = os.getenv("YT_CLIENT_ID")
 YT_CLIENT_SECRET = os.getenv("YT_CLIENT_SECRET")
@@ -58,17 +73,17 @@ def upload_to_youtube(video_info):
 
     youtube = build("youtube", "v3", credentials=credentials)
 
-    title = "Learn Polish with Velocity Polish"
+    title = "Learn Czech with Velocity Czech"
     description = ""
     if video_info.get("metadata"):
         with open(video_info["metadata"], "r", encoding="utf-8") as f:
             meta = json.load(f)
-            title = meta.get("selected_title", title)
+            title = sanitize_youtube_title(meta.get("selected_title") or meta.get("title"), fallback=title)
             description = meta.get("description", "")
 
     video_metadata = {
         "snippet": {"title": title, "description": description[:4800],
-                     "tags": ["Learn Polish", "Polish Phrases", "Polish Language", "Velocity Polish", "Polish for Beginners"],
+                     "tags": ["Learn Czech", "Czech Phrases", "Czech Language", "Velocity Czech", "Czech for Beginners"],
                      "categoryId": "27"},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}
     }
@@ -99,7 +114,7 @@ def upload_to_youtube(video_info):
 
 
 def main():
-    print("VELOCITY POLISH - YOUTUBE UPLOADER")
+    print("VELOCITY CZECH - YOUTUBE UPLOADER")
     video_info = get_latest_video()
     if not video_info:
         print("No video found to upload")

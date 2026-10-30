@@ -1,4 +1,4 @@
 @echo off
-title Polish Status
+title Czech Status
 python "%~dp0..\check_status.py"
 pause

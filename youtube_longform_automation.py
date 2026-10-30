@@ -985,7 +985,7 @@ def generate_thumbnail(category_english: str, category_czech: str, output_path: 
 
     draw.text((VIDEO_WIDTH // 2, 530), category_czech, fill=(45, 35, 65), font=font_main, anchor="mm")
 
-    cta_text = "60 WAŻNYCH ZWROTÓW"
+    cta_text = "120 ZÁKLADNÍCH FRÁZÍ"
     draw.rounded_rectangle(
         [(VIDEO_WIDTH // 2 - 300, 650), (VIDEO_WIDTH // 2 + 300, 730)],
         radius=15, fill=(255, 210, 160, 255)
@@ -1038,6 +1038,13 @@ def generate_title_description(category_english: str, category_foreign: str, phr
         f"Master Czech {category_english} | {count} Essential Czech Phrases with Pronunciation | VELOCITY CZECH",
         f"Czech Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
         f"Speak Czech Fluently | {category_english} Phrases | English + Czech + Pronunciation",
+    ]
+
+    # YouTube snippet.title allows max 100 chars; trim longer variants at a
+    # word boundary so the selected title is always upload-safe.
+    titles = [
+        t if len(t) <= 100 else (t[:100].rsplit(" ", 1)[0].rstrip(" |:-") or t[:100])
+        for t in titles
     ]
 
     # Generate comprehensive description
