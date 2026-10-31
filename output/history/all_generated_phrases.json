@@ -10079,7 +10079,727 @@
       "czech": "Jaká je adresa hotelu?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-10-30T06:54:38.034601"
+    },
+    {
+      "english": "Hello, where is the ticket counter?",
+      "czech": "Dobrý den, kde je přepážka?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645147"
+    },
+    {
+      "english": "My flight is delayed, unfortunately.",
+      "czech": "Můj let má bohužel zpoždění.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645162"
+    },
+    {
+      "english": "Can I see your passport, please?",
+      "czech": "Můžu vidět váš pas, prosím?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645165"
+    },
+    {
+      "english": "Where is gate number seven?",
+      "czech": "Kde je odletová brána sedm?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645168"
+    },
+    {
+      "english": "I need to check in my luggage.",
+      "czech": "Potřebuji odbavit svá zavazadla.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645170"
+    },
+    {
+      "english": "Do you have a window seat?",
+      "czech": "Máte místo u okna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645172"
+    },
+    {
+      "english": "Is this the correct line?",
+      "czech": "Je toto správná fronta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645174"
+    },
+    {
+      "english": "I'm looking for the restroom.",
+      "czech": "Hledám toaletu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645179"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "czech": "Kde si můžu koupit lístek?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645182"
+    },
+    {
+      "english": "This is my boarding pass.",
+      "czech": "Tady je má palubní vstupenka.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645184"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "czech": "Je tu Wi-Fi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645188"
+    },
+    {
+      "english": "I need some water, please.",
+      "czech": "Potřebuji vodu, prosím.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645191"
+    },
+    {
+      "english": "Where is the departure board?",
+      "czech": "Kde je odletová tabule?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645193"
+    },
+    {
+      "english": "My connection is very short.",
+      "czech": "Moje spojení je velmi krátké.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645195"
+    },
+    {
+      "english": "I have a layover here.",
+      "czech": "Mám zde přestup.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645197"
+    },
+    {
+      "english": "What time does it land?",
+      "czech": "V kolik hodin to přistává?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645199"
+    },
+    {
+      "english": "Is this bag carry-on?",
+      "czech": "Je toto příruční zavazadlo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645203"
+    },
+    {
+      "english": "I need to find my gate.",
+      "czech": "Potřebuji najít svou bránu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645206"
+    },
+    {
+      "english": "Where is the baggage claim?",
+      "czech": "Kde je výdej zavazadel?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645209"
+    },
+    {
+      "english": "I lost my luggage.",
+      "czech": "Ztratil jsem svá zavazadla.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645211"
+    },
+    {
+      "english": "I need to go to the city.",
+      "czech": "Potřebuji jet do města.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645213"
+    },
+    {
+      "english": "Where is the information desk?",
+      "czech": "Kde je informační přepážka?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645215"
+    },
+    {
+      "english": "My flight has been cancelled.",
+      "czech": "Můj let byl zrušen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645217"
+    },
+    {
+      "english": "Have a good flight!",
+      "czech": "Šťastnou cestu!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645219"
+    },
+    {
+      "english": "Excuse me, could you help me?",
+      "czech": "Promiňte, můžete mi pomoct?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645221"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "czech": "Kde mohu vyměnit peníze?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645224"
+    },
+    {
+      "english": "Is there a cafe nearby?",
+      "czech": "Je tady poblíž kavárna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645226"
+    },
+    {
+      "english": "I need a taxi, please.",
+      "czech": "Potřebuji taxi, prosím.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645228"
+    },
+    {
+      "english": "How long until boarding?",
+      "czech": "Jak dlouho do nástupu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645230"
+    },
+    {
+      "english": "Can I get a map?",
+      "czech": "Mohu dostat mapu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645233"
+    },
+    {
+      "english": "Where is the duty-free shop?",
+      "czech": "Kde je bezcelní obchod?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645235"
+    },
+    {
+      "english": "Is my flight on time?",
+      "czech": "Je můj let včas?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645237"
+    },
+    {
+      "english": "Could you show me the way?",
+      "czech": "Mohli byste mi ukázat cestu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645239"
+    },
+    {
+      "english": "What gate does it depart from?",
+      "czech": "Z kterého odletového místa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645241"
+    },
+    {
+      "english": "I'm looking for baggage assistance.",
+      "czech": "Hledám pomoc s zavazadly.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645244"
+    },
+    {
+      "english": "Is there a pharmacy here?",
+      "czech": "Je tady lékárna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645246"
+    },
+    {
+      "english": "Can I get a blanket?",
+      "czech": "Mohu dostat deku?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645248"
+    },
+    {
+      "english": "What's the flight number?",
+      "czech": "Jaké je číslo letu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645250"
+    },
+    {
+      "english": "I need to rebook my flight.",
+      "czech": "Potřebuji přerezervovat let.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645252"
+    },
+    {
+      "english": "Where can I charge my phone?",
+      "czech": "Kde si mohu nabít telefon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645254"
+    },
+    {
+      "english": "Is there a lounge access?",
+      "czech": "Je zde přístup do salonku?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645256"
+    },
+    {
+      "english": "How much is a taxi?",
+      "czech": "Kolik stojí taxi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645258"
+    },
+    {
+      "english": "Can I have a vegetarian meal?",
+      "czech": "Mohu dostat vegetariánské jídlo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645262"
+    },
+    {
+      "english": "Where do I pick up my car?",
+      "czech": "Kde si vyzvednu auto?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645263"
+    },
+    {
+      "english": "Is this flight direct?",
+      "czech": "Je tento let přímý?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645265"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "czech": "Mohu dostat místo u okna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645267"
+    },
+    {
+      "english": "Where is the lost and found?",
+      "czech": "Kde je ztráty a nálezy?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645269"
+    },
+    {
+      "english": "Do you have an aisle seat?",
+      "czech": "Máte místo u uličky?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645271"
+    },
+    {
+      "english": "What's the baggage allowance?",
+      "czech": "Jaká je váha zavazadel?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645273"
+    },
+    {
+      "english": "Could you help with my bag?",
+      "czech": "Můžete mi pomoct s taškou?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645280"
+    },
+    {
+      "english": "Stay calm, everything's fine.",
+      "czech": "Zůstaň v klidu, všechno je v pořádku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645283"
+    },
+    {
+      "english": "Don't worry, I'll help you.",
+      "czech": "Neboj se, pomůžu ti.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645285"
+    },
+    {
+      "english": "One step at a time, okay?",
+      "czech": "Jeden krok po druhém, jo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645287"
+    },
+    {
+      "english": "It's an adventure, embrace it.",
+      "czech": "Je to dobrodružství, užij si ho.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645290"
+    },
+    {
+      "english": "Think positive, manifest your trip.",
+      "czech": "Mysli pozitivně, vizualizuj si cestu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645292"
+    },
+    {
+      "english": "It's all part of the journey.",
+      "czech": "Je to všechno součást cesty.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645294"
+    },
+    {
+      "english": "Deep breaths, you are prepared.",
+      "czech": "Zhluboka dýchej, jsi připraven/a.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645296"
+    },
+    {
+      "english": "Don't stress, it will work out.",
+      "czech": "Nestresuj se, ono to vyjde.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645299"
+    },
+    {
+      "english": "You are strong, you can manage.",
+      "czech": "Jsi silný/á, to zvládneš.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645301"
+    },
+    {
+      "english": "Just go with the flow, buddy.",
+      "czech": "Prostě pluj s proudem, kámo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645303"
+    },
+    {
+      "english": "Everything will be alright.",
+      "czech": "Všechno bude v pořádku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645305"
+    },
+    {
+      "english": "You're a great traveler, really.",
+      "czech": "Jsi skvělý/á cestovatel/ka, fakt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645307"
+    },
+    {
+      "english": "Enjoy the experience, soak it in.",
+      "czech": "Užij si ten zážitek, nasávej ho.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645309"
+    },
+    {
+      "english": "This is your moment, own it.",
+      "czech": "Tohle je tvůj moment, ber si ho.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645311"
+    },
+    {
+      "english": "You're handling this beautifully.",
+      "czech": "Zvládáš to nádherně.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645314"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "czech": "Zachovej si ten pozitivní přístup.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645316"
+    },
+    {
+      "english": "It's going to be amazing.",
+      "czech": "Bude to úžasné.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645318"
+    },
+    {
+      "english": "You're doing even better now.",
+      "czech": "Teď už ti to jde ještě líp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645320"
+    },
+    {
+      "english": "Just relax, you are safe.",
+      "czech": "Prostě si odpočiň, jsi v bezpečí.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645324"
+    },
+    {
+      "english": "Your courage is admirable.",
+      "czech": "Tvoje odvaha je obdivuhodná.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645326"
+    },
+    {
+      "english": "You've got excellent control.",
+      "czech": "Máš skvělou kontrolu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645328"
+    },
+    {
+      "english": "Take it easy, enjoy the ride.",
+      "czech": "V klidu, užij si jízdu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645332"
+    },
+    {
+      "english": "You're a natural problem solver.",
+      "czech": "Jsi přirozený řešitel problémů.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645334"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "czech": "Každá výzva tě posiluje.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645337"
+    },
+    {
+      "english": "Excuse me, is this gate correct?",
+      "czech": "Promiňte, je tohle správný terminál?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645339"
+    },
+    {
+      "english": "Can I get a boarding pass printed?",
+      "czech": "Můžu si nechat vytisknout palubní vstupenku?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645341"
+    },
+    {
+      "english": "Where is the currency exchange?",
+      "czech": "Kde je směnárna?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645343"
+    },
+    {
+      "english": "My luggage is over the weight limit.",
+      "czech": "Moje zavazadla přesahují váhový limit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645345"
+    },
+    {
+      "english": "Which way to departures?",
+      "czech": "Kudy na odlety?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645347"
+    },
+    {
+      "english": "I need to declare some items.",
+      "czech": "Potřebuji něco deklarovat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645349"
+    },
+    {
+      "english": "Can I take this as carry-on?",
+      "czech": "Můžu si tohle vzít jako příruční zavazadlo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645351"
+    },
+    {
+      "english": "Where can I find a duty-free shop?",
+      "czech": "Kde najdu obchod bez cla?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645355"
+    },
+    {
+      "english": "Is there a smoking area nearby?",
+      "czech": "Je poblíž kuřácký koutek?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645357"
+    },
+    {
+      "english": "Can I get some water, please?",
+      "czech": "Dostanu, prosím, trochu vody?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645359"
+    },
+    {
+      "english": "This is taking forever, isn't it?",
+      "czech": "To trvá věčnost, že jo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645362"
+    },
+    {
+      "english": "We'll get there when we get there.",
+      "czech": "Dostaneme se tam, až se tam dostaneme.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645364"
+    },
+    {
+      "english": "Just keep your eyes peeled.",
+      "czech": "Jenom si dávej pozor.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645366"
+    },
+    {
+      "english": "Time flies when you're having fun.",
+      "czech": "Čas letí, když se bavíš.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645370"
+    },
+    {
+      "english": "Hope for the best, expect the worst.",
+      "czech": "Doufej v nejlepší, připrav se na nejhorší.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645372"
+    },
+    {
+      "english": "Let's cross that bridge when we come to it.",
+      "czech": "Ten problém vyřešíme, až přijde.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645375"
+    },
+    {
+      "english": "It is what it is, you know?",
+      "czech": "Je to, jak to je, víš?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645377"
+    },
+    {
+      "english": "We're almost there, hang in there.",
+      "czech": "Už jsme skoro tam, vydrž.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645380"
+    },
+    {
+      "english": "Don't count your chickens before they hatch.",
+      "czech": "Nelep čepici, dokud není nasazená.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645382"
+    },
+    {
+      "english": "Better safe than sorry, right?",
+      "czech": "Raději opatrně než pak litovat, že?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645384"
+    },
+    {
+      "english": "We'll figure it out, don't worry.",
+      "czech": "Na to přijdeme, neboj se.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645386"
+    },
+    {
+      "english": "It's not rocket science.",
+      "czech": "Není to žádná věda.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645388"
+    },
+    {
+      "english": "What's done is done.",
+      "czech": "Co se stalo, stalo se.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645391"
+    },
+    {
+      "english": "Take it easy, no rush.",
+      "czech": "V klidu, nespěcháme.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645393"
+    },
+    {
+      "english": "This whole trip, it makes me think.",
+      "czech": "Celý tenhle výlet, nutí mě to přemýšlet.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645395"
+    },
+    {
+      "english": "I need some quiet time, to process.",
+      "czech": "Potřebuji chvilku klidu, abych to vstřebal.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645399"
+    },
+    {
+      "english": "It’s a strange feeling, being so far.",
+      "czech": "Je to zvláštní pocit, být tak daleko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645402"
+    },
+    {
+      "english": "Sometimes, I miss home a little.",
+      "czech": "Někdy, stýská se mi trochu po domově.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645405"
+    },
+    {
+      "english": "This patience, it’s hard to find.",
+      "czech": "Tuhle trpělivost, je těžké najít.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645407"
+    },
+    {
+      "english": "I’m just reflecting, on life’s journey.",
+      "czech": "Jen přemýšlím, o životní cestě.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645410"
+    },
+    {
+      "english": "This airport buzz, it can be overwhelming.",
+      "czech": "Tenhle ruch na letišti, může být zdrcující.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645413"
+    },
+    {
+      "english": "Are you feeling okay, really?",
+      "czech": "Cítíš se v pořádku, opravdu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645415"
+    },
+    {
+      "english": "It's a moment for honesty, don't you think?",
+      "czech": "Je to chvíle pro upřímnost, nemyslíš?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645417"
+    },
+    {
+      "english": "I’m feeling a bit nostalgic, today.",
+      "czech": "Cítím se dnes trochu nostalgicky.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645420"
+    },
+    {
+      "english": "Let’s take a deep breath, together.",
+      "czech": "Pojďme se zhluboka nadechnout, společně.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645422"
+    },
+    {
+      "english": "This waiting game, tests my patience.",
+      "czech": "Tahle čekací hra, zkouší mou trpělivost.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645425"
+    },
+    {
+      "english": "I just need to be present, here.",
+      "czech": "Potřebuji jen být přítomný, tady.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645428"
+    },
+    {
+      "english": "This connection, it feels so real.",
+      "czech": "Tohle spojení, přijde mi tak skutečné.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645430"
+    },
+    {
+      "english": "My thoughts are wandering, freely now.",
+      "czech": "Mé myšlenky bloudí, teď volně.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645432"
+    },
+    {
+      "english": "It’s a quiet moment, for reflection.",
+      "czech": "Je to tichá chvíle, k zamyšlení.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645437"
+    },
+    {
+      "english": "I’m truly grateful, for this chance.",
+      "czech": "Jsem opravdu vděčný, za tuhle šanci.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645439"
+    },
+    {
+      "english": "This feeling of anticipation, is strong.",
+      "czech": "Tenhle pocit očekávání, je silný.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645441"
+    },
+    {
+      "english": "We’re all in this together, right?",
+      "czech": "Jsme v tom všichni spolu, že?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645444"
+    },
+    {
+      "english": "I’m trying to stay calm, honestly.",
+      "czech": "Snažím se zůstat klidný, upřímně.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645446"
+    },
+    {
+      "english": "This journey, it changes perspective.",
+      "czech": "Tenhle výlet, mění perspektivu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645448"
+    },
+    {
+      "english": "I’m learning to be patient, slowly.",
+      "czech": "Učím se být trpělivý, pomalu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-31T06:47:23.645451"
     }
   ],
-  "last_updated": "2026-10-30T06:54:38.034602"
+  "last_updated": "2026-10-31T06:47:23.645452"
 }
