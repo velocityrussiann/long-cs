@@ -10799,7 +10799,727 @@
       "czech": "Učím se být trpělivý, pomalu.",
       "category": "Travel & Airport",
       "generated_at": "2026-10-31T06:47:23.645451"
+    },
+    {
+      "english": "What's for lunch, today?",
+      "czech": "Co je dnes k obědu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642363"
+    },
+    {
+      "english": "Let's go for a walk, later.",
+      "czech": "Půjdeme na procházku, později.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642380"
+    },
+    {
+      "english": "I'm a bit tired, actually.",
+      "czech": "Jsem trochu unavený/unavená, vlastně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642382"
+    },
+    {
+      "english": "It's quite cold, outside.",
+      "czech": "Je docela zima, venku.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642384"
+    },
+    {
+      "english": "Do you need anything, perhaps?",
+      "czech": "Potřebuješ něco, náhodou?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642386"
+    },
+    {
+      "english": "Let's have some coffee, shall we?",
+      "czech": "Dáme si kafe, co říkáš?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642388"
+    },
+    {
+      "english": "That sounds good, really.",
+      "czech": "To zní dobře, opravdu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642390"
+    },
+    {
+      "english": "Where is the nearest shop?",
+      "czech": "Kde je nejbližší obchod?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642394"
+    },
+    {
+      "english": "It's a beautiful day, isn't it?",
+      "czech": "Je to krásný den, že ano?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642397"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "czech": "Nerozumím, promiň.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642400"
+    },
+    {
+      "english": "Let's try something new.",
+      "czech": "Zkusíme něco nového.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642402"
+    },
+    {
+      "english": "It's really delicious, this.",
+      "czech": "To je opravdu vynikající, tohle.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642404"
+    },
+    {
+      "english": "Thank you very much, indeed.",
+      "czech": "Moc děkuji, opravdu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642405"
+    },
+    {
+      "english": "Have a nice evening, too.",
+      "czech": "Hezký večer, také.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642407"
+    },
+    {
+      "english": "What are your plans, tonight?",
+      "czech": "Jaké máš plány, dnes večer?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642408"
+    },
+    {
+      "english": "I need to go, now.",
+      "czech": "Musím jít, teď.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642410"
+    },
+    {
+      "english": "See you tomorrow, maybe.",
+      "czech": "Uvidíme se zítra, možná.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642411"
+    },
+    {
+      "english": "This is my favorite place.",
+      "czech": "Tohle je moje oblíbené místo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642413"
+    },
+    {
+      "english": "It's a bit crowded, here.",
+      "czech": "Je tu trochu plno, tady.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642414"
+    },
+    {
+      "english": "I'm looking for a toilet.",
+      "czech": "Hledám záchod.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642416"
+    },
+    {
+      "english": "It's very nice here.",
+      "czech": "Je tu moc hezky.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642418"
+    },
+    {
+      "english": "Let's go home, now.",
+      "czech": "Jdeme domů, teď.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642419"
+    },
+    {
+      "english": "What's this tradition, called?",
+      "czech": "Jak se tato tradice, jmenuje?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642422"
+    },
+    {
+      "english": "Can you explain this, please?",
+      "czech": "Můžete mi to, vysvětlit?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642424"
+    },
+    {
+      "english": "When does this custom, start?",
+      "czech": "Kdy tento zvyk, začíná?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642426"
+    },
+    {
+      "english": "What do people, usually do?",
+      "czech": "Co lidé, obvykle dělají?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642427"
+    },
+    {
+      "english": "Is this a family, thing?",
+      "czech": "Je to rodinná, záležitost?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642431"
+    },
+    {
+      "english": "What's the meaning, behind this?",
+      "czech": "Jaký je význam, za tím?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642433"
+    },
+    {
+      "english": "How long does it, last?",
+      "czech": "Jak dlouho to, trvá?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642435"
+    },
+    {
+      "english": "Are there special, foods?",
+      "czech": "Jsou tam nějaká, speciální jídla?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642437"
+    },
+    {
+      "english": "Who participates, mostly?",
+      "czech": "Kdo se toho, převážně účastní?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642438"
+    },
+    {
+      "english": "Where is this celebrated, usually?",
+      "czech": "Kde se to, obvykle slaví?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642440"
+    },
+    {
+      "english": "What gifts are, common?",
+      "czech": "Jaké dárky jsou, obvyklé?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642442"
+    },
+    {
+      "english": "Can I join, this?",
+      "czech": "Mohu se k tomu, připojit?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642443"
+    },
+    {
+      "english": "What music is, played?",
+      "czech": "Jaká hudba se, hraje?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642445"
+    },
+    {
+      "english": "Is there a special, dress code?",
+      "czech": "Je nějaký speciální, dress code?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642447"
+    },
+    {
+      "english": "What should I, bring?",
+      "czech": "Co bych si měl, přinést?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642449"
+    },
+    {
+      "english": "How do people, celebrate?",
+      "czech": "Jak lidé, slaví?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642450"
+    },
+    {
+      "english": "What are the main, activities?",
+      "czech": "Jaké jsou hlavní, aktivity?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642452"
+    },
+    {
+      "english": "Is it a public, holiday?",
+      "czech": "Je to státní, svátek?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642454"
+    },
+    {
+      "english": "What kind of, decorations?",
+      "czech": "Jaké druhy, dekorací?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642455"
+    },
+    {
+      "english": "Do you know about, this festival?",
+      "czech": "Víte o tomto, festivalu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642459"
+    },
+    {
+      "english": "What's the history, behind it?",
+      "czech": "Jaká je historie, za tím?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642460"
+    },
+    {
+      "english": "Are there any, superstitions?",
+      "czech": "Jsou tam nějaké, pověry?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642462"
+    },
+    {
+      "english": "What is this, custom for?",
+      "czech": "K čemu je tento, zvyk?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642463"
+    },
+    {
+      "english": "When is the best, time?",
+      "czech": "Kdy je nejlepší, čas?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642465"
+    },
+    {
+      "english": "What's the main, purpose?",
+      "czech": "Jaký je hlavní, účel?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642467"
+    },
+    {
+      "english": "Are there any, rules?",
+      "czech": "Jsou tam nějaká, pravidla?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642469"
+    },
+    {
+      "english": "How often is it, done?",
+      "czech": "Jak často se to, dělá?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642471"
+    },
+    {
+      "english": "What's the traditional, greeting?",
+      "czech": "Jaké je tradiční, pozdrav?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642472"
+    },
+    {
+      "english": "Is this celebrated, locally?",
+      "czech": "Slaví se to, lokálně?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642474"
+    },
+    {
+      "english": "This is a wonderful effort.",
+      "czech": "To je nádherné úsilí.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642476"
+    },
+    {
+      "english": "Your progress is impressive.",
+      "czech": "Tvůj pokrok je obdivuhodný.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642479"
+    },
+    {
+      "english": "You have a good heart for this.",
+      "czech": "Máš pro to dobré srdce.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642481"
+    },
+    {
+      "english": "This tradition thrives because of you.",
+      "czech": "Tato tradice vzkvétá díky tobě.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642482"
+    },
+    {
+      "english": "Your enthusiasm is contagious.",
+      "czech": "Tvé nadšení je nakažlivé.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642484"
+    },
+    {
+      "english": "Embrace the new experiences.",
+      "czech": "Přijmi nové zážitky.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642486"
+    },
+    {
+      "english": "You are mastering this beautifully.",
+      "czech": "Mistrně tohle zvládáš.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642488"
+    },
+    {
+      "english": "This cultural connection is strong.",
+      "czech": "Toto kulturní spojení je silné.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642489"
+    },
+    {
+      "english": "Your positive attitude shines.",
+      "czech": "Tvůj pozitivní přístup září.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642491"
+    },
+    {
+      "english": "This understanding is valuable.",
+      "czech": "Toto porozumění je cenné.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642493"
+    },
+    {
+      "english": "Your curiosity is a gift.",
+      "czech": "Tvá zvídavost je dar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642494"
+    },
+    {
+      "english": "This journey enriches you.",
+      "czech": "Tato cesta tě obohacuje.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642496"
+    },
+    {
+      "english": "You are embracing our culture.",
+      "czech": "Přijímáš naši kulturu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642497"
+    },
+    {
+      "english": "Your participation means a lot.",
+      "czech": "Tvá účast znamená hodně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642499"
+    },
+    {
+      "english": "Let your spirit shine through.",
+      "czech": "Nech svůj ducha zazářit.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642502"
+    },
+    {
+      "english": "This is a great start.",
+      "czech": "To je skvělý začátek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642504"
+    },
+    {
+      "english": "You are a natural.",
+      "czech": "Jsi přirozený talent.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642505"
+    },
+    {
+      "english": "Keep exploring, discovering more.",
+      "czech": "Objevuj dál, poznávej víc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642507"
+    },
+    {
+      "english": "You connect so well.",
+      "czech": "Tak dobře se propojuješ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642509"
+    },
+    {
+      "english": "Your open mind is key.",
+      "czech": "Tvá otevřená mysl je klíčová.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642510"
+    },
+    {
+      "english": "You are building bridges.",
+      "czech": "Stavíš mosty porozumění.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642512"
+    },
+    {
+      "english": "This is a beautiful perspective.",
+      "czech": "To je krásný pohled.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642513"
+    },
+    {
+      "english": "It's a local custom, for sure.",
+      "czech": "Je to místní zvyk, to určitě.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642516"
+    },
+    {
+      "english": "They always toast, with plum brandy.",
+      "czech": "Vždycky si připíjí, švestkovým. likérem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642518"
+    },
+    {
+      "english": "Don't step on the threshold, it's bad luck.",
+      "czech": "Na práh nevstupuj, je to smůla.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642520"
+    },
+    {
+      "english": "She learned old songs, by heart.",
+      "czech": "Naučila se staré písně, nazpaměť.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642522"
+    },
+    {
+      "english": "He knows the village lore, very well.",
+      "czech": "Zná vesnické povídačky, moc dobře.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642524"
+    },
+    {
+      "english": "It’s a tradition, passed down generations.",
+      "czech": "Je to tradice, předávaná z generace.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642526"
+    },
+    {
+      "english": "They dance in traditional costume, at Easter.",
+      "czech": "Tancují v krojích, na Velikonoce.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642528"
+    },
+    {
+      "english": "We eat special cakes, for Saint Nicholas.",
+      "czech": "Jíme speciální koláčky, na Mikuláše.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642530"
+    },
+    {
+      "english": "The children get presents, from the angel.",
+      "czech": "Děti dostanou dárky, od andílka.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642532"
+    },
+    {
+      "english": "He dressed up as the devil, for Mikuláš.",
+      "czech": "Oblékl se za čerta, na Mikuláše.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642534"
+    },
+    {
+      "english": "They sing carols, on Christmas Eve.",
+      "czech": "Zpívají koledy, na Štědrý večer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642537"
+    },
+    {
+      "english": "She will be spanked, with a fresh branch.",
+      "czech": "Bude pomlázkou vyšlehána, na Velikonoce.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642539"
+    },
+    {
+      "english": "The boy will sprinkle water, for good luck.",
+      "czech": "Chlapec poleje vodou, pro štěstí.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642541"
+    },
+    {
+      "english": "They light bonfires, on Saint John's Eve.",
+      "czech": "Pálí se vatry, na svatojánskou noc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642543"
+    },
+    {
+      "english": "This dish is prepared, for a reason.",
+      "czech": "Toto jídlo se připravuje, z určitého důvodu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642544"
+    },
+    {
+      "english": "It's a communal gathering, for the whole village.",
+      "czech": "Je to společenské setkání, pro celou vesnici.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642547"
+    },
+    {
+      "english": "They share food, like a big family.",
+      "czech": "Sdílejí jídlo, jako velká rodina.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642548"
+    },
+    {
+      "english": "He honored the elders, with respect.",
+      "czech": "Uctil starší, s respektem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642550"
+    },
+    {
+      "english": "She told stories, about the ancestors.",
+      "czech": "Vyprávěla příběhy, o předcích.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642551"
+    },
+    {
+      "english": "We preserve this craft, carefully.",
+      "czech": "Zachováváme toto řemeslo, pečlivě.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642553"
+    },
+    {
+      "english": "They teach the young ones, the old ways.",
+      "czech": "Učí mladé, starým způsobům.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642555"
+    },
+    {
+      "english": "This ritual has deep meaning, for us.",
+      "czech": "Tento rituál má pro nás, hluboký smysl.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642558"
+    },
+    {
+      "english": "You must taste the local mead, definitely.",
+      "czech": "Musíš ochutnat místní medovinu, rozhodně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642560"
+    },
+    {
+      "english": "He played the fiddle, with great skill.",
+      "czech": "Hrál na housle, s velkou dovedností.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642561"
+    },
+    {
+      "english": "The harvest festival, brings everyone together.",
+      "czech": "Dožínky spojují, všechny dohromady.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642563"
+    },
+    {
+      "english": "They honour the saints, every year.",
+      "czech": "Uctívají svaté, každý rok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642565"
+    },
+    {
+      "english": "This is a communal bread, baking day.",
+      "czech": "Je to den společného, pečení chleba.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642566"
+    },
+    {
+      "english": "She wore a headscarf, for respect.",
+      "czech": "Nosila šátek, z úcty.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642568"
+    },
+    {
+      "english": "He gave a blessing, before the meal.",
+      "czech": "Dal požehnání, před jídlem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642569"
+    },
+    {
+      "english": "Always greet politely, first thing.",
+      "czech": "Vždycky pozdrav, zdvořile, jako první.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642571"
+    },
+    {
+      "english": "Ask about names, before using them.",
+      "czech": "Zeptej se na jména, než je použiješ.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642573"
+    },
+    {
+      "english": "Offer a small gift, when visiting.",
+      "czech": "Nabídni malý dárek, když někam jdeš.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642575"
+    },
+    {
+      "english": "Don't refuse food, just a little.",
+      "czech": "Neodmítej jídlo, vem si aspoň kousek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642581"
+    },
+    {
+      "english": "Be on time, punctuality is valued.",
+      "czech": "Buď včas, dochvilnost je ceněná.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642583"
+    },
+    {
+      "english": "Listen more, speak less initially.",
+      "czech": "Poslouchej víc, zpočátku mluv míň.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642584"
+    },
+    {
+      "english": "Observe table manners, closely.",
+      "czech": "Dodržuj stolování, pozorně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642586"
+    },
+    {
+      "english": "Take your shoes off, inside homes.",
+      "czech": "Vyzuj si boty, uvnitř domů.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642588"
+    },
+    {
+      "english": "Learn a few Czech phrases, always helpful.",
+      "czech": "Nauč se pár českých frází, vždy pomůže.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642590"
+    },
+    {
+      "english": "Understand queue etiquette, very important.",
+      "czech": "Porozuměj frontám, velmi důležité.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642592"
+    },
+    {
+      "english": "Respect personal space, generally.",
+      "czech": "Respektuj osobní prostor, obecně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642593"
+    },
+    {
+      "english": "Avoid loud talking, in public.",
+      "czech": "Vyhni se hlasitému mluvení, na veřejnosti.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642595"
+    },
+    {
+      "english": "Use the correct cutlery, for each dish.",
+      "czech": "Použij správné příbory, ke každému jídlu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642597"
+    },
+    {
+      "english": "Don't rush the conversation, let it flow.",
+      "czech": "Neuspěchej konverzaci, nech ji plynout.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642599"
+    },
+    {
+      "english": "Tip appropriately, service is appreciated.",
+      "czech": "Spropitné dej přiměřeně, služba se cení.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642600"
+    },
+    {
+      "english": "Ask permission, before taking photos.",
+      "czech": "Požádej o svolení, než fotíš.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642602"
+    },
+    {
+      "english": "Understand smoking rules, they are strict.",
+      "czech": "Pochop pravidla kouření, jsou přísná.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642603"
+    },
+    {
+      "english": "Offer help, when you see a need.",
+      "czech": "Nabídni pomoc, když vidíš potřebu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:13:55.642605"
     }
   ],
-  "last_updated": "2026-10-31T06:47:23.645452"
+  "last_updated": "2026-11-01T07:13:55.642607"
 }
