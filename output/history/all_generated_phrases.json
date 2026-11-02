@@ -11519,7 +11519,727 @@
       "czech": "Nabídni pomoc, když vidíš potřebu.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-01T07:13:55.642605"
+    },
+    {
+      "english": "Hello, beautiful.",
+      "czech": "Ahoj, krásko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207701"
+    },
+    {
+      "english": "You look amazing.",
+      "czech": "Vypadáš skvěle.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207715"
+    },
+    {
+      "english": "I like your smile.",
+      "czech": "Líbí se mi tvůj úsměv.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207719"
+    },
+    {
+      "english": "You have beautiful eyes.",
+      "czech": "Máš krásné oči.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207722"
+    },
+    {
+      "english": "Are you single?",
+      "czech": "Jsi volná?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207725"
+    },
+    {
+      "english": "Would you like to dance?",
+      "czech": "Nechtěla by sis zatančit?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207728"
+    },
+    {
+      "english": "That's a great idea.",
+      "czech": "To je skvělý nápad.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207731"
+    },
+    {
+      "english": "I'm a bit nervous.",
+      "czech": "Jsem trochu nervózní.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207736"
+    },
+    {
+      "english": "Let's go somewhere quiet.",
+      "czech": "Pojďme někam do klidu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207739"
+    },
+    {
+      "english": "You're very interesting.",
+      "czech": "Jsi velmi zajímavá.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207742"
+    },
+    {
+      "english": "What's your favorite color?",
+      "czech": "Jaká je tvoje oblíbená barva?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207747"
+    },
+    {
+      "english": "I think you're cute.",
+      "czech": "Myslím, že jsi roztomilá.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207750"
+    },
+    {
+      "english": "Can I have your number?",
+      "czech": "Můžu dostat tvoje číslo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207753"
+    },
+    {
+      "english": "You make me happy.",
+      "czech": "Děláš mě šťastnou.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207755"
+    },
+    {
+      "english": "We should do this again.",
+      "czech": "Měli bychom to zopakovat.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207758"
+    },
+    {
+      "english": "Your laugh is infectious.",
+      "czech": "Tvůj smích je nakažlivý.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207760"
+    },
+    {
+      "english": "I feel a connection.",
+      "czech": "Cítím spojení.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207762"
+    },
+    {
+      "english": "You're so kind.",
+      "czech": "Jsi tak hodná.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207765"
+    },
+    {
+      "english": "I'm falling for you.",
+      "czech": "Zamilovávám se do tebe.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207768"
+    },
+    {
+      "english": "This is so romantic.",
+      "czech": "To je tak romantické.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207770"
+    },
+    {
+      "english": "Let's get lost together.",
+      "czech": "Pojďme se ztratit spolu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207773"
+    },
+    {
+      "english": "You're my dream come true.",
+      "czech": "Jsi můj splněný sen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207775"
+    },
+    {
+      "english": "Do you like this place?",
+      "czech": "Líbí se ti tady?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207778"
+    },
+    {
+      "english": "Have you been here before?",
+      "czech": "Byl jsi tady někdy?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207780"
+    },
+    {
+      "english": "Can I ask you something?",
+      "czech": "Můžu se tě na něco zeptat?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207783"
+    },
+    {
+      "english": "Do you prefer city or nature?",
+      "czech": "Máš radši město, nebo přírodu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207785"
+    },
+    {
+      "english": "What do you do for fun?",
+      "czech": "Co děláš pro zábavu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207788"
+    },
+    {
+      "english": "Do you have any siblings?",
+      "czech": "Máš sourozence?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207790"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "czech": "Jakou muziku posloucháš?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207793"
+    },
+    {
+      "english": "Do you believe in fate?",
+      "czech": "Věříš na osud?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207795"
+    },
+    {
+      "english": "What's your dream job?",
+      "czech": "Jaká je tvoje vysněná práce?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207798"
+    },
+    {
+      "english": "Is this your first date?",
+      "czech": "Je to vaše první rande?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207800"
+    },
+    {
+      "english": "Can we talk about something else?",
+      "czech": "Můžeme mluvit o něčem jiném?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207805"
+    },
+    {
+      "english": "Do you want to go for a walk?",
+      "czech": "Chceš jít na procházku?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207807"
+    },
+    {
+      "english": "What's your biggest fear?",
+      "czech": "Čeho se nejvíc bojíš?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207810"
+    },
+    {
+      "english": "Are you a morning person?",
+      "czech": "Jsi ranní ptáče?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207813"
+    },
+    {
+      "english": "What makes you laugh?",
+      "czech": "Co tě rozesměje?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207817"
+    },
+    {
+      "english": "Do you like surprises?",
+      "czech": "Máš rád překvapení?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207819"
+    },
+    {
+      "english": "What's your favorite season?",
+      "czech": "Jaké je tvoje oblíbené roční období?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207824"
+    },
+    {
+      "english": "What are you passionate about?",
+      "czech": "Co tě vášnivě zajímá?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207826"
+    },
+    {
+      "english": "Do you believe in love at first sight?",
+      "czech": "Věříš na lásku na první pohled?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207829"
+    },
+    {
+      "english": "What's your ideal weekend?",
+      "czech": "Jaký je tvůj ideální víkend?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207832"
+    },
+    {
+      "english": "Can I get your opinion?",
+      "czech": "Můžu znát tvůj názor?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207834"
+    },
+    {
+      "english": "Be open to new experiences.",
+      "czech": "Buď otevřený novým zážitkům.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207837"
+    },
+    {
+      "english": "Your presence brightens my day.",
+      "czech": "Tvoje přítomnost mi rozjasní den.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207839"
+    },
+    {
+      "english": "You handle things so well.",
+      "czech": "Zvládáš to tak dobře.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207842"
+    },
+    {
+      "english": "You have a great energy.",
+      "czech": "Máš skvělou energii.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207844"
+    },
+    {
+      "english": "Don't be afraid to be vulnerable.",
+      "czech": "Neboj se být zranitelný.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207847"
+    },
+    {
+      "english": "You make dating fun.",
+      "czech": "Děláš randění zábavným.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207849"
+    },
+    {
+      "english": "Every step is progress.",
+      "czech": "Každý krok je pokrok.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207852"
+    },
+    {
+      "english": "You inspire me to be better.",
+      "czech": "Inspiruješ mě k lepším věcem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207855"
+    },
+    {
+      "english": "Your confidence is attractive.",
+      "czech": "Tvoje sebevědomí je přitažlivé.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207857"
+    },
+    {
+      "english": "Let your heart lead the way.",
+      "czech": "Nech své srdce vést cestu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207860"
+    },
+    {
+      "english": "Radiate positivity, attract good.",
+      "czech": "Vyzařuj pozitivitu, přitáhni dobro.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207862"
+    },
+    {
+      "english": "You have a wonderful spirit.",
+      "czech": "Máš nádherného ducha.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207865"
+    },
+    {
+      "english": "Embrace the journey, it's unique.",
+      "czech": "Přijmi cestu, je jedinečná.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207868"
+    },
+    {
+      "english": "Your efforts are noticed.",
+      "czech": "Tvoje snaha je vidět.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207870"
+    },
+    {
+      "english": "Be kind, always.",
+      "czech": "Buď laskavý, vždy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207873"
+    },
+    {
+      "english": "You're growing, and that's beautiful.",
+      "czech": "Rosteš, a to je krásné.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207876"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "czech": "Věř procesu, rozvine se.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207878"
+    },
+    {
+      "english": "You have a great sense of humor.",
+      "czech": "Máš skvělý smysl pro humor.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207881"
+    },
+    {
+      "english": "You bring out the best in me.",
+      "czech": "Probouzíš ve mně to nejlepší.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207883"
+    },
+    {
+      "english": "You're making beautiful memories.",
+      "czech": "Tvoříš krásné vzpomínky.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207886"
+    },
+    {
+      "english": "This feels right, doesn't it?",
+      "czech": "Tohle je správné, že ano?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207892"
+    },
+    {
+      "english": "Love is blind, you know?",
+      "czech": "Láska je slepá, víš?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207895"
+    },
+    {
+      "english": "We clicked, right away.",
+      "czech": "Padli jsme si do oka, hned.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207898"
+    },
+    {
+      "english": "He's a real charmer.",
+      "czech": "Je to pěkný kavalír.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207900"
+    },
+    {
+      "english": "She swept me off my feet.",
+      "czech": "Získala si mě, celou mojí duší.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207903"
+    },
+    {
+      "english": "We're meant to be.",
+      "czech": "Jsme si souzeni.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207906"
+    },
+    {
+      "english": "It's complicated, really.",
+      "czech": "Je to složité, vážně.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207909"
+    },
+    {
+      "english": "He's got a good heart.",
+      "czech": "Má dobré srdce.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207911"
+    },
+    {
+      "english": "Let's play it by ear.",
+      "czech": "Necháme to plynout.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207914"
+    },
+    {
+      "english": "I'm looking for something serious.",
+      "czech": "Hledám něco vážného.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207916"
+    },
+    {
+      "english": "We're just friends, for now.",
+      "czech": "Jsme jen přátelé, zatím.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207919"
+    },
+    {
+      "english": "He's taken, unfortunately.",
+      "czech": "Už je zadaný, bohužel.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207922"
+    },
+    {
+      "english": "We have chemistry, don't we?",
+      "czech": "Máme chemii, že ano?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207924"
+    },
+    {
+      "english": "You make me nervous, in a good way.",
+      "czech": "Jsi pro mě vzrušující, dobrým způsobem.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207927"
+    },
+    {
+      "english": "Let's give it a shot.",
+      "czech": "Dáme tomu šanci.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207929"
+    },
+    {
+      "english": "He's a catch.",
+      "czech": "Je to úlovek.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207932"
+    },
+    {
+      "english": "My heart skips a beat.",
+      "czech": "Srdce mi poskočí.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207934"
+    },
+    {
+      "english": "You're my type.",
+      "czech": "Jsi moje krevní skupina.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207937"
+    },
+    {
+      "english": "Let's take it slow.",
+      "czech": "Pojďme na to pomalu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207939"
+    },
+    {
+      "english": "He's a ladies' man.",
+      "czech": "Je to muž žen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207942"
+    },
+    {
+      "english": "It's complicated, I guess.",
+      "czech": "Je to složité, asi.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207944"
+    },
+    {
+      "english": "She's quite a catch.",
+      "czech": "Je to pěkná partie.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207947"
+    },
+    {
+      "english": "We're a good match.",
+      "czech": "Jsme pro sebe stvoření.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207949"
+    },
+    {
+      "english": "He's got the moves.",
+      "czech": "Umí to s ženami.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207952"
+    },
+    {
+      "english": "She's got a sparkle in her eye.",
+      "czech": "Má jiskru v oku.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207954"
+    },
+    {
+      "english": "Are you seeing anyone?",
+      "czech": "Chodíš s někým?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207957"
+    },
+    {
+      "english": "It's been love at first sight.",
+      "czech": "Byla to láska na první pohled.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207959"
+    },
+    {
+      "english": "He's really sweet.",
+      "czech": "Je moc milý.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207962"
+    },
+    {
+      "english": "We're just testing the waters.",
+      "czech": "Jen zkoušíme, co to udělá.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207966"
+    },
+    {
+      "english": "She's got a good head on her shoulders.",
+      "czech": "Je rozumná.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207969"
+    },
+    {
+      "english": "I'm still figuring things out, honestly.",
+      "czech": "Pořád na to přicházím, popravdě.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207972"
+    },
+    {
+      "english": "Give it time, it will become clear.",
+      "czech": "Dej tomu čas, ono se to ujasní.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207974"
+    },
+    {
+      "english": "My feelings are deeper than I thought.",
+      "czech": "Moje city jsou hlubší, než jsem čekal/a.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207979"
+    },
+    {
+      "english": "Patience is key, I believe.",
+      "czech": "Trpělivost je klíčová, věřím.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207981"
+    },
+    {
+      "english": "I need some space to reflect.",
+      "czech": "Potřebuji trochu prostoru k zamyšlení.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207985"
+    },
+    {
+      "english": "I feel a genuine connection here.",
+      "czech": "Cítím zde opravdové spojení.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207988"
+    },
+    {
+      "english": "Don't rush, let's be mindful.",
+      "czech": "Neunáhli se, buďme vnímaví.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207993"
+    },
+    {
+      "english": "I value your honesty greatly.",
+      "czech": "Velmi si vážím tvé upřímnosti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207996"
+    },
+    {
+      "english": "This is more than just a fling.",
+      "czech": "Tohle je víc než jen známost.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.207998"
+    },
+    {
+      "english": "I'm thinking about our future.",
+      "czech": "Přemýšlím o naší budoucnosti.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208001"
+    },
+    {
+      "english": "What does this mean to you?",
+      "czech": "Co to pro tebe znamená?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208003"
+    },
+    {
+      "english": "I want to understand you better.",
+      "czech": "Chci ti lépe porozumět.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208006"
+    },
+    {
+      "english": "My heart feels very full.",
+      "czech": "Moje srdce je velmi plné.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208008"
+    },
+    {
+      "english": "Let's be open with each other.",
+      "czech": "Buďme k sobě otevření.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208011"
+    },
+    {
+      "english": "This feels like a real possibility.",
+      "czech": "Tohle vypadá jako reálná možnost.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208014"
+    },
+    {
+      "english": "I'm learning a lot from this.",
+      "czech": "Hodně se z toho učím.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208016"
+    },
+    {
+      "english": "Can we talk about our feelings?",
+      "czech": "Můžeme mluvit o našich pocitech?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208019"
+    },
+    {
+      "english": "I cherish this connection we have.",
+      "czech": "Vážím si tohoto spojení, které máme.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208021"
+    },
+    {
+      "english": "Let's nurture this relationship gently.",
+      "czech": "Pěstujme tento vztah jemně.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208024"
+    },
+    {
+      "english": "I'm reflecting on what we share.",
+      "czech": "Přemýšlím o tom, co sdílíme.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208026"
+    },
+    {
+      "english": "My intuition says this is good.",
+      "czech": "Má intuice říká, že je to dobré.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208029"
+    },
+    {
+      "english": "I'm feeling quite vulnerable right now.",
+      "czech": "Právě teď se cítím dost zranitelně.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208031"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "czech": "Jaký je tvůj upřímný názor?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208034"
+    },
+    {
+      "english": "I appreciate your thoughtful gestures.",
+      "czech": "Oceňuji tvé promyšlené činy.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208036"
+    },
+    {
+      "english": "Let's build something lasting.",
+      "czech": "Pojďme budovat něco trvalého.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208039"
+    },
+    {
+      "english": "I'm ready for something deeper.",
+      "czech": "Jsem připraven/a na něco hlubšího.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208041"
+    },
+    {
+      "english": "I feel safe when I'm with you.",
+      "czech": "Cítím se bezpečně, když jsem s tebou.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-02T07:27:51.208044"
     }
   ],
-  "last_updated": "2026-11-01T07:13:55.642607"
+  "last_updated": "2026-11-02T07:27:51.208046"
 }
