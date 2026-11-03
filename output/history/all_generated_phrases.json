@@ -12239,7 +12239,727 @@
       "czech": "Cítím se bezpečně, když jsem s tebou.",
       "category": "Dating & Romance",
       "generated_at": "2026-11-02T07:27:51.208044"
+    },
+    {
+      "english": "Okay, I can do it, let's go",
+      "czech": "Dobře, zvládnu to, jdeme",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584227"
+    },
+    {
+      "english": "Hold on, I need one second",
+      "czech": "Počkej, potřebuju jen vteřinu",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584241"
+    },
+    {
+      "english": "That’s fine, no worries, really",
+      "czech": "To je v pohodě, žádný stres, fakt",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584246"
+    },
+    {
+      "english": "Wait, I think I forgot something",
+      "czech": "Počkej, myslím, že jsem něco zapomněl",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584249"
+    },
+    {
+      "english": "Sorry, I'm late, traffic was crazy",
+      "czech": "Promiň, už je to pozdě, byl šílený provoz",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584252"
+    },
+    {
+      "english": "Calm down, we’ll figure it out",
+      "czech": "Uklidni se, nějak to vyřešíme",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584255"
+    },
+    {
+      "english": "I’m good, thanks, how about you",
+      "czech": "Mám se dobře, díky, a ty",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584259"
+    },
+    {
+      "english": "Come on, we’re almost there",
+      "czech": "No tak, už jsme skoro tam",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584266"
+    },
+    {
+      "english": "Excuse me, where is the metro",
+      "czech": "Promiňte, kde je metro",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584270"
+    },
+    {
+      "english": "Right now, I can’t, maybe later",
+      "czech": "Teď ne, to nejde, třeba později",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584274"
+    },
+    {
+      "english": "Really? That’s awesome, I’m in",
+      "czech": "Vážně? To je super, jdu do toho",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584278"
+    },
+    {
+      "english": "Not bad, it’s getting better, for sure",
+      "czech": "Není to špatný, je to lepší, určitě",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584281"
+    },
+    {
+      "english": "Okay, I’ll take it, thanks",
+      "czech": "Dobře, vezmu to, děkuju",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584286"
+    },
+    {
+      "english": "One more thing, I have a question",
+      "czech": "Ještě jedna věc, mám dotaz",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584289"
+    },
+    {
+      "english": "No problem, I’ll help you right away",
+      "czech": "Žádný problém, pomůžu hned",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584293"
+    },
+    {
+      "english": "I’m trying, give me a moment",
+      "czech": "Zkouším, dej mi chvilku",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584296"
+    },
+    {
+      "english": "That makes sense, okay, I get it",
+      "czech": "To dává smysl, jasně, už chápu",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584299"
+    },
+    {
+      "english": "I can’t decide, what do you suggest",
+      "czech": "Nemůžu se rozhodnout, co doporučuješ",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584302"
+    },
+    {
+      "english": "Let’s do it, now, right here",
+      "czech": "Jdeme na to, teď hned",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584305"
+    },
+    {
+      "english": "Be careful, it’s slippery here",
+      "czech": "Pozor, je to tu kluzké",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584308"
+    },
+    {
+      "english": "I’m starving, where can we eat",
+      "czech": "Mám hlad jako blázen, kde se najíme",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584311"
+    },
+    {
+      "english": "Cheers, thank you, that helps a lot",
+      "czech": "Na zdraví, díky, moc mi to pomohlo",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584314"
+    },
+    {
+      "english": "Got it, I understand, thanks for that",
+      "czech": "Rozumím, chápu, díky",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584316"
+    },
+    {
+      "english": "I’m out of here, see you later",
+      "czech": "Jdu pryč, uvidíme se později",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584319"
+    },
+    {
+      "english": "I’ll check, give me a second, please",
+      "czech": "Mrknu na to, počkej chvilku, prosím",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584337"
+    },
+    {
+      "english": "Sounds good, let’s meet at five",
+      "czech": "To zní dobře, dáme se v pět",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584341"
+    },
+    {
+      "english": "Come back, I forgot my phone",
+      "czech": "Vrátíš se, zapomněl jsem mobil",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584343"
+    },
+    {
+      "english": "Right away, I’ll show you the way",
+      "czech": "Hned, ukážu ti cestu",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584346"
+    },
+    {
+      "english": "No, wait, that's not what I meant",
+      "czech": "Ne, počkej, to jsem nemyslel",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584349"
+    },
+    {
+      "english": "Okay, good luck, you’ll be fine",
+      "czech": "Tak hodně štěstí, budeš v pohodě",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584352"
+    },
+    {
+      "english": "Where do I sign, for this form?",
+      "czech": "Kde se podepisuje, u téhle formuláře?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584355"
+    },
+    {
+      "english": "Do you have a recommendation, for beginners?",
+      "czech": "Máte nějaké doporučení pro začátečníky?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584358"
+    },
+    {
+      "english": "How much time should I spend on this?",
+      "czech": "Kolik času mám tím strávit?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584361"
+    },
+    {
+      "english": "Is this correct, or am I doing wrong?",
+      "czech": "Je to správně, nebo to dělám špatně?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584363"
+    },
+    {
+      "english": "Could you repeat that, a bit slower?",
+      "czech": "Můžete to zopakovat, trochu pomaleji?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584366"
+    },
+    {
+      "english": "Should I ask you first, or later?",
+      "czech": "Mám se vás zeptat první, nebo později?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584369"
+    },
+    {
+      "english": "What do you suggest, for confidence?",
+      "czech": "Co doporučujete, pro sebevědomí?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584371"
+    },
+    {
+      "english": "Can we talk about training, for a minute?",
+      "czech": "Můžeme si promluvit o tréninku, chvilku?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584374"
+    },
+    {
+      "english": "Which exercise should I do first?",
+      "czech": "Jaké cvičení mám dělat jako první?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584376"
+    },
+    {
+      "english": "Can I borrow this, for my workout?",
+      "czech": "Můžu si to půjčit, na trénink?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584381"
+    },
+    {
+      "english": "Do I need warm-up, every session?",
+      "czech": "Mám se zahřívat, při každém tréninku?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584384"
+    },
+    {
+      "english": "Is there a faster way, to improve?",
+      "czech": "Je nějaká rychlejší cesta, jak se zlepšit?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584387"
+    },
+    {
+      "english": "What should I avoid, during strength days?",
+      "czech": "Čemu se mám vyhnout, při dnech síly?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584390"
+    },
+    {
+      "english": "Could you check my form, please?",
+      "czech": "Můžete mi zkontrolovat techniku, prosím?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584392"
+    },
+    {
+      "english": "How often do you train, realistically?",
+      "czech": "Jak často trénujete, realisticky?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584397"
+    },
+    {
+      "english": "What’s your go-to plan, when I’m tired?",
+      "czech": "Jaký je váš plán, když jsem unavený?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584401"
+    },
+    {
+      "english": "Do you think I should rest today?",
+      "czech": "Myslíte, že si mám dnes odpočinout?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584404"
+    },
+    {
+      "english": "Can I switch exercises, if it hurts?",
+      "czech": "Můžu vyměnit cviky, když to bolí?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584406"
+    },
+    {
+      "english": "What’s the proper breathing, for squats?",
+      "czech": "Jak správně dýchat, při dřepu?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584412"
+    },
+    {
+      "english": "Where can I get equipment, nearby?",
+      "czech": "Kde poblíž koupím vybavení?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584414"
+    },
+    {
+      "english": "Would you guide me, for my first session?",
+      "czech": "Provázíte mě, na mojí první lekci?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584417"
+    },
+    {
+      "english": "Do you have a simple routine for me?",
+      "czech": "Máte pro mě jednoduchou rutinu?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584420"
+    },
+    {
+      "english": "What time should I arrive, exactly?",
+      "czech": "V kolik mám přijít, přesně?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584422"
+    },
+    {
+      "english": "Can I ask one quick question, please?",
+      "czech": "Můžu se zeptat na jednu rychlou věc?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584427"
+    },
+    {
+      "english": "If I’m weak, what should I do?",
+      "czech": "Když jsem slabý, co mám dělat?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584430"
+    },
+    {
+      "english": "How do you track progress, without stress?",
+      "czech": "Jak sledujete pokrok, bez stresu?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584434"
+    },
+    {
+      "english": "You’ve got this, keep going, one more rep.",
+      "czech": "Máš to, pokračuj, ještě jednu opakování.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584437"
+    },
+    {
+      "english": "Breathe, relax your shoulders, lift with purpose.",
+      "czech": "Dýchej, uvolni ramena, zvedej cíleně.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584440"
+    },
+    {
+      "english": "Small steps today, strong you tomorrow, promise it.",
+      "czech": "Dnes malé kroky, zítra silný ty, slib to.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584443"
+    },
+    {
+      "english": "Stay focused, listen to your body, trust it.",
+      "czech": "Drž soustředění, poslouchej tělo, věř mu.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584447"
+    },
+    {
+      "english": "Progress isn’t loud, but it’s real every day.",
+      "czech": "Pokrok není hlučný, ale každý den je skutečný.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584450"
+    },
+    {
+      "english": "Tell yourself, I’m stronger than yesterday, right now.",
+      "czech": "Řekni si, jsem silnější než včera, právě teď.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584454"
+    },
+    {
+      "english": "Perfect form slowly, power will follow, no rush.",
+      "czech": "Dokonalá technika pomalu, síla přijde, žádný spěch.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584457"
+    },
+    {
+      "english": "Give it your best, then rest, you earned it.",
+      "czech": "Dej do toho maximum, pak si odpočiň, zasloužíš.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584460"
+    },
+    {
+      "english": "Confidence grows in the reps you try today.",
+      "czech": "Sebevědomí roste v opakováních, co zkoušíš dnes.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584463"
+    },
+    {
+      "english": "Don’t compare, compete with your last workout.",
+      "czech": "Srovnávej ne, soupeř s posledním tréninkem.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584466"
+    },
+    {
+      "english": "Keep your mind calm, your body will respond.",
+      "czech": "Udrž si klid v hlavě, tělo odpoví.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584469"
+    },
+    {
+      "english": "You showed up, that’s already a win.",
+      "czech": "Žes přišel, to je už výhra.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584472"
+    },
+    {
+      "english": "Even one set counts, don’t overthink it.",
+      "czech": "I jedna série se počítá, nepřemýšlej to.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584476"
+    },
+    {
+      "english": "Today’s effort builds tomorrow’s strength, simple.",
+      "czech": "Dnešní snaha staví zítřejší sílu, jednoduché.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584479"
+    },
+    {
+      "english": "Say it: I can handle this, step by step.",
+      "czech": "Řekni si: zvládnu to, krok za krokem.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584482"
+    },
+    {
+      "english": "When it’s tough, go steady, don’t panic.",
+      "czech": "Když je to těžké, drž tempo, nepni se.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584488"
+    },
+    {
+      "english": "Focus on the next rep, not the finish.",
+      "czech": "Mysli na další opakování, ne na konec.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584491"
+    },
+    {
+      "english": "Your form is a promise, keep it clean.",
+      "czech": "Technika je slib, drž ji čistou.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584493"
+    },
+    {
+      "english": "Reward yourself, you trained, respect the work.",
+      "czech": "Odměň se, trénoval jsi, respektuj to.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584496"
+    },
+    {
+      "english": "No magic, just consistency, show up again.",
+      "czech": "Žádná magie, jen pravidelnost, vrať se znovu.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584499"
+    },
+    {
+      "english": "You’re building habits, not only muscle.",
+      "czech": "Vytváříš návyky, nejen svaly.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584502"
+    },
+    {
+      "english": "Trust the process, your body learns fast.",
+      "czech": "Věř procesu, tělo se učí rychle.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584505"
+    },
+    {
+      "english": "If you slip, reset, shake it off, continue.",
+      "czech": "Když zakolísáš, resetuj se, setřes to, pokračuj.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584508"
+    },
+    {
+      "english": "Say “good job”, even before you feel ready.",
+      "czech": "Řekni „dobrá práce“, i když se necítíš připravený.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584512"
+    },
+    {
+      "english": "Make it fun, music on, focus in, go.",
+      "czech": "Udělávej to zábavně, hudba jede, hlava v klidu, jdi.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584515"
+    },
+    {
+      "english": "Let the burn pass, then attack the next set.",
+      "czech": "Nech to pálit odejít, pak skoč na další sérii.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584518"
+    },
+    {
+      "english": "Strong mindset, strong choices, simple as that.",
+      "czech": "Silné myšlení, silná rozhodnutí, tak jednoduché.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584521"
+    },
+    {
+      "english": "Give praise to effort, not just numbers.",
+      "czech": "Chval snahu, ne jen čísla.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584524"
+    },
+    {
+      "english": "You’re not behind, you’re on your timeline.",
+      "czech": "Nejsi pozadu, jedeš na svůj čas.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584527"
+    },
+    {
+      "english": "Leave doubts at the door, come train anyway.",
+      "czech": "Nech pochybnosti u dveří, přijď trénovat stejně.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584530"
+    },
+    {
+      "english": "I’m proud of showing up, even tired.",
+      "czech": "Jsem na sebe hrdý, i když jsem unavený.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584533"
+    },
+    {
+      "english": "Right now, I need patience, not pressure.",
+      "czech": "Teď potřebuji trpělivost, ne tlak.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584536"
+    },
+    {
+      "english": "I notice my feelings, then I continue.",
+      "czech": "Vnímám svoje pocity, a pak pokračuju.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584539"
+    },
+    {
+      "english": "Some days feel heavy, and that’s okay.",
+      "czech": "Některé dny jsou těžké, a to je v pořádku.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584542"
+    },
+    {
+      "english": "I’m learning to be honest with myself.",
+      "czech": "Učím se být k sobě upřímný.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584545"
+    },
+    {
+      "english": "I breathe, I slow down, I steady up.",
+      "czech": "Dýchám, zpomalím, zůstanu pevný.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584548"
+    },
+    {
+      "english": "I don’t fight my limits, I work with them.",
+      "czech": "Neperu se svými limity, pracuju s nimi.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584551"
+    },
+    {
+      "english": "Today, I focus on control, not ego.",
+      "czech": "Dneska se soustředím na kontrolu, ne na ego.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584554"
+    },
+    {
+      "english": "If my body asks for rest, I listen.",
+      "czech": "Když si tělo řekne o pauzu, poslechnu ho.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584557"
+    },
+    {
+      "english": "I keep it real, I’m not always motivated.",
+      "czech": "Držím se reality, ne vždycky mám motivaci.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584561"
+    },
+    {
+      "english": "I’m rebuilding confidence, one careful choice at a time.",
+      "czech": "Znovu si buduju důvěru, krok po kroku.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584565"
+    },
+    {
+      "english": "I let doubt pass, then I act calmly.",
+      "czech": "Nechám pochybnosti odejít, pak jedu klidně.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584569"
+    },
+    {
+      "english": "I can feel nervous, still I move forward.",
+      "czech": "Můžu být nervózní, i tak jdu dál.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584572"
+    },
+    {
+      "english": "I respect the process, not just the results.",
+      "czech": "Respektuju proces, ne jen výsledky.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584576"
+    },
+    {
+      "english": "I’m okay with starting small, again.",
+      "czech": "Nevadí mi začít znovu od malého.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584580"
+    },
+    {
+      "english": "I talk to myself kindly, even during hard reps.",
+      "czech": "Mluvím na sebe hezky, i když je to těžké.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584583"
+    },
+    {
+      "english": "I notice progress, even when it feels slow.",
+      "czech": "Všímám si pokroku, i když to jde pomalu.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584586"
+    },
+    {
+      "english": "Strength for me is consistency, not perfection.",
+      "czech": "Síla pro mě znamená pravidelnost, ne dokonalost.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584591"
+    },
+    {
+      "english": "I’m proud of steady effort, not dramatic days.",
+      "czech": "Jsem hrdý na vytrvalou snahu, ne na velké dny.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584594"
+    },
+    {
+      "english": "I trust my training, and I stay present.",
+      "czech": "Věřím svému tréninku, a zůstávám přítomný.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584597"
+    },
+    {
+      "english": "I don’t rush my mind, I let it settle.",
+      "czech": "Nespěchám s hlavou, nechám ji zklidnit.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584603"
+    },
+    {
+      "english": "I admit I’m tired, and I plan wisely.",
+      "czech": "Přiznám, že jsem unavený, a moudře si to naplánuju.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584606"
+    },
+    {
+      "english": "I choose effort I can sustain today.",
+      "czech": "Volím úsilí, které zvládnu udržet dnes.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584609"
+    },
+    {
+      "english": "I’m learning to handle pressure with grace.",
+      "czech": "Učím se zvládat tlak s klidem.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584612"
+    },
+    {
+      "english": "Even small wins calm my nerves.",
+      "czech": "I malé výhry mi uklidní nervy.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584614"
+    },
+    {
+      "english": "I notice what works, then I repeat it.",
+      "czech": "Všimnu si, co funguje, a pak to opakuju.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584617"
+    },
+    {
+      "english": "I’m not perfect, but I’m trying honestly.",
+      "czech": "Nejsem dokonalý, ale snažím se poctivě.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584675"
+    },
+    {
+      "english": "My goal is to feel stronger inside.",
+      "czech": "Mým cílem je cítit se silnější uvnitř.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584679"
+    },
+    {
+      "english": "I keep going gently, not harshly.",
+      "czech": "Pokračuju jemně, ne tvrdě.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584681"
+    },
+    {
+      "english": "When I’m done, I recover with respect.",
+      "czech": "Až skončím, regeneruju s respektem.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584685"
+    },
+    {
+      "english": "Quick stretch, then we talk, yeah?",
+      "czech": "Rychlý strečink, pak si dáme řeč, jasně?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584688"
+    },
+    {
+      "english": "Before work, squeeze in ten minutes, okay?",
+      "czech": "Než do práce, dej si deset minut, jo?",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584691"
+    },
+    {
+      "english": "Walk it off, then choose your next move.",
+      "czech": "Projdi to, a pak vyber další krok.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584694"
+    },
+    {
+      "english": "When stress hits, breathe, and lift anyway.",
+      "czech": "Když přijde stres, nadechni se, a zvedej.",
+      "category": "Strength",
+      "generated_at": "2026-11-03T07:43:24.584697"
     }
   ],
-  "last_updated": "2026-11-02T07:27:51.208046"
+  "last_updated": "2026-11-03T07:43:24.584699"
 }
