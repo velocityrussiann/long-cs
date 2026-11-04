@@ -12959,7 +12959,727 @@
       "czech": "Když přijde stres, nadechni se, a zvedej.",
       "category": "Strength",
       "generated_at": "2026-11-03T07:43:24.584697"
+    },
+    {
+      "english": "Hey, you’re here, great to see you.",
+      "czech": "Hej, jsi tady, skvělé tě vidět.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344753"
+    },
+    {
+      "english": "No worries, I’ve got you, really.",
+      "czech": "Žádný strach, mám tě, fakt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344766"
+    },
+    {
+      "english": "Wait a sec, tell me what happened.",
+      "czech": "Počkej chvilku, řekni mi, co se stalo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344770"
+    },
+    {
+      "english": "I hear you, totally, let’s keep going.",
+      "czech": "Rozumím ti, jasně, jedeme dál.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344774"
+    },
+    {
+      "english": "That’s perfect, I was just thinking.",
+      "czech": "To je skvělý, já zrovna na to myslel.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344777"
+    },
+    {
+      "english": "Come on, don’t overthink it, ok?",
+      "czech": "No tak, nepřeháněj to, jasně?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344786"
+    },
+    {
+      "english": "Give me a minute, I’ll be right back.",
+      "czech": "Dej mi minutu, hned jsem zpátky.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344790"
+    },
+    {
+      "english": "Seriously, that’s amazing, where did you learn?",
+      "czech": "Vážně, to je úžasný, kde ses to naučil?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344797"
+    },
+    {
+      "english": "Hold on, I want to hear your story.",
+      "czech": "Moment, chci slyšet tvůj příběh.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344800"
+    },
+    {
+      "english": "Nice, that’s exactly what I needed today.",
+      "czech": "Super, tohle přesně jsem dnes potřeboval.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344804"
+    },
+    {
+      "english": "Let’s do it, right now, don’t hesitate.",
+      "czech": "Jdeme na to, hned teď, neváhej.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344808"
+    },
+    {
+      "english": "Tell me the truth, I can take it.",
+      "czech": "Řekni mi pravdu, zvládnu to.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344811"
+    },
+    {
+      "english": "That’s okay, we’ll figure it out.",
+      "czech": "Nevadí, nějak to vyřešíme.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344816"
+    },
+    {
+      "english": "I’m into it, it sounds perfect, honestly.",
+      "czech": "Mně se to líbí, zní to skvěle.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344820"
+    },
+    {
+      "english": "Oh wow, wait, say that again!",
+      "czech": "Jéžiš, počkej, řekni to znovu!",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344824"
+    },
+    {
+      "english": "Honestly, you’re different, and I like it.",
+      "czech": "Upřímně, jsi jiný, a to se mi líbí.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344828"
+    },
+    {
+      "english": "Wait, that can’t be right, check again.",
+      "czech": "Moment, to není možné, zkontroluj to.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344831"
+    },
+    {
+      "english": "I’m good, thanks, you take care, ok?",
+      "czech": "Mám se dobře, díky, ty se opatruj.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344834"
+    },
+    {
+      "english": "Let it go, breathe out, it’ll be fine.",
+      "czech": "Nech to být, vydechni, bude to dobrý.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344838"
+    },
+    {
+      "english": "I’m off, message me when you’re free.",
+      "czech": "Končím, napiš mi, až budeš volnej.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344841"
+    },
+    {
+      "english": "That’s true, I felt the same, wow.",
+      "czech": "To je pravda, cítil jsem to stejně.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344844"
+    },
+    {
+      "english": "Be careful, it’s risky, trust me.",
+      "czech": "Opatrně, je to risk, věř mi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344848"
+    },
+    {
+      "english": "Relax, we’ve got time, no rush.",
+      "czech": "Klid, máme čas, žádný spěch.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344851"
+    },
+    {
+      "english": "Okay then, show me what you mean.",
+      "czech": "Dobře, tak mi ukaž, co tím myslíš.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344854"
+    },
+    {
+      "english": "You’re right, I was wrong, sorry.",
+      "czech": "Máš pravdu, měl jsem se líp omluvit.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344857"
+    },
+    {
+      "english": "I’m listening, go on, impress me.",
+      "czech": "Poslouchám, pokračuj, překvap mě.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344860"
+    },
+    {
+      "english": "No way, you’re kidding, that’s hilarious.",
+      "czech": "To snad ne, děláš si srandu, to je vtipný.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344863"
+    },
+    {
+      "english": "Let’s grab coffee, just us two.",
+      "czech": "Dáme kafe, jen my dva.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344866"
+    },
+    {
+      "english": "How’s it going, really, with you?",
+      "czech": "Jak se máš, upřímně, jak to jde?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344869"
+    },
+    {
+      "english": "That’s cute, but seriously, what now?",
+      "czech": "To je roztomilý, ale vážně, co teď?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344872"
+    },
+    {
+      "english": "What do you think I should do first?",
+      "czech": "Co si myslíš, co mám udělat nejdřív?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344875"
+    },
+    {
+      "english": "Where do you usually get your best advice?",
+      "czech": "Kde si obvykle bereš nejlepší rady?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344878"
+    },
+    {
+      "english": "Can I ask you something, quick and honest?",
+      "czech": "Můžu se tě na něco zeptat, rychle a upřímně?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344881"
+    },
+    {
+      "english": "What’s your rule for staying calm, daily?",
+      "czech": "Jaké máš pravidlo, jak zůstat v klidu?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344884"
+    },
+    {
+      "english": "If you were me, what would you choose?",
+      "czech": "Kdybys byl/a na mém místě, co bys vybral/a?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344886"
+    },
+    {
+      "english": "Tell me, what matters most to you lately?",
+      "czech": "Řekni mi, co je teď pro tebe nejdůležitější?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344889"
+    },
+    {
+      "english": "Do you think timing matters more than effort?",
+      "czech": "Myslíš, že načasování je důležitější než snaha?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344892"
+    },
+    {
+      "english": "How do you handle stress, without overthinking?",
+      "czech": "Jak zvládáš stres, aniž bys přemýšlel/a pořád?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344896"
+    },
+    {
+      "english": "What’s one habit that changed your life?",
+      "czech": "Jaký jeden zvyk ti změnil život?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344899"
+    },
+    {
+      "english": "Can I get your opinion, straight up?",
+      "czech": "Můžu znát tvůj názor, bez obalu?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344903"
+    },
+    {
+      "english": "When you’re unsure, what do you do first?",
+      "czech": "Když si nejsi jistý/á, co děláš jako první?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344906"
+    },
+    {
+      "english": "Do you want advice, or just to vent?",
+      "czech": "Chceš radu, nebo si jen potřebuješ ulevit?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344909"
+    },
+    {
+      "english": "How do you stay motivated on bad days?",
+      "czech": "Jak se motivuješ, když jsou špatné dny?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344912"
+    },
+    {
+      "english": "What’s the nicest thing you tell yourself?",
+      "czech": "Co je ta nejhezčí věc, co si říkáš sám/a?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344915"
+    },
+    {
+      "english": "Would you rather talk, or solve it together?",
+      "czech": "Radši si promluvíme, nebo to vyřešíme spolu?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344918"
+    },
+    {
+      "english": "How do you know when to say no?",
+      "czech": "Jak víš, kdy říct ne?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344920"
+    },
+    {
+      "english": "What’s your comfort move when things get messy?",
+      "czech": "Jaký je tvůj uklidňující trik, když je to chaotické?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344923"
+    },
+    {
+      "english": "Can we switch gears, talk about your dreams?",
+      "czech": "Můžeme přepnout, a bavit se o tvých snech?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344926"
+    },
+    {
+      "english": "What do you do when you lose confidence?",
+      "czech": "Co děláš, když ztratíš sebevědomí?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344928"
+    },
+    {
+      "english": "Where would you start if life resets tomorrow?",
+      "czech": "S čím bys začal/a, kdyby se zítra všechno resetovalo?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344931"
+    },
+    {
+      "english": "Do you prefer honesty, or gentle truths?",
+      "czech": "Máš raději upřímnost, nebo jemné pravdy?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344934"
+    },
+    {
+      "english": "What’s your quick way to reset your mood?",
+      "czech": "Jak si rychle spravíš náladu, když spadne?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344936"
+    },
+    {
+      "english": "How should I approach this, step by step?",
+      "czech": "Jak bych to měl/měla řešit, krok po kroku?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344939"
+    },
+    {
+      "english": "Can you help me choose the right path?",
+      "czech": "Pomůžeš mi vybrat správnou cestu?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344944"
+    },
+    {
+      "english": "What’s the lesson you learned the hard way?",
+      "czech": "Jaké poučení sis vzal/a tím těžkým způsobem?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344947"
+    },
+    {
+      "english": "When do you know it’s time to move on?",
+      "czech": "Kdy víš, že je čas jít dál?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344950"
+    },
+    {
+      "english": "Do you think small steps beat big promises?",
+      "czech": "Myslíš, že malé kroky porazí velké sliby?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344954"
+    },
+    {
+      "english": "What’s your favorite question to ask yourself?",
+      "czech": "Jakou otázku si nejradši pokládáš?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344957"
+    },
+    {
+      "english": "If I ask for help, will you be honest?",
+      "czech": "Když si řeknu o pomoc, budeš ke mně upřímný/á?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344960"
+    },
+    {
+      "english": "So tell me, what do you want from today?",
+      "czech": "Tak mi řekni, co od dneška chceš?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344963"
+    },
+    {
+      "english": "Measure twice, cut once, think before acting.",
+      "czech": "Měř dvakrát, řež jednou, mysli dřív než jednáš.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344966"
+    },
+    {
+      "english": "Silence can be wisdom, say less, listen more.",
+      "czech": "Mlčení může být moudrost, říkej méně, poslouchej víc.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344968"
+    },
+    {
+      "english": "Better late than never, start imperfect today.",
+      "czech": "Lepší pozdě než nikdy, začni dnes, i nedokonale.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344971"
+    },
+    {
+      "english": "You reap what you sow, don’t shortcut effort.",
+      "czech": "Sklízíš, co zaseješ, nesnaž se to zkrátit.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344975"
+    },
+    {
+      "english": "One hand washes the other, help comes back.",
+      "czech": "Jedna ruka druhou myje, pomoc se vrací.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344977"
+    },
+    {
+      "english": "When in doubt, ask, even the basics matter.",
+      "czech": "Když si nejsi jistý, zeptej se, i základy platí.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344980"
+    },
+    {
+      "english": "Don’t chase quick wins, build trust slowly.",
+      "czech": "Nehoní rychlé výhry, stavěj důvěru pomalu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344983"
+    },
+    {
+      "english": "A calm head wins, breathe, choose your next step.",
+      "czech": "Klidná hlava vítězí, nadechni se, vyber krok.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344986"
+    },
+    {
+      "english": "You can’t please everyone, stay true to yourself.",
+      "czech": "Nezavděčíš se všem, buď věrný sám sobě.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344989"
+    },
+    {
+      "english": "Know your limits, wisdom is saying stop.",
+      "czech": "Poznej své limity, moudrost je říct dost.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344994"
+    },
+    {
+      "english": "Don’t cry over spilled milk, move on fast.",
+      "czech": "Neplač nad rozlitým mlékem, jdi dál.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.344997"
+    },
+    {
+      "english": "A stitch in time saves nine, fix it now.",
+      "czech": "Šití včas zachrání devět, oprav to hned.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345000"
+    },
+    {
+      "english": "Trust your gut, but verify the facts.",
+      "czech": "Věř svému citu, ale ověř si fakta.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345002"
+    },
+    {
+      "english": "Hard work pays off, keep going one more day.",
+      "czech": "Těžká práce se vyplácí, vydrž ještě jeden den.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345005"
+    },
+    {
+      "english": "Waste nothing, use what you already have.",
+      "czech": "Nic neplýtvej, využij to, co už máš.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345007"
+    },
+    {
+      "english": "The truth hurts, but it sets you free.",
+      "czech": "Pravda bolí, ale osvobodí tě.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345010"
+    },
+    {
+      "english": "If it’s meant for you, it’ll find you.",
+      "czech": "Když je to pro tebe, najde si cestu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345013"
+    },
+    {
+      "english": "Learn from mistakes, don’t repeat the same lesson.",
+      "czech": "Uč se z chyb, neopakuj tu samou věc.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345017"
+    },
+    {
+      "english": "Speak straight, kindness can be firm too.",
+      "czech": "Mluv přímo, laskavost může být pevná.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345019"
+    },
+    {
+      "english": "Take it step by step, don’t sprint ahead.",
+      "czech": "Jdi krok za krokem, nesnaž se vyběhnout.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345024"
+    },
+    {
+      "english": "Even small help matters, don’t underestimate it.",
+      "czech": "I malá pomoc má cenu, nepodceňuj ji.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345028"
+    },
+    {
+      "english": "When the storm hits, stand steady, don’t panic.",
+      "czech": "Když přijde bouře, drž se při zemi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345031"
+    },
+    {
+      "english": "Better to ask early, than regret later.",
+      "czech": "Je lepší se zeptat dřív, než litovat potom.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345034"
+    },
+    {
+      "english": "Don’t count chickens, think about the next move.",
+      "czech": "Nepočítej s tím, co ještě není, jednej teď.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345037"
+    },
+    {
+      "english": "Keep your promises, reputation is long-term.",
+      "czech": "Drž své sliby, pověst roste dlouho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345040"
+    },
+    {
+      "english": "A good start is half the work, begin.",
+      "czech": "Dobré začátky jsou půl práce, začni.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345043"
+    },
+    {
+      "english": "Don’t throw good money after bad decisions.",
+      "czech": "Nevhazuj dobré peníze za špatné volby.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345045"
+    },
+    {
+      "english": "You can’t change the past, focus on today.",
+      "czech": "Minulost nevrátíš, mysli na dnešek.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345049"
+    },
+    {
+      "english": "Before you judge, walk in their shoes.",
+      "czech": "Než budeš soudit, zkus být v jejich kůži.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345051"
+    },
+    {
+      "english": "If you want peace, stop fighting with noise.",
+      "czech": "Chceš-li klid, utni zbytečný hluk.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345054"
+    },
+    {
+      "english": "I feel calmer, when I slow down.",
+      "czech": "Cítím se klidněji, když zpomalím.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345056"
+    },
+    {
+      "english": "Be honest, even with yourself, today.",
+      "czech": "Buď upřímný, i vůči sobě, dnes.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345059"
+    },
+    {
+      "english": "I’m learning to say no, gently.",
+      "czech": "Učím se říkat ne, jemně.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345062"
+    },
+    {
+      "english": "Some days, I just need space.",
+      "czech": "Někdy jen potřebuji prostor.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345065"
+    },
+    {
+      "english": "I trust the process, not the mood.",
+      "czech": "Věřím procesu, ne náladě.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345067"
+    },
+    {
+      "english": "It’s okay to be tired, honestly.",
+      "czech": "Je v pořádku být unavený, upřímně.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345070"
+    },
+    {
+      "english": "When I pause, my thoughts get clearer.",
+      "czech": "Když se zastavím, myšlenky se vyjasní.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345073"
+    },
+    {
+      "english": "I forgive myself, then I move forward.",
+      "czech": "Odpouštím si, a jdu dál.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345075"
+    },
+    {
+      "english": "Patience works better than pressure, for me.",
+      "czech": "Trpělivost mi funguje líp než tlak.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345078"
+    },
+    {
+      "english": "I don’t need perfect, I need real.",
+      "czech": "Nepotřebuji dokonalost, chci realitu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345083"
+    },
+    {
+      "english": "I’m allowed to feel, and still choose.",
+      "czech": "Můžu cítit, a přesto se rozhodnout.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345088"
+    },
+    {
+      "english": "I speak softly, but I mean it.",
+      "czech": "Mluvím tiše, ale myslím to vážně.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345090"
+    },
+    {
+      "english": "I don’t rush healing, I respect it.",
+      "czech": "Nelouhám si uzdravení, respektuji ho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345094"
+    },
+    {
+      "english": "My heart matters, so I listen first.",
+      "czech": "Můj vnitřek je důležitý, tak poslouchám.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345096"
+    },
+    {
+      "english": "I keep it simple, when I’m overwhelmed.",
+      "czech": "Když jsem zahlcený, držím to jednoduché.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345099"
+    },
+    {
+      "english": "I’m proud of progress, not outcomes.",
+      "czech": "Jsem hrdý na pokrok, ne na výsledek.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345102"
+    },
+    {
+      "english": "I admit my fear, then I breathe.",
+      "czech": "Přiznám svůj strach, pak se nadechnu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345106"
+    },
+    {
+      "english": "I change one thing, and it helps.",
+      "czech": "Změním jednu věc, a pomůže to.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345109"
+    },
+    {
+      "english": "Honesty with kindness, that’s my rule.",
+      "czech": "Upřímnost s laskavostí, to je moje pravidlo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345112"
+    },
+    {
+      "english": "I let go, when holding hurts too much.",
+      "czech": "Pustím to, když to bolí.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345115"
+    },
+    {
+      "english": "I notice patterns, before they repeat again.",
+      "czech": "Všímám si vzorců, než se znovu zopakují.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345117"
+    },
+    {
+      "english": "I don’t need answers right now, just calm.",
+      "czech": "Teď nepotřebuju odpovědi, jen klid.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345120"
+    },
+    {
+      "english": "I choose respect, even when I disagree.",
+      "czech": "Volím respekt, i když nesouhlasím.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345123"
+    },
+    {
+      "english": "I can be serious, without being harsh.",
+      "czech": "Můžu být vážný, bez krutosti.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345127"
+    },
+    {
+      "english": "I don’t ignore signs, I observe them.",
+      "czech": "Neignorují signály, všímám si jich.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345130"
+    },
+    {
+      "english": "My truth is mine, but I stay open.",
+      "czech": "Moje pravda je moje, ale zůstávám otevřený.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345132"
+    },
+    {
+      "english": "I slow my reaction, and I feel safer.",
+      "czech": "Zpomaluju reakci, a cítím se bezpečněji.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345135"
+    },
+    {
+      "english": "I ask myself, what do I really need?",
+      "czech": "Zeptám se sám sebe, co opravdu potřebuji.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345138"
+    },
+    {
+      "english": "I learn, I adjust, and I don’t quit.",
+      "czech": "Učím se, přizpůsobím se, a nevzdávám to.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345141"
+    },
+    {
+      "english": "Sometimes wisdom is simply letting it be.",
+      "czech": "Někdy je moudrost jen nechat to být.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-04T07:21:53.345143"
     }
   ],
-  "last_updated": "2026-11-03T07:43:24.584699"
+  "last_updated": "2026-11-04T07:21:53.345145"
 }
