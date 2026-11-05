@@ -13679,7 +13679,727 @@
       "czech": "Někdy je moudrost jen nechat to být.",
       "category": "Wisdom",
       "generated_at": "2026-11-04T07:21:53.345143"
+    },
+    {
+      "english": "Hi, I need a quick prescription refill, please.",
+      "czech": "Dobrý den, potřebuji rychle doplnit recept, prosím.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833320"
+    },
+    {
+      "english": "I have symptoms, what should I do next?",
+      "czech": "Mám příznaky, co mám dělat dál?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833334"
+    },
+    {
+      "english": "I’m feeling worse today, I’m kind of worried.",
+      "czech": "Dneska mi je hůř, docela se bojím.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833339"
+    },
+    {
+      "english": "My throat hurts, could you check it?",
+      "czech": "Bolí mě v krku, můžete se podívat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833343"
+    },
+    {
+      "english": "Just tell me the dosage, okay?",
+      "czech": "Jen mi řekněte dávkování, jasně?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833345"
+    },
+    {
+      "english": "Is this medicine safe for everyday use?",
+      "czech": "Je tohle lék bezpečný pro běžné užívání?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833348"
+    },
+    {
+      "english": "How much does it cost, and when’s it available?",
+      "czech": "Kolik to stojí, a kdy to bude k dostání?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833352"
+    },
+    {
+      "english": "I forgot, can I take it later today?",
+      "czech": "Zapomněl jsem, můžu to vzít později dnes?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833357"
+    },
+    {
+      "english": "Do I need a doctor’s note, or not?",
+      "czech": "Potřebuju potvrzení od doktora, nebo ne?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833362"
+    },
+    {
+      "english": "I’m allergic, so I can’t take that, sorry.",
+      "czech": "Jsem alergik, tohle nemůžu, promiňte.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833366"
+    },
+    {
+      "english": "Can I have something milder, please?",
+      "czech": "Můžu něco jemnějšího, prosím?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833369"
+    },
+    {
+      "english": "Does it work fast, or takes time?",
+      "czech": "Zabírá to hned, nebo to trvá?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833372"
+    },
+    {
+      "english": "I’m dizzy, should I stop and wait?",
+      "czech": "Je mi na omdlení, mám přestat a čekat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833375"
+    },
+    {
+      "english": "My fever keeps coming back, what now?",
+      "czech": "Teplota se vrací, co mám dělat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833378"
+    },
+    {
+      "english": "I’ll take it, but tell me the side effects.",
+      "czech": "Vezmu to, ale řekněte mi vedlejší účinky.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833381"
+    },
+    {
+      "english": "Do you have a cheaper alternative?",
+      "czech": "Máte to levnější, nějakou alternativu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833384"
+    },
+    {
+      "english": "Where do I pick it up, at the pharmacy?",
+      "czech": "Kde si to vyzvednu, v lékárně?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833387"
+    },
+    {
+      "english": "I need it today, I can’t wait.",
+      "czech": "Potřebuju to dnes, nemůžu čekat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833392"
+    },
+    {
+      "english": "Is it okay to combine with vitamins?",
+      "czech": "Můžu to brát spolu s vitamíny?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833395"
+    },
+    {
+      "english": "I’m not sure, can you explain simply?",
+      "czech": "Nejsem si jistý, můžete to vysvětlit jednoduše?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833398"
+    },
+    {
+      "english": "Okay, that makes sense, thanks a lot.",
+      "czech": "Dobře, to dává smysl, moc děkuju.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833401"
+    },
+    {
+      "english": "Oh no, I took two by mistake.",
+      "czech": "Jéžiš, vzal jsem dvě omylem.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833404"
+    },
+    {
+      "english": "Can you check my prescription, please?",
+      "czech": "Můžete zkontrolovat můj recept, prosím?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833406"
+    },
+    {
+      "english": "What’s the soonest appointment you have?",
+      "czech": "Jaký máte nejbližší termín?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833410"
+    },
+    {
+      "english": "I’ll go home now, but I’ll monitor it.",
+      "czech": "Teď jdu domů, ale budu to sledovat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833413"
+    },
+    {
+      "english": "Wait, do I take this after food?",
+      "czech": "Počkejte, beru to po jídle, že?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833416"
+    },
+    {
+      "english": "My symptoms are mild, but annoying.",
+      "czech": "Příznaky jsou mírné, ale otravné.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833418"
+    },
+    {
+      "english": "If it gets worse, I’ll call you, okay?",
+      "czech": "Když se to zhorší, zavolám vám, jasně?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833422"
+    },
+    {
+      "english": "Excuse me, what do you recommend for me?",
+      "czech": "Promiňte, co mi doporučíte?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833425"
+    },
+    {
+      "english": "Is this better for morning or evening?",
+      "czech": "Je to lepší ráno, nebo večer?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833427"
+    },
+    {
+      "english": "Do I need to fast before taking it?",
+      "czech": "Mám předtím nejíst, prosím?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833430"
+    },
+    {
+      "english": "What should I watch out for, exactly?",
+      "czech": "Na co si mám dát pozor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833433"
+    },
+    {
+      "english": "Can you tell me how long it lasts?",
+      "czech": "Za jak dlouho zabere, prosím?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833435"
+    },
+    {
+      "english": "Should I come back if it doesn’t help?",
+      "czech": "Mám přijít zpátky, když to nezabere?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833439"
+    },
+    {
+      "english": "Do you have any tips for easing it?",
+      "czech": "Můžete mi poradit, jak to ulevit?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833443"
+    },
+    {
+      "english": "Is there anything I shouldn’t mix it with?",
+      "czech": "S čím se to nesmí kombinovat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833447"
+    },
+    {
+      "english": "Can I ask what the medicine is for?",
+      "czech": "Můžu se zeptat, na co to je?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833449"
+    },
+    {
+      "english": "How do I store it at home?",
+      "czech": "Jak to mám doma skladovat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833452"
+    },
+    {
+      "english": "What if I miss a dose, what then?",
+      "czech": "Když vynechám dávku, co mám dělat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833455"
+    },
+    {
+      "english": "Can I take it with coffee or tea?",
+      "czech": "Můžu k tomu kafe, nebo čaj?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833457"
+    },
+    {
+      "english": "Do you think it’s urgent, or not?",
+      "czech": "Myslíte, že je to naléhavé?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833463"
+    },
+    {
+      "english": "Which tests might you suggest for me?",
+      "czech": "Jaká vyšetření byste doporučil?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833465"
+    },
+    {
+      "english": "Can we talk about my allergies first?",
+      "czech": "Nejdřív si probereme alergie, ano?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833467"
+    },
+    {
+      "english": "Should I avoid alcohol while taking this?",
+      "czech": "Mám se vyhnout alkoholu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833470"
+    },
+    {
+      "english": "Is it okay to use this long-term?",
+      "czech": "Můžu to brát dlouhodobě?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833473"
+    },
+    {
+      "english": "What time do you take it daily?",
+      "czech": "V kolik hodin se to bere?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833476"
+    },
+    {
+      "english": "If symptoms change, should I call you?",
+      "czech": "Když se to zhorší, mám vám volat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833478"
+    },
+    {
+      "english": "Do you have a gentler option?",
+      "czech": "Máte něco šetrnějšího?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833481"
+    },
+    {
+      "english": "How do I know I’m taking enough?",
+      "czech": "Jak poznám, že je to dost?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833484"
+    },
+    {
+      "english": "Can you explain the plan in simple steps?",
+      "czech": "Můžete mi to vysvětlit krok za krokem?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833490"
+    },
+    {
+      "english": "Should I wear gloves or avoid contact?",
+      "czech": "Mám se něčemu vyhnout, třeba kontaktu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833493"
+    },
+    {
+      "english": "Is it normal to feel a bit tired?",
+      "czech": "Je normální být po tom unavený?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833495"
+    },
+    {
+      "english": "What’s the next step if it keeps returning?",
+      "czech": "Co bude dál, když se to vrací?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833499"
+    },
+    {
+      "english": "Can I get this without a prescription?",
+      "czech": "Dá se to koupit bez receptu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833502"
+    },
+    {
+      "english": "Which pharmacy brand is the same substance?",
+      "czech": "Máte tam stejnou účinnou látku?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833504"
+    },
+    {
+      "english": "Could this interact with my current meds?",
+      "czech": "Nemůže to působit s mými léky?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833506"
+    },
+    {
+      "english": "Do I need to bring my medical records?",
+      "czech": "Musím vzít s sebou lékařské zprávy?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833509"
+    },
+    {
+      "english": "Thanks, what’s the safest way to start?",
+      "czech": "Díky, jak to mám začít co nejbezpečněji?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833512"
+    },
+    {
+      "english": "Breathe, you’ve got this, step by step.",
+      "czech": "Dýchej, zvládneš to, krok za krokem.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833516"
+    },
+    {
+      "english": "You’re doing the right thing, keep going.",
+      "czech": "Děláš správnou věc, pokračuj dál.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833519"
+    },
+    {
+      "english": "Today’s small win counts, even if it’s tiny.",
+      "czech": "Dnešní malá výhra se počítá, i když je malá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833523"
+    },
+    {
+      "english": "Stay calm, your body knows what to do.",
+      "czech": "Zůstaň v klidu, tvé tělo ví, co dělat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833526"
+    },
+    {
+      "english": "Ask questions, it’s brave and it helps.",
+      "czech": "Ptej se, je to odvážné a pomáhá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833530"
+    },
+    {
+      "english": "Consistency beats quick fixes, every time.",
+      "czech": "Konzistence vyhrává, rychlé opravy ne.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833533"
+    },
+    {
+      "english": "Give yourself credit, you’re taking care of you.",
+      "czech": "Udělej si zásluhu, staráš se o sebe.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833536"
+    },
+    {
+      "english": "It’ll get better, just don’t quit.",
+      "czech": "Bude líp, jen to nevzdávej.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833540"
+    },
+    {
+      "english": "One choice now, better health later.",
+      "czech": "Jedno rozhodnutí teď, lepší zdraví později.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833543"
+    },
+    {
+      "english": "You’re not alone, we’ll handle this together.",
+      "czech": "Nejsi na tom sám, zvládneme to spolu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833547"
+    },
+    {
+      "english": "Small reminders help, set your routine.",
+      "czech": "Malé připomínky pomůžou, nastav si rutinu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833549"
+    },
+    {
+      "english": "Be gentle with yourself, recovery takes time.",
+      "czech": "Buď k sobě laskavý, uzdravování chvíli trvá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833552"
+    },
+    {
+      "english": "Celebrate every dose you take, truly.",
+      "czech": "Oceň každou dávku, opravdu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833555"
+    },
+    {
+      "english": "If you worry, write it down, then ask.",
+      "czech": "Když se bojíš, napiš to, pak se zeptej.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833558"
+    },
+    {
+      "english": "Keep your mindset positive, that matters a lot.",
+      "czech": "Udržuj pozitivní myšlení, hodně to pomáhá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833561"
+    },
+    {
+      "english": "Your questions are welcome, no pressure here.",
+      "czech": "Vaše otázky jsou vítané, bez tlaku.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833563"
+    },
+    {
+      "english": "Today, you choose health, that’s powerful.",
+      "czech": "Dnes si vybíráš zdraví, to je síla.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833567"
+    },
+    {
+      "english": "You’re learning fast, that’s a big win.",
+      "czech": "Rychle se učíš, to je velký úspěch.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833570"
+    },
+    {
+      "english": "Don’t overthink, follow the plan confidently.",
+      "czech": "Nepřemýšlej moc, drž se plánu sebevědomě.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833574"
+    },
+    {
+      "english": "Say it out loud, I’m taking care.",
+      "czech": "Řekni to nahlas, starám se o sebe.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833579"
+    },
+    {
+      "english": "Progress feels slow, but it’s still progress.",
+      "czech": "Pokrok se zdá pomalý, ale pořád je to pokrok.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833582"
+    },
+    {
+      "english": "Stay hydrated, small habits support treatment.",
+      "czech": "Pij dost vody, malé návyky pomáhají léčbě.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833585"
+    },
+    {
+      "english": "It’s okay to ask, that’s what we’re here for.",
+      "czech": "Je v pořádku se zeptat, na to tu jsme.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833591"
+    },
+    {
+      "english": "You’re stronger than the symptoms today.",
+      "czech": "Dnes jsi silnější než tvoje příznaky.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833595"
+    },
+    {
+      "english": "Keep going, your routine will work.",
+      "czech": "Pokračuj, tvoje rutina zabere.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833597"
+    },
+    {
+      "english": "Start with trust, then confirm details calmly.",
+      "czech": "Začni důvěrou, pak si klidně potvrď detaily.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833600"
+    },
+    {
+      "english": "If it stings a bit, don’t panic, breathe.",
+      "czech": "Když to trochu pálí, nepanikař, nadechni se.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833603"
+    },
+    {
+      "english": "You’re building a healthier you, one day.",
+      "czech": "Buduješ zdravější sebe, každý den.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833606"
+    },
+    {
+      "english": "I’m scared, but I’ll stay patient.",
+      "czech": "Je mi strach, ale budu trpělivý.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833610"
+    },
+    {
+      "english": "I want to understand, not just follow blindly.",
+      "czech": "Chci tomu rozumět, ne jen slepě poslouchat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833612"
+    },
+    {
+      "english": "It’s okay to feel overwhelmed, then pause.",
+      "czech": "Je v pořádku cítit se zahlceně, pak se zastavit.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833616"
+    },
+    {
+      "english": "I’m trying, even when my mood drops.",
+      "czech": "Snažím se, i když mi spadne nálada.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833619"
+    },
+    {
+      "english": "Please speak slowly, I’m processing everything.",
+      "czech": "Prosím, mluvte pomalu, všechno si zpracovávám.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833622"
+    },
+    {
+      "english": "Some days hurt more, I’m not pretending.",
+      "czech": "Někdy bolí víc, a já to nehraju.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833625"
+    },
+    {
+      "english": "I need reassurance, my brain keeps spiraling.",
+      "czech": "Potřebuju ujištění, mozek mi jede v kruhu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833628"
+    },
+    {
+      "english": "I’ll take notes, so I don’t forget.",
+      "czech": "Budu si dělat poznámky, ať na nic nezapomenu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833632"
+    },
+    {
+      "english": "I’m grateful, but I still feel nervous.",
+      "czech": "Jsem vděčný, ale pořád mám obavy.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833635"
+    },
+    {
+      "english": "Give me a moment, I’ll answer honestly.",
+      "czech": "Dejte mi chvíli, odpovím upřímně.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833638"
+    },
+    {
+      "english": "I’m not sure, so I’ll ask for clarity.",
+      "czech": "Nejsem si jistý, tak si řeknu o vysvětlení.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833642"
+    },
+    {
+      "english": "I can handle it, but it takes time.",
+      "czech": "Zvládnu to, ale potřebuju čas.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833646"
+    },
+    {
+      "english": "When I’m anxious, I slow down first.",
+      "czech": "Když se bojím, nejdřív zpomalím.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833649"
+    },
+    {
+      "english": "I feel better today, and I’ll notice changes.",
+      "czech": "Dnes se cítím líp, a budu si všímat změn.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833653"
+    },
+    {
+      "english": "I don’t want shortcuts, I want steady progress.",
+      "czech": "Nechci zkratky, chci vytrvalý pokrok.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833657"
+    },
+    {
+      "english": "I’m trying to stay calm, even inside.",
+      "czech": "Snažím se být klidný, i když uvnitř hučí.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833660"
+    },
+    {
+      "english": "I’m worried, but I trust your guidance.",
+      "czech": "Mám obavy, ale věřím vašemu vedení.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833668"
+    },
+    {
+      "english": "Please check in, my energy is unstable.",
+      "czech": "Prosím, zkontrolujte mě, moje energie kolísá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833671"
+    },
+    {
+      "english": "I’m learning my body, day by day.",
+      "czech": "Učím se číst své tělo, den po dni.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833674"
+    },
+    {
+      "english": "If I’m unsure, I’ll be honest.",
+      "czech": "Když si nebudu jistý, budu upřímný.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833678"
+    },
+    {
+      "english": "I need patience, healing isn’t instant.",
+      "czech": "Potřebuju trpělivost, uzdravení není hned.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833681"
+    },
+    {
+      "english": "I’m doing my best, please don’t judge.",
+      "czech": "Dělám, co můžu, prosím, nesuďte mě.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833684"
+    },
+    {
+      "english": "I keep thinking about the worst case.",
+      "czech": "Pořád myslím na nejhorší variantu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833687"
+    },
+    {
+      "english": "Help me focus, I get overwhelmed easily.",
+      "czech": "Pomozte mi soustředit se, snadno se zavalím.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833690"
+    },
+    {
+      "english": "I want simple answers, but true ones.",
+      "czech": "Chci jednoduché odpovědi, ale pravdivé.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833693"
+    },
+    {
+      "english": "I’m proud I showed up, that counts.",
+      "czech": "Jsem na sebe hrdý, že jsem přišel.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833696"
+    },
+    {
+      "english": "I’m listening, and I’ll follow carefully.",
+      "czech": "Poslouchám, a budu se držet opatrně.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833701"
+    },
+    {
+      "english": "I don’t like needles, but I’ll do it.",
+      "czech": "Nemám rád injekce, ale zvládnu to.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833704"
+    },
+    {
+      "english": "Let’s be honest, my symptoms fluctuate.",
+      "czech": "Buďme upřímní, moje příznaky kolísají.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833707"
+    },
+    {
+      "english": "I’ll take it stepwise, slowly, and steadily.",
+      "czech": "Půjdu na to po krocích, pomalu a jistě.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833711"
+    },
+    {
+      "english": "Before the visit, write your questions down.",
+      "czech": "Před návštěvou si napiš své otázky.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833714"
+    },
+    {
+      "english": "At the pharmacy, ask about cheaper alternatives.",
+      "czech": "V lékárně se zeptej na levnější varianty.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833717"
+    },
+    {
+      "english": "Take the medicine with food, if advised.",
+      "czech": "Ber léky s jídlem, pokud doporučí.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833720"
+    },
+    {
+      "english": "If symptoms change, call the clinic quickly.",
+      "czech": "Když se to mění, zavolej do ordinace rychle.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-05T07:48:41.833723"
     }
   ],
-  "last_updated": "2026-11-04T07:21:53.345145"
+  "last_updated": "2026-11-05T07:48:41.833724"
 }
