@@ -14399,7 +14399,727 @@
       "czech": "Když se to mění, zavolej do ordinace rychle.",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-05T07:48:41.833723"
+    },
+    {
+      "english": "Keep going, it’s almost there, don’t quit now",
+      "czech": "Pokračuj, už to skoro je, neskonči teď",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426681"
+    },
+    {
+      "english": "One more try, then we’ll figure it out",
+      "czech": "Zkus to ještě jednou, pak to vyřešíme",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426698"
+    },
+    {
+      "english": "No panic, we’ll fix it, keep steady",
+      "czech": "Žádný stres, opravíme to, drž se",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426701"
+    },
+    {
+      "english": "Start small, build up, don’t stop",
+      "czech": "Začni z malička, naber sílu, nezastavuj",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426703"
+    },
+    {
+      "english": "Mess up, breathe, try again right away",
+      "czech": "Udělej chybu, nadechni se, zkus hned znovu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426707"
+    },
+    {
+      "english": "If it’s hard, good, keep learning",
+      "czech": "Když je to těžké, tak jo, uč se dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426710"
+    },
+    {
+      "english": "Slow down, focus, one step at a time",
+      "czech": "Zpomal, soustřeď se, krok po kroku",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426712"
+    },
+    {
+      "english": "Don’t overthink, just do it again",
+      "czech": "Nepřemýšlej moc, jen to zkus znovu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426716"
+    },
+    {
+      "english": "Keep showing up, even when it’s boring",
+      "czech": "Dávej o sobě vědět, i když je to nuda",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426719"
+    },
+    {
+      "english": "We’ll make it, step by step, trust me",
+      "czech": "Zvládneme to, krok za krokem, věř mi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426721"
+    },
+    {
+      "english": "Okay, fail, cool, learn, try again tomorrow",
+      "czech": "Dobře, spadneš, nevadí, uč se, zítra zkus",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426724"
+    },
+    {
+      "english": "Keep your chin up, we’re almost done",
+      "czech": "Drž se, už jsme skoro v cíli",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426726"
+    },
+    {
+      "english": "That didn’t work, no worries, switch plan",
+      "czech": "To nešlo, nevadí, změň plán",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426728"
+    },
+    {
+      "english": "Try, pause, adjust, and try again",
+      "czech": "Zkus, zastav se, uprav a zkus znovu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426731"
+    },
+    {
+      "english": "Just keep going, even in small progress",
+      "czech": "Jen pokračuj, i když je to maličkost",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426733"
+    },
+    {
+      "english": "Come on, one more minute, then continue",
+      "czech": "No tak, ještě jedna minutka, a jdeš dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426734"
+    },
+    {
+      "english": "Again and again, until it clicks",
+      "czech": "Znovu a znovu, až to cvakne",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426736"
+    },
+    {
+      "english": "Don’t quit on me, keep pushing",
+      "czech": "Nenech mě to vzdát, tlač dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426738"
+    },
+    {
+      "english": "Today feels messy, tomorrow will get better",
+      "czech": "Dnes je to chaotické, zítra bude líp",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426740"
+    },
+    {
+      "english": "It’s okay to restart, let’s do it now",
+      "czech": "Nevadí začít znovu, pojďme na to teď",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426742"
+    },
+    {
+      "english": "Keep your pace, don’t sprint, finish strong",
+      "czech": "Drž tempo, neběž naplno, dojeď to",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426744"
+    },
+    {
+      "english": "Nothing breaks you, you just adapt",
+      "czech": "Nic tě nezlomí, jen se přizpůsobíš",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426745"
+    },
+    {
+      "english": "I’ll wait, you try, we get it done",
+      "czech": "Počkám, ty zkus, a doděláme to",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426748"
+    },
+    {
+      "english": "No shortcuts, just practice, keep going",
+      "czech": "Žádné zkratky, jen trénink, pokračuj",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426749"
+    },
+    {
+      "english": "If you’re stuck, take a breath and restart",
+      "czech": "Když jsi zaseknutý, nadechni se a začni znovu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426751"
+    },
+    {
+      "english": "Small wins count, keep collecting them",
+      "czech": "Malé výhry se počítají, sbírej je dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426753"
+    },
+    {
+      "english": "Don’t give up now, you’ve got momentum",
+      "czech": "Teď to nevzdávej, máš rozjetý tempo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426755"
+    },
+    {
+      "english": "Try again, but this time smarter",
+      "czech": "Zkus to znovu, ale tentokrát chytřeji",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426756"
+    },
+    {
+      "english": "Weather it out, it’ll pass, stay calm",
+      "czech": "Přečkej to, ono to přejde, buď v klidu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426758"
+    },
+    {
+      "english": "Keep your goals, even when motivation drops",
+      "czech": "Drž si cíl, i když tě přestane bavit",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426760"
+    },
+    {
+      "english": "What’s the best way to keep practicing?",
+      "czech": "Jaký je nejlepší způsob, jak dál trénovat?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426762"
+    },
+    {
+      "english": "How do I ask for help politely?",
+      "czech": "Jak mám slušně požádat o pomoc?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426783"
+    },
+    {
+      "english": "When should I ask questions during study?",
+      "czech": "Kdy se mám ptát při učení?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426786"
+    },
+    {
+      "english": "Do you have a simple practice plan?",
+      "czech": "Máš nějaký jednoduchý plán tréninku?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426790"
+    },
+    {
+      "english": "Could you correct my sentences, please?",
+      "czech": "Můžete mi opravit věty, prosím?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426793"
+    },
+    {
+      "english": "What if I don’t understand, then what?",
+      "czech": "Co když tomu nebudu rozumět, co potom?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426795"
+    },
+    {
+      "english": "How long should I stick to one exercise?",
+      "czech": "Jak dlouho mám dělat jednu úlohu?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426796"
+    },
+    {
+      "english": "Is it okay to repeat the lesson today?",
+      "czech": "Je v pořádku si dnes lekci zopakovat?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426798"
+    },
+    {
+      "english": "Which question words are most useful?",
+      "czech": "Která tázací slova jsou nejčastější?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426799"
+    },
+    {
+      "english": "Can we check my homework together?",
+      "czech": "Můžeme spolu projít domácí úkol?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426801"
+    },
+    {
+      "english": "What should I say when I get stuck?",
+      "czech": "Co mám říct, když se zaseknu?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426802"
+    },
+    {
+      "english": "Do you think I need more examples?",
+      "czech": "Myslíte, že potřebuji víc příkladů?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426804"
+    },
+    {
+      "english": "Where can I ask, without feeling awkward?",
+      "czech": "Kde se můžu zeptat, aby to bylo v klidu?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426806"
+    },
+    {
+      "english": "Can I get feedback on my progress?",
+      "czech": "Můžu dostat zpětnou vazbu k pokroku?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426807"
+    },
+    {
+      "english": "What’s a good question to ask myself?",
+      "czech": "Jakou otázku si mám položit?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426809"
+    },
+    {
+      "english": "Should I ask now, or later?",
+      "czech": "Mám se zeptat teď, nebo později?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426812"
+    },
+    {
+      "english": "How do you stay motivated during boring days?",
+      "czech": "Jak si udržíš motivaci v nudných dnech?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426814"
+    },
+    {
+      "english": "Is it better to pause, then continue?",
+      "czech": "Je lepší udělat pauzu a pak pokračovat?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426816"
+    },
+    {
+      "english": "What helped you most when you struggled?",
+      "czech": "Co ti nejvíc pomohlo, když ses trápil?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426819"
+    },
+    {
+      "english": "Can you explain that part one more time?",
+      "czech": "Můžete to vysvětlit ještě jednou?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426821"
+    },
+    {
+      "english": "If I practice daily, what should I track?",
+      "czech": "Když budu trénovat denně, co mám sledovat?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426822"
+    },
+    {
+      "english": "How do I handle mistakes without quitting?",
+      "czech": "Jak se vyrovnat s chybami, a nevzdat to?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426824"
+    },
+    {
+      "english": "Do you think my pace is okay?",
+      "czech": "Myslíte, že je můj tempo v pohodě?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426825"
+    },
+    {
+      "english": "What should I do after a tough day?",
+      "czech": "Co mám dělat po těžkém dni?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426827"
+    },
+    {
+      "english": "Can we role-play a polite question?",
+      "czech": "Zahrajeme si, jak se slušně zeptat?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426828"
+    },
+    {
+      "english": "Which phrases sound natural in conversation?",
+      "czech": "Které věty zní přirozeně při hovoru?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426830"
+    },
+    {
+      "english": "How can I ask for advice, calmly?",
+      "czech": "Jak požádat o radu, klidně?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426832"
+    },
+    {
+      "english": "Can you suggest a smaller daily goal?",
+      "czech": "Můžete mi doporučit menší denní cíl?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426834"
+    },
+    {
+      "english": "What do I do if progress feels slow?",
+      "czech": "Co mám dělat, když je pokrok pomalý?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426836"
+    },
+    {
+      "english": "You’ve got this, one step at a time",
+      "czech": "Zvládneš to, krok po kroku",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426838"
+    },
+    {
+      "english": "Show up, even when it’s messy",
+      "czech": "Přijď, i když je to chaotické",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426841"
+    },
+    {
+      "english": "Small effort today, bigger results tomorrow",
+      "czech": "Malá snaha dnes, větší výsledky zítra",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426842"
+    },
+    {
+      "english": "Mistakes are proof you’re learning",
+      "czech": "Chyby jsou důkaz, že se učíš",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426844"
+    },
+    {
+      "english": "Keep going, your effort builds skills",
+      "czech": "Pokračuj, tvoje úsilí staví dovednosti",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426846"
+    },
+    {
+      "english": "Celebrate effort, even on bad days",
+      "czech": "Oceň snahu, i když je to těžké",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426847"
+    },
+    {
+      "english": "Your brain needs time to adjust",
+      "czech": "Tvoje hlava potřebuje čas, aby si zvykla",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426849"
+    },
+    {
+      "english": "Stay kind to yourself, keep practicing",
+      "czech": "Buď k sobě laskavý, cvič dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426850"
+    },
+    {
+      "english": "Don’t wait for motivation, move first",
+      "czech": "Nečekej na motivaci, pohněte se první",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426852"
+    },
+    {
+      "english": "Every review counts, don’t underestimate it",
+      "czech": "Každé opakování má smysl, nepodceň ho",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426854"
+    },
+    {
+      "english": "You’re training consistency, not speed",
+      "czech": "Trénuješ pravidelnost, ne rychlost",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426856"
+    },
+    {
+      "english": "Reset your mood, then choose one task",
+      "czech": "Resetni si náladu, pak vyber jednu věc",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426857"
+    },
+    {
+      "english": "Progress feels slow, that’s normal",
+      "czech": "Pokrok je pomalý, to je normální",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426861"
+    },
+    {
+      "english": "Keep your routine simple, let it run",
+      "czech": "Měj rutinu jednoduchou, nech ji jet",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426863"
+    },
+    {
+      "english": "Talk to yourself like a teammate",
+      "czech": "Mluv k sobě jako k parťákovi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426864"
+    },
+    {
+      "english": "If today is tough, learn anyway",
+      "czech": "Když je to dnes těžké, uč se i tak",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426866"
+    },
+    {
+      "english": "You don’t need perfect, just steady",
+      "czech": "Nepotřebuješ dokonalost, jen vytrvalost",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426868"
+    },
+    {
+      "english": "Trust the process, it pays off",
+      "czech": "Věř procesu, vyplatí se to",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426869"
+    },
+    {
+      "english": "Give your future self a win",
+      "czech": "Dopřej svému budoucímu já výhru",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426874"
+    },
+    {
+      "english": "Keep your focus, distractions lose power",
+      "czech": "Drž si fokus, rozptýlení slábne",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426876"
+    },
+    {
+      "english": "One sentence today keeps momentum alive",
+      "czech": "Jedna věta dnes drží tempo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426878"
+    },
+    {
+      "english": "Stay curious, that’s your fuel",
+      "czech": "Zůstaň zvědavý, to je tvoje palivo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426879"
+    },
+    {
+      "english": "Your effort is already working",
+      "czech": "Tvoje snaha už funguje",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426881"
+    },
+    {
+      "english": "Learn, adjust, and move forward again",
+      "czech": "Uč se, přizpůsob se, a jdi dál",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426883"
+    },
+    {
+      "english": "Make today count, even briefly",
+      "czech": "Uděl dneska rozdíl, i když krátce",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426885"
+    },
+    {
+      "english": "Praise yourself, you’re doing real work",
+      "czech": "Chval se, děláš opravdovou práci",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426887"
+    },
+    {
+      "english": "When in doubt, practice one more time",
+      "czech": "Když si nejsi jistý, zkus to ještě jednou",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426888"
+    },
+    {
+      "english": "You’re building a new habit, keep it",
+      "czech": "Stavíš novou rutinu, drž ji",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426890"
+    },
+    {
+      "english": "Stay positive, your progress will show",
+      "czech": "Zůstaň pozitivní, pokrok se projeví",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426892"
+    },
+    {
+      "english": "I’m scared, but I’m not stopping.",
+      "czech": "Mám strach, ale neskončím.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426895"
+    },
+    {
+      "english": "I can’t force it, I can persist.",
+      "czech": "Nemůžu to urychlit, ale vydržím.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426898"
+    },
+    {
+      "english": "Some days, I just need patience.",
+      "czech": "Některé dny potřebuji jen trpělivost.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426899"
+    },
+    {
+      "english": "I feel messy, yet I continue.",
+      "czech": "Je to chaotické, ale pokračuju.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426901"
+    },
+    {
+      "english": "I’m listening to my body, then trying again.",
+      "czech": "Poslouchám svoje tělo, pak zkusím znovu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426903"
+    },
+    {
+      "english": "I’m proud I showed up anyway.",
+      "czech": "Jsem na sebe pyšný, že jsem přišel.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426905"
+    },
+    {
+      "english": "I keep going, even when I doubt.",
+      "czech": "Pokračuju, i když pochybuju.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426907"
+    },
+    {
+      "english": "Honestly, I’m still learning to handle pressure.",
+      "czech": "Upřímně, pořád se učím zvládat tlak.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426909"
+    },
+    {
+      "english": "My motivation is low, my effort won’t be.",
+      "czech": "Motivace je nízko, úsilí nepovolí.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426912"
+    },
+    {
+      "english": "I’m not winning today, but I’m improving.",
+      "czech": "Dneska nevyhrávám, ale zlepšuju se.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426914"
+    },
+    {
+      "english": "I’m tired, so I do the next small step.",
+      "czech": "Jsem unavený, tak udělám další malý krok.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426916"
+    },
+    {
+      "english": "I vent for a minute, then I work.",
+      "czech": "Vypustím to na chvíli, pak pracuju.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426918"
+    },
+    {
+      "english": "I don’t feel ready, so I move slowly.",
+      "czech": "Necítím se připravený, tak jedu pomalu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426920"
+    },
+    {
+      "english": "I’ve been disappointed, still I show up.",
+      "czech": "Byl jsem zklamaný, ale stejně přijdu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426930"
+    },
+    {
+      "english": "If I’m stuck, I switch to the basics.",
+      "czech": "Když jsem zaseknutý, vrátím se k základům.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426933"
+    },
+    {
+      "english": "I’m giving myself credit, even for tiny wins.",
+      "czech": "Uznávám se i za malé výhry.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426935"
+    },
+    {
+      "english": "I’m calmer now, but I still persist.",
+      "czech": "Teď je mi klidněji, ale pokračuju.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426937"
+    },
+    {
+      "english": "My brain argues, I still do one task.",
+      "czech": "Moje hlava protestuje, já udělám jednu věc.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426939"
+    },
+    {
+      "english": "I’ll take the long route, not the quit route.",
+      "czech": "Půjdu dlouhou cestou, ne cestou vzdání.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426941"
+    },
+    {
+      "english": "I’m learning to tolerate the awkward stage.",
+      "czech": "Učím se snášet trapnou fázi.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426943"
+    },
+    {
+      "english": "I can’t control feelings, I control actions.",
+      "czech": "Pocity neovládám, ale svoje kroky ano.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426946"
+    },
+    {
+      "english": "I forgive myself, then I restart.",
+      "czech": "Odpustím si, pak začnu znovu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426948"
+    },
+    {
+      "english": "I’m not here to rush, I’m here to grow.",
+      "czech": "Nechci to honit, chci růst.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426950"
+    },
+    {
+      "english": "When it hurts, I slow down and continue.",
+      "czech": "Když to bolí, zpomalím, ale pokračuju.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426952"
+    },
+    {
+      "english": "I’m honestly proud of my effort.",
+      "czech": "Upřímně, jsem hrdý na svoje úsilí.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426954"
+    },
+    {
+      "english": "I keep my promises, even small ones.",
+      "czech": "Dodržuju sliby, i ty malé.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426956"
+    },
+    {
+      "english": "I’m allowed to be human, not perfect.",
+      "czech": "Můžu být člověk, ne dokonalý stroj.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426957"
+    },
+    {
+      "english": "I don’t need instant results, just direction.",
+      "czech": "Nepotřebuju hned výsledky, potřebuju směr.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426959"
+    },
+    {
+      "english": "I feel doubt, but I choose consistency.",
+      "czech": "Cítím pochybnosti, ale volím konzistenci.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426961"
+    },
+    {
+      "english": "Right now, I’ll do it imperfectly, on purpose.",
+      "czech": "Teď to udělám nedokonale, schválně.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426963"
+    },
+    {
+      "english": "Plan the day, start with the easiest task.",
+      "czech": "Naplánuj den, začni nejjednodušším úkolem.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426966"
+    },
+    {
+      "english": "If you slip, reset fast, no drama.",
+      "czech": "Když uklouzneš, rychle se resetuj, bez dramatu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-06T07:47:36.426968"
     }
   ],
-  "last_updated": "2026-11-05T07:48:41.833724"
+  "last_updated": "2026-11-06T07:47:36.426969"
 }
