@@ -15119,7 +15119,727 @@
       "czech": "Když uklouzneš, rychle se resetuj, bez dramatu.",
       "category": "Perseverance",
       "generated_at": "2026-11-06T07:47:36.426968"
+    },
+    {
+      "english": "Sure, give me a second, please.",
+      "czech": "Jasně, dej mi chvilku, prosím.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385242"
+    },
+    {
+      "english": "Okay then, let’s figure it out together.",
+      "czech": "Dobře, tak to spolu nějak vymyslíme.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385259"
+    },
+    {
+      "english": "Wait a moment, I’m almost ready.",
+      "czech": "Počkej chvilku, už jsem skoro hotový.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385264"
+    },
+    {
+      "english": "No worries, it happens, really.",
+      "czech": "Neřeš to, stává se to, fakt.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385266"
+    },
+    {
+      "english": "I’m listening, go ahead, say it.",
+      "czech": "Poslouchám, tak řekni to.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385270"
+    },
+    {
+      "english": "Right now, I can’t, sorry.",
+      "czech": "Teď to nejde, promiň.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385273"
+    },
+    {
+      "english": "Seriously, that’s surprising, wow.",
+      "czech": "Vážně? To je překvapení, wáu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385277"
+    },
+    {
+      "english": "I get it, but let me think.",
+      "czech": "Chápu to, ale nech mě chvíli přemýšlet.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385283"
+    },
+    {
+      "english": "Hold on, tell me the details.",
+      "czech": "Počkej, pověz mi podrobnosti.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385286"
+    },
+    {
+      "english": "That makes sense, thanks for saying.",
+      "czech": "To dává smysl, díky, že jsi to řekl.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385289"
+    },
+    {
+      "english": "I’ll call you back, just wait.",
+      "czech": "Zavolám ti zpátky, jen chvíli.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385292"
+    },
+    {
+      "english": "Come on, don’t stress, we’re fine.",
+      "czech": "No tak, nestresuj, máme to v pohodě.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385296"
+    },
+    {
+      "english": "Oops, my bad, I didn’t mean it.",
+      "czech": "Pardon, moje chyba, nemyslel jsem to.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385299"
+    },
+    {
+      "english": "Cool, that works, let’s go.",
+      "czech": "Super, to sedí, jdeme na to.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385303"
+    },
+    {
+      "english": "Wait, are you sure about that?",
+      "czech": "Počkej, jsi si jistý/á, že to platí?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385305"
+    },
+    {
+      "english": "I’m in, when are we meeting?",
+      "czech": "Jasně, kdy se potkáme?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385308"
+    },
+    {
+      "english": "Let me check first, then I’ll answer.",
+      "czech": "Nejdřív to zkontroluju, pak ti odpovím.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385311"
+    },
+    {
+      "english": "That’s not right, try again.",
+      "czech": "To není správně, zkus to znovu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385315"
+    },
+    {
+      "english": "I’ll handle it, don’t worry about it.",
+      "czech": "Postarám se, neřeš to.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385318"
+    },
+    {
+      "english": "Let’s meet later, after work.",
+      "czech": "Dáme si to později, až po práci.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385322"
+    },
+    {
+      "english": "I’m tired, I need a break now.",
+      "czech": "Jsem unavený/á, teď potřebuju pauzu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385324"
+    },
+    {
+      "english": "Great idea, I’m totally on board.",
+      "czech": "Skvělý nápad, úplně souhlasím.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385327"
+    },
+    {
+      "english": "No, thanks, I’ll take care of it.",
+      "czech": "Ne, díky, zvládnu to sám/sama.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385330"
+    },
+    {
+      "english": "Who’s next, please?",
+      "czech": "Kdo je na řadě, prosím?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385333"
+    },
+    {
+      "english": "Wait, that’s too much for me.",
+      "czech": "Počkej, to je na mě moc.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385336"
+    },
+    {
+      "english": "Can you tell me, what’s the plan today?",
+      "czech": "Můžeš mi říct, jaký je dnes plán?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385340"
+    },
+    {
+      "english": "Quick question, where do we balance things?",
+      "czech": "Jen rychle, kde vyrovnáváme ty věci?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385342"
+    },
+    {
+      "english": "Do you have a minute, please?",
+      "czech": "Máš na chvíli, prosím?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385345"
+    },
+    {
+      "english": "What do you recommend, for calm balance?",
+      "czech": "Co doporučuješ, pro klidnou rovnováhu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385347"
+    },
+    {
+      "english": "How do you usually handle stress, evenly?",
+      "czech": "Jak to obvykle zvládáš, aby bylo vyrovnané?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385350"
+    },
+    {
+      "english": "Can I ask, how much time you need?",
+      "czech": "Můžu se zeptat, kolik času potřebuješ?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385352"
+    },
+    {
+      "english": "What’s the easiest way to stay balanced?",
+      "czech": "Jaký je nejjednodušší způsob, jak zůstat v rovnováze?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385355"
+    },
+    {
+      "english": "Do we split tasks, or do it together?",
+      "czech": "Rozdělíme si úkoly, nebo to uděláme spolu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385357"
+    },
+    {
+      "english": "Which option feels more balanced to you?",
+      "czech": "Která možnost ti připadá vyrovnanější?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385360"
+    },
+    {
+      "english": "What should I focus on first, then?",
+      "czech": "Na co se mám soustředit jako první?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385362"
+    },
+    {
+      "english": "Tell me honestly, does this work for you?",
+      "czech": "Řekni mi na rovinu, funguje ti to?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385364"
+    },
+    {
+      "english": "How do you keep things fair, daily?",
+      "czech": "Jak udržuješ věci férové každý den?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385366"
+    },
+    {
+      "english": "Should we slow down, or speed up?",
+      "czech": "Zpomalíme, nebo zrychlíme?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385368"
+    },
+    {
+      "english": "Can you suggest a simple routine?",
+      "czech": "Dáš mi tip na jednoduchou rutinu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385370"
+    },
+    {
+      "english": "How’s your week going, any balance issues?",
+      "czech": "Jak jde tenhle týden, máš nějakou nerovnováhu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385374"
+    },
+    {
+      "english": "I’m trying to balance, what should I do?",
+      "czech": "Snažím se vyrovnat, co mám dělat?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385376"
+    },
+    {
+      "english": "Do you prefer planning, or improvising?",
+      "czech": "Radši plánuješ, nebo improvizuješ?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385379"
+    },
+    {
+      "english": "Where should we draw the line here?",
+      "czech": "Kde tady máme udělat hranici?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385381"
+    },
+    {
+      "english": "What’s one small step that helps?",
+      "czech": "Co je jeden malý krok, co pomáhá?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385384"
+    },
+    {
+      "english": "Are you okay to decide, right now?",
+      "czech": "Máš to teď v pohodě rozhodnout?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385386"
+    },
+    {
+      "english": "Can we talk options, calmly, together?",
+      "czech": "Můžeme si probrat možnosti, v klidu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385388"
+    },
+    {
+      "english": "What if we try a 10-minute reset?",
+      "czech": "Co kdybychom zkusili desetiminutový restart?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385392"
+    },
+    {
+      "english": "Do you want my honest advice, or no?",
+      "czech": "Chceš můj upřímný názor, nebo ne?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385394"
+    },
+    {
+      "english": "How can we keep it balanced, not stressful?",
+      "czech": "Jak to udržet vyrovnané, aby to nebylo stresující?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385397"
+    },
+    {
+      "english": "Who should we ask, to be sure?",
+      "czech": "Koho se máme zeptat, abychom si byli jistí?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385399"
+    },
+    {
+      "english": "When you say “balance”, what exactly?",
+      "czech": "Když říkáš „rovnováhu“, co tím myslíš?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385402"
+    },
+    {
+      "english": "Let’s check, what’s missing from the plan?",
+      "czech": "Podíváme se, co chybí v tom plánu?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385405"
+    },
+    {
+      "english": "Can I confirm, this is the fair route?",
+      "czech": "Můžu si ověřit, že tohle je férová cesta?",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385408"
+    },
+    {
+      "english": "Breathe first, you’ve got this, seriously.",
+      "czech": "Dýchej nejdřív, zvládneš to, vážně.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385411"
+    },
+    {
+      "english": "Small progress counts, don’t overthink it.",
+      "czech": "Malý pokrok se počítá, nepřemýšlej to.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385413"
+    },
+    {
+      "english": "You’re doing better than yesterday, keep going.",
+      "czech": "Máš to lepší než včera, pokračuj.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385417"
+    },
+    {
+      "english": "It’s okay to pause, balance needs space.",
+      "czech": "Neva, když se zastavíš, rovnováha potřebuje prostor.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385420"
+    },
+    {
+      "english": "Say it out loud, I’m on track.",
+      "czech": "Řekni to nahlas, jedu podle plánu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385424"
+    },
+    {
+      "english": "Reset your mind, choose calm over speed.",
+      "czech": "Vynuluj hlavu, zvol klid místo rychlosti.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385426"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning balance.",
+      "czech": "Buď na sebe hodný, učíš se rovnováhu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385429"
+    },
+    {
+      "english": "One task at a time, that’s balance.",
+      "czech": "Jedna věc najednou, to je rovnováha.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385432"
+    },
+    {
+      "english": "Don’t fight the moment, meet it gently.",
+      "czech": "Neposílej ten moment, setkej se s ním jemně.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385435"
+    },
+    {
+      "english": "Give yourself credit, you’re staying consistent.",
+      "czech": "Udělej si pochvalu, držíš konzistenci.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385438"
+    },
+    {
+      "english": "Trust your rhythm, slow is still progress.",
+      "czech": "Věř svému rytmu, pomalu je pořád pokrok.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385441"
+    },
+    {
+      "english": "If it’s messy, simplify, don’t quit.",
+      "czech": "Když je to zmatené, zjednoduš to, neodbíhej.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385444"
+    },
+    {
+      "english": "Your effort matters, even on rough days.",
+      "czech": "Tvá snaha má cenu, i když je to náročné.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385447"
+    },
+    {
+      "english": "Choose the next right step, not everything.",
+      "czech": "Vyber další správný krok, ne všechno.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385449"
+    },
+    {
+      "english": "You’re allowed to restart, no guilt.",
+      "czech": "Smíš začít znovu, bez viny.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385451"
+    },
+    {
+      "english": "Make peace with “not now”, it’s fine.",
+      "czech": "Udělej si mír s „teď ne“, je to v pohodě.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385455"
+    },
+    {
+      "english": "Say yes to rest, your body needs it.",
+      "czech": "Řekni ano odpočinku, tělo to potřebuje.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385457"
+    },
+    {
+      "english": "Balance is a habit, not a mood.",
+      "czech": "Rovnováha je zvyk, ne nálada.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385460"
+    },
+    {
+      "english": "When stress rises, relax your shoulders first.",
+      "czech": "Když roste stres, uvolni nejdřív ramena.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385462"
+    },
+    {
+      "english": "You’re not behind, you’re recalibrating.",
+      "czech": "Nejsi pozadu, jen se dolaďuješ.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385465"
+    },
+    {
+      "english": "Celebrate effort, the result will follow.",
+      "czech": "Oceň snahu, výsledek přijde.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385467"
+    },
+    {
+      "english": "Talk yourself kindly, that changes everything.",
+      "czech": "Mluv si laskavě, to změní všechno.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385471"
+    },
+    {
+      "english": "You can choose calm, one minute at a time.",
+      "czech": "Můžeš si vybrat klid, po jedné minutě.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385473"
+    },
+    {
+      "english": "Don’t chase perfection, aim for harmony.",
+      "czech": "Ne hon za dokonalostí, hledej harmonii.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385476"
+    },
+    {
+      "english": "If you slip, learn, then balance again.",
+      "czech": "Když uklouzneš, pouč se, a pak znovu vyrovnej.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385480"
+    },
+    {
+      "english": "Keep it simple, steady wins the long game.",
+      "czech": "Drž to jednoduché, vytrvalost vyhrává.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385482"
+    },
+    {
+      "english": "You’re building balance, one choice today.",
+      "czech": "Stavíš rovnováhu, jedním rozhodnutím dnes.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385485"
+    },
+    {
+      "english": "I feel torn, so I’ll slow down.",
+      "czech": "Cítím se rozpolceně, takže zpomalím.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385488"
+    },
+    {
+      "english": "Honestly, I need time to decide.",
+      "czech": "Upřímně, potřebuji čas, abych se rozhodl.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385490"
+    },
+    {
+      "english": "When I’m upset, I try to listen.",
+      "czech": "Když jsem rozrušený, snažím se poslouchat.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385493"
+    },
+    {
+      "english": "I’m not overthinking, I’m just reflecting.",
+      "czech": "Nepřeháním to, jen se zamýšlím.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385496"
+    },
+    {
+      "english": "I want the truth, even if it hurts.",
+      "czech": "Chci pravdu, i když trochu bolí.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385498"
+    },
+    {
+      "english": "Sometimes calm is the brave choice.",
+      "czech": "Někdy je klid odvážná volba.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385501"
+    },
+    {
+      "english": "I’d rather be honest than perfectly right.",
+      "czech": "Radši budu upřímný, než být dokonale správně.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385505"
+    },
+    {
+      "english": "I can feel both sides, that’s normal.",
+      "czech": "Můžu cítit obě strany, to je normální.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385508"
+    },
+    {
+      "english": "Let’s pause, I’m getting emotional.",
+      "czech": "Zastavme se, jsem víc citlivý.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385511"
+    },
+    {
+      "english": "I’m allowed to change my mind gently.",
+      "czech": "Můžu změnit názor, klidně a jemně.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385513"
+    },
+    {
+      "english": "I’m trying to be fair, not cold.",
+      "czech": "Snažím se být spravedlivý, ne chladný.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385516"
+    },
+    {
+      "english": "I’m proud I didn’t react too fast.",
+      "czech": "Jsem hrdý, že jsem nereagoval hned.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385518"
+    },
+    {
+      "english": "I’ll name my feelings, not blame anyone.",
+      "czech": "Pojmenuju své pocity, nebudu nikoho obviňovat.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385521"
+    },
+    {
+      "english": "I’m learning to wait, not force it.",
+      "czech": "Učím se čekat, ne tlačit.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385524"
+    },
+    {
+      "english": "When doubt shows up, I stay kind.",
+      "czech": "Když přijde pochybnost, zůstanu milý.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385526"
+    },
+    {
+      "english": "I need balance, so I rest without shame.",
+      "czech": "Potřebuju rovnováhu, takže si odpočinu bez studu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385528"
+    },
+    {
+      "english": "I’m not giving up, I’m recalibrating.",
+      "czech": "Nevzdávám to, jen se přelaďuju.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385531"
+    },
+    {
+      "english": "I feel safer when we speak calmly.",
+      "czech": "Cítím se bezpečněji, když mluvíme klidně.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385533"
+    },
+    {
+      "english": "I’m trying to choose peace over pressure.",
+      "czech": "Snažím se vybrat klid místo tlaku.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385536"
+    },
+    {
+      "english": "I notice my body, it guides me.",
+      "czech": "Všímám si těla, ono mě vede.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385540"
+    },
+    {
+      "english": "I’ll admit my fear, then proceed slowly.",
+      "czech": "Řeknu nahlas svůj strach, pak půjdu pomalu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385543"
+    },
+    {
+      "english": "I’m balancing truth with timing, that matters.",
+      "czech": "Vyvažuji pravdu i načasování, to je důležité.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385546"
+    },
+    {
+      "english": "I can’t do everything, so I choose.",
+      "czech": "Nezvládnu všechno, tak si vybírám.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385549"
+    },
+    {
+      "english": "I’m staying present, even when it’s hard.",
+      "czech": "Zůstávám v přítomnosti, i když je to těžké.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385552"
+    },
+    {
+      "english": "I don’t want perfect, I want steady.",
+      "czech": "Nechci dokonalost, chci stabilitu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385554"
+    },
+    {
+      "english": "I’m learning patience, one conversation at a time.",
+      "czech": "Učím se trpělivosti, krok za krokem v rozhovoru.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385557"
+    },
+    {
+      "english": "I’ll handle it, but not tonight.",
+      "czech": "Zvládnu to, ale ne dnes večer.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385560"
+    },
+    {
+      "english": "I’m proud I said, “I need space.”",
+      "czech": "Jsem hrdý, že jsem řekl: „Potřebuju prostor.“",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385563"
+    },
+    {
+      "english": "Let’s reflect first, then decide together.",
+      "czech": "Nejdřív se zamysleme, pak se rozhodneme spolu.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385566"
+    },
+    {
+      "english": "Before you answer, take one slow breath.",
+      "czech": "Než odpovíš, dej si jeden pomalý nádech.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385570"
+    },
+    {
+      "english": "Send a short message, not a whole essay.",
+      "czech": "Pošli krátkou zprávu, ne celý román.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385572"
+    },
+    {
+      "english": "Lunch first, then the hard conversation.",
+      "czech": "Nejdřív oběd, potom ten těžký rozhovor.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385574"
+    },
+    {
+      "english": "If it’s late, pause, and decide tomorrow.",
+      "czech": "Když je pozdě, zastav se, a rozhodni zítra.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385577"
+    },
+    {
+      "english": "Say what you need, calmly, in one sentence.",
+      "czech": "Řekni, co potřebuješ, klidně, jednou větou.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385580"
+    },
+    {
+      "english": "When plans change, breathe, then adapt fast.",
+      "czech": "Když se plány mění, nadechni se, a rychle se přizpůsob.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385583"
+    },
+    {
+      "english": "After work, do one small reset ritual.",
+      "czech": "Po práci si dej jeden malý reset rituál.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385585"
+    },
+    {
+      "english": "Make room for rest, before you burn out.",
+      "czech": "Nech si prostor na odpočinek, než vyhoříš.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385587"
+    },
+    {
+      "english": "Before meeting friends, choose one calming intention.",
+      "czech": "Než půjdeš za kamarády, vyber si jednu uklidňující věc.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385590"
+    },
+    {
+      "english": "Keep your tone gentle, even when you’re firm.",
+      "czech": "Drž jemný tón, i když jsi rozhodný.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385593"
+    },
+    {
+      "english": "If you’re overwhelmed, start with the easiest task.",
+      "czech": "Když jsi přetížený, začni nejlehčí věcí.",
+      "category": "Balance",
+      "generated_at": "2026-11-07T06:55:09.385597"
     }
   ],
-  "last_updated": "2026-11-06T07:47:36.426969"
+  "last_updated": "2026-11-07T06:55:09.385599"
 }
