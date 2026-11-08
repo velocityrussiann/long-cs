@@ -15839,7 +15839,727 @@
       "czech": "Když jsi přetížený, začni nejlehčí věcí.",
       "category": "Balance",
       "generated_at": "2026-11-07T06:55:09.385597"
+    },
+    {
+      "english": "Okay, what do we need right now?",
+      "czech": "Dobře, co teď potřebujeme?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362688"
+    },
+    {
+      "english": "Wait, where is the key?",
+      "czech": "Počkej, kde je klíč?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362705"
+    },
+    {
+      "english": "Can you bring the laundry, please?",
+      "czech": "Můžeš přinést prádlo, prosím?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362708"
+    },
+    {
+      "english": "I’m at home, call me later.",
+      "czech": "Jsem doma, zavolej mi později.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362712"
+    },
+    {
+      "english": "Did you feed the cat yet?",
+      "czech": "Nakrmil jsi už tu kočku?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362715"
+    },
+    {
+      "english": "Sorry, I forgot to text.",
+      "czech": "Promiň, zapomněl jsem napsat.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362717"
+    },
+    {
+      "english": "Where do we keep the shoes?",
+      "czech": "Kam dáváme boty?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362720"
+    },
+    {
+      "english": "Be careful, it’s fragile.",
+      "czech": "Opatrně, je to křehké.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362726"
+    },
+    {
+      "english": "Please, be quiet for a minute.",
+      "czech": "Prosím, buď chvíli potichu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362730"
+    },
+    {
+      "english": "Who took my mug?",
+      "czech": "Kdo vzal můj hrnek?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362732"
+    },
+    {
+      "english": "I can’t find the TV remote.",
+      "czech": "Nemůžu najít ovladač.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362736"
+    },
+    {
+      "english": "That’s not what I meant.",
+      "czech": "To není to, co jsem myslel.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362748"
+    },
+    {
+      "english": "Dinner’s ready, come eat!",
+      "czech": "Večeře je hotová, pojďte jíst!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362752"
+    },
+    {
+      "english": "Tell me the plan, quickly.",
+      "czech": "Řekni mi plán, rychle.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362754"
+    },
+    {
+      "english": "I’m coming now, hold on.",
+      "czech": "Teď hned jdu, vydrž.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362757"
+    },
+    {
+      "english": "Who’s watching the kids today?",
+      "czech": "Kdo dnes hlídá děti?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362760"
+    },
+    {
+      "english": "Don’t touch, it’s hot!",
+      "czech": "Nesahej, je to horké!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362764"
+    },
+    {
+      "english": "That smells amazing, wow!",
+      "czech": "To nádherně voní, wow!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362767"
+    },
+    {
+      "english": "Can you turn off the light?",
+      "czech": "Můžeš zhasnout světlo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362769"
+    },
+    {
+      "english": "I need help with this.",
+      "czech": "Potřebuju s tím pomoct.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362771"
+    },
+    {
+      "english": "Thanks, you saved the day.",
+      "czech": "Díky, zachránil jsi to!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362773"
+    },
+    {
+      "english": "How do we split the chores, usually?",
+      "czech": "Jak obvykle dělíme domácí práce?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362775"
+    },
+    {
+      "english": "Could you help me ask the landlord?",
+      "czech": "Můžete mi pomoct zeptat se majitele bytu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362779"
+    },
+    {
+      "english": "Do we have enough diapers for today?",
+      "czech": "Máme dnes dost plenek?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362781"
+    },
+    {
+      "english": "Where can I find extra sheets?",
+      "czech": "Kde najdu další prostěradla?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362784"
+    },
+    {
+      "english": "What time does school let out?",
+      "czech": "V kolik hodin končí ve škole?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362786"
+    },
+    {
+      "english": "Can we get the kids ready quietly?",
+      "czech": "Můžeme děti připravit tiše?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362788"
+    },
+    {
+      "english": "What’s the best way to tidy up?",
+      "czech": "Jak je nejlepší se rychle uklidit?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362791"
+    },
+    {
+      "english": "Do we need to buy anything this week?",
+      "czech": "Musíme tento týden něco koupit?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362793"
+    },
+    {
+      "english": "Who handles bath time in our house?",
+      "czech": "Kdo u nás dělá večerní koupání?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362796"
+    },
+    {
+      "english": "Can you show me where the detergent is?",
+      "czech": "Ukážete mi, kde je prací prostředek?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362798"
+    },
+    {
+      "english": "Any tips for keeping the kitchen clean?",
+      "czech": "Máte tipy, jak udržet kuchyň čistou?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362800"
+    },
+    {
+      "english": "Should I wash this now, or later?",
+      "czech": "Mám to prát teď, nebo později?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362802"
+    },
+    {
+      "english": "What do we do with old batteries?",
+      "czech": "Kam dáváme staré baterie?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362804"
+    },
+    {
+      "english": "Is the trash day on Tuesday again?",
+      "czech": "Je úklid odpadu zas v úterý?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362806"
+    },
+    {
+      "english": "Could you check the calendar for me?",
+      "czech": "Můžete mi zkontrolovat kalendář?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362808"
+    },
+    {
+      "english": "How do we reach the neighbor politely?",
+      "czech": "Jak se slušně zeptat sousedů?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362810"
+    },
+    {
+      "english": "Do you know where the umbrellas are?",
+      "czech": "Víte, kde jsou deštníky?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362813"
+    },
+    {
+      "english": "What’s our backup plan if it rains?",
+      "czech": "Jaký máme plán B, když bude pršet?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362815"
+    },
+    {
+      "english": "Can we call Grandma after dinner?",
+      "czech": "Můžeme zavolat babičce po večeři?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362817"
+    },
+    {
+      "english": "Which room is best for work today?",
+      "czech": "Který pokoj je dnes nejlepší na práci?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362819"
+    },
+    {
+      "english": "Do we have any tea left at home?",
+      "czech": "Máme ještě doma nějaký čaj?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362821"
+    },
+    {
+      "english": "Could you remind me tomorrow morning?",
+      "czech": "Můžete mi zítra ráno připomenout?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362823"
+    },
+    {
+      "english": "Should I text you, or call instead?",
+      "czech": "Mám vám radši napsat, nebo zavolat?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362826"
+    },
+    {
+      "english": "What does the house rule say about visitors?",
+      "czech": "Co říká domácí pravidlo o návštěvách?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362828"
+    },
+    {
+      "english": "Can you help me fold these clothes?",
+      "czech": "Můžete mi pomoct poskládat tohle oblečení?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362830"
+    },
+    {
+      "english": "How often do we clean the bathroom?",
+      "czech": "Jak často uklízíme koupelnu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362834"
+    },
+    {
+      "english": "What do you prefer for breakfast, please?",
+      "czech": "Co si přejete k snídani?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362838"
+    },
+    {
+      "english": "Can we schedule laundry for this afternoon?",
+      "czech": "Můžeme dát praní na dnešní odpoledne?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362841"
+    },
+    {
+      "english": "Any advice for calming the kids quickly?",
+      "czech": "Máte rady, jak rychle uklidnit děti?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362843"
+    },
+    {
+      "english": "Before you go, who locks the door?",
+      "czech": "Než odejdete, kdo zamyká dveře?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362845"
+    },
+    {
+      "english": "Nice try, we learn, every day.",
+      "czech": "Pěkný pokus, učíme se každý den.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362848"
+    },
+    {
+      "english": "Home is safe, breathe, and relax.",
+      "czech": "Doma je bezpečno, nadechni se, odpočiň.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362851"
+    },
+    {
+      "english": "Give yourself credit, you’re trying hard.",
+      "czech": "Udělej si radost, fakt se snažíš.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362854"
+    },
+    {
+      "english": "Today’s small win counts, even quietly.",
+      "czech": "Dnešní malá výhra se počítá, i potichu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362857"
+    },
+    {
+      "english": "It’s okay, we can fix it together.",
+      "czech": "Nevadí, opravíme to spolu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362860"
+    },
+    {
+      "english": "Family first, then the rest can wait.",
+      "czech": "Rodina na prvním místě, pak ostatní počká.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362862"
+    },
+    {
+      "english": "You handled that well, I’m proud of you.",
+      "czech": "To ses zvládl skvěle, jsem na tebe hrdý.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362865"
+    },
+    {
+      "english": "Let’s reset, no blame, just solutions.",
+      "czech": "Pojďme se resetovat, bez výčitek, jen řešení.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362868"
+    },
+    {
+      "english": "I’m listening, talk to me slowly.",
+      "czech": "Poslouchám tě, mluv pomalu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362871"
+    },
+    {
+      "english": "We’ll figure it out, trust me.",
+      "czech": "Přijdeme na to, věř mi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362874"
+    },
+    {
+      "english": "Great job setting the mood at home.",
+      "czech": "Skvěle, že držíš doma dobrou náladu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362876"
+    },
+    {
+      "english": "Warm words matter, say it kindly.",
+      "czech": "Laskavá slova dělají rozdíl, řekni to mile.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362878"
+    },
+    {
+      "english": "Thanks for helping, that means a lot.",
+      "czech": "Díky, že pomáháš, fakt to hodně znamená.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362880"
+    },
+    {
+      "english": "Choose calm, even when it’s busy.",
+      "czech": "Vyber si klid, i když je rušno.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362883"
+    },
+    {
+      "english": "One breath, then we continue.",
+      "czech": "Jedno nadechnutí, a pokračujeme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362886"
+    },
+    {
+      "english": "You’re safe here, I’ve got you.",
+      "czech": "Jsi tady v bezpečí, mám tě.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362889"
+    },
+    {
+      "english": "Let’s talk, listen first, respond later.",
+      "czech": "Povídejme si, nejdřív poslouchej, pak odpověz.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362892"
+    },
+    {
+      "english": "I believe in you, keep going.",
+      "czech": "Věřím ti, nepřestávej.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362895"
+    },
+    {
+      "english": "Home feels better when we help each other.",
+      "czech": "Doma je líp, když si pomáháme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362897"
+    },
+    {
+      "english": "Good job speaking up, you’re respected.",
+      "czech": "Super, že ses ozval, máš respekt.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362900"
+    },
+    {
+      "english": "We’re a team, not enemies today.",
+      "czech": "Jsme tým, dneska ne protivníci.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362903"
+    },
+    {
+      "english": "Small steps build big changes at home.",
+      "czech": "Malé kroky dělají velké změny doma.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362905"
+    },
+    {
+      "english": "Keep your head up, you’re doing it right.",
+      "czech": "Drž se, děláš to správně.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362908"
+    },
+    {
+      "english": "Thank you for being patient, seriously.",
+      "czech": "Díky, že jsi trpělivý, vážně.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362911"
+    },
+    {
+      "english": "We can start fresh, no pressure.",
+      "czech": "Můžeme začít znovu, bez tlaku.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362913"
+    },
+    {
+      "english": "You’re learning fast, keep that energy.",
+      "czech": "Učíš se rychle, drž si tu energii.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362915"
+    },
+    {
+      "english": "Together we make home feel warm.",
+      "czech": "Společně uděláme z domova teplo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362918"
+    },
+    {
+      "english": "Mom’s here, everything’s fine, trust me.",
+      "czech": "Mami je tu, je to v pohodě, věř mi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362922"
+    },
+    {
+      "english": "Dad says, don’t worry, it’ll work out.",
+      "czech": "Táta říká, neboj, nějak to dopadne.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362926"
+    },
+    {
+      "english": "We’ll deal with it later, not now.",
+      "czech": "Vyřešíme to později, teď neřeš.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362928"
+    },
+    {
+      "english": "Clean as you go, nobody likes chaos.",
+      "czech": "Ukliď za sebou, ne každý má rád chaos.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362931"
+    },
+    {
+      "english": "At home, we use the quiet voice.",
+      "czech": "Doma se mluví potichu, žádnej křik.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362934"
+    },
+    {
+      "english": "The house is running again, finally.",
+      "czech": "Dům zas jede, konečně!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362937"
+    },
+    {
+      "english": "Let’s air it out, fresh air helps.",
+      "czech": "Vyvětrejme to, čerstvý vzduch pomáhá.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362940"
+    },
+    {
+      "english": "Shoes off, then we’re truly home.",
+      "czech": "Bota dolů, a jsme doma.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362942"
+    },
+    {
+      "english": "Kids, stop pestering, give me a sec.",
+      "czech": "Děcka, dejte pokoj, mám minutu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362945"
+    },
+    {
+      "english": "It’s not the end of the world.",
+      "czech": "Není to konec světa.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362948"
+    },
+    {
+      "english": "We’ll patch it up, no big drama.",
+      "czech": "Nějak to spravíme, žádný drama.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362950"
+    },
+    {
+      "english": "Sharing is caring, especially at home.",
+      "czech": "Sdílení je síla, doma to platí.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362953"
+    },
+    {
+      "english": "Eat up, we need energy for tomorrow.",
+      "czech": "Najjez se, zítra to potřebuješ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362959"
+    },
+    {
+      "english": "The sink’s full again, what a mess.",
+      "czech": "Dřez je zase plnej, to je bordel.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362962"
+    },
+    {
+      "english": "Little by little, the home gets better.",
+      "czech": "Po troškách, a doma bude líp.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362964"
+    },
+    {
+      "english": "Mom’s cooking, smell that, heaven.",
+      "czech": "Mami vaří, ucítíš to, ráj na talíři.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362967"
+    },
+    {
+      "english": "Leave it, later we’ll put it right.",
+      "czech": "Nech to, pak to dáme dohromady.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362970"
+    },
+    {
+      "english": "Family dinners, no screens, please.",
+      "czech": "Rodinná večeře, bez mobilů, prosím.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362973"
+    },
+    {
+      "english": "You can’t have it all, be grateful.",
+      "czech": "Všechno mít nejde, buď vděčnej.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362975"
+    },
+    {
+      "english": "We’ll do it step by step, okay?",
+      "czech": "Půjdeme krok za krokem, jo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362978"
+    },
+    {
+      "english": "Home sweet home, let’s finally relax.",
+      "czech": "Domov je domov, tak si odpočiňme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362981"
+    },
+    {
+      "english": "The fridge is empty, time for groceries.",
+      "czech": "V lednici nic není, jdeme na nákup.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362983"
+    },
+    {
+      "english": "If it’s broken, we fix it, together.",
+      "czech": "Když se to rozbije, spravíme to spolu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362986"
+    },
+    {
+      "english": "Don’t slam doors, it’s not a warehouse.",
+      "czech": "Nebouchej dveřma, nejsme ve skladu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362989"
+    },
+    {
+      "english": "We’re all tired, but we manage.",
+      "czech": "Všichni jsme utahaní, ale zvládneme to.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362991"
+    },
+    {
+      "english": "Your room first, then we talk privileges.",
+      "czech": "Nejdřív pokoj, pak řešíme výhody.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362993"
+    },
+    {
+      "english": "One rule, family. Respect everyone here.",
+      "czech": "Jedno pravidlo, rodina. Respekt pro každého.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362996"
+    },
+    {
+      "english": "Too much noise, let’s calm down.",
+      "czech": "Moc hluku, ztišeme se, jo?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.362999"
+    },
+    {
+      "english": "We’ll laugh later, right now just breathe.",
+      "czech": "Zasmějeme se později, teď jen dýchej.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363001"
+    },
+    {
+      "english": "Thanks for pitching in, you’re a lifesaver.",
+      "czech": "Díky, žes pomohl, jsi zachránce.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363004"
+    },
+    {
+      "english": "Let’s do a quick reset, then continue.",
+      "czech": "Udělejme rychlý reset, pak pokračujeme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363007"
+    },
+    {
+      "english": "Can you tidy, just in your corner?",
+      "czech": "Můžeš si uklidit, jen v koutku?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363010"
+    },
+    {
+      "english": "Before guests arrive, wipe the table down.",
+      "czech": "Než přijdou hosté, otři stůl.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363012"
+    },
+    {
+      "english": "Wash hands first, then we eat.",
+      "czech": "Nejdřív umýt ruce, pak jíme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363016"
+    },
+    {
+      "english": "If it’s late, we do tomorrow’s list.",
+      "czech": "Když je pozdě, dáme seznam na zítra.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363020"
+    },
+    {
+      "english": "Remember, ask nicely, no whining, please.",
+      "czech": "Pamatuj, prosíme slušně, žádné naříkání.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363023"
+    },
+    {
+      "english": "We’ll switch roles today, so everyone gets it.",
+      "czech": "Dnes si vyměníme role, ať to každý chápe.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363026"
+    },
+    {
+      "english": "I’ll handle dinner, you set the table.",
+      "czech": "Večeři dám já, ty prostři stůl.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363029"
+    },
+    {
+      "english": "No worries, we’ll improvise with what we have.",
+      "czech": "Neboj, poradíme si, co máme doma.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363032"
+    },
+    {
+      "english": "Let’s label leftovers, so they don’t vanish.",
+      "czech": "Označ zbytky, ať nezmizí.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363035"
+    },
+    {
+      "english": "When you’re done, put it back right away.",
+      "czech": "Až skončíš, vrať to hned zpátky.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363038"
+    },
+    {
+      "english": "Try one small task, then take a break.",
+      "czech": "Zkus jednu malou věc, pak si dej pauzu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T07:00:42.363040"
     }
   ],
-  "last_updated": "2026-11-07T06:55:09.385599"
+  "last_updated": "2026-11-08T07:00:42.363042"
 }
