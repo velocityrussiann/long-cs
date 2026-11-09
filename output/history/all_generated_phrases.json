@@ -16559,7 +16559,727 @@
       "czech": "Zkus jednu malou věc, pak si dej pauzu.",
       "category": "Family & Home",
       "generated_at": "2026-11-08T07:00:42.363040"
+    },
+    {
+      "english": "Excuse me, where’s the nearest tram stop?",
+      "czech": "Promiňte, kde je nejbližší zastávka tramvaje?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332818"
+    },
+    {
+      "english": "Hi, can you help me find the bus?",
+      "czech": "Ahoj, můžeš mi pomoct najít autobus?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332833"
+    },
+    {
+      "english": "Sorry, which way is the city center?",
+      "czech": "Omlouvám se, kudy je centrum města?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332836"
+    },
+    {
+      "english": "Quick question, how do I get downtown?",
+      "czech": "Rychlá otázka, jak se dostanu do centra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332839"
+    },
+    {
+      "english": "Which stop should I get off?",
+      "czech": "Na které zastávce mám vystoupit?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332842"
+    },
+    {
+      "english": "Is it far, walking, to the museum?",
+      "czech": "Je to daleko pěšky do muzea?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332845"
+    },
+    {
+      "english": "Thanks, I really need this address.",
+      "czech": "Díky, fakt potřebuju tu adresu.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332847"
+    },
+    {
+      "english": "Excuse me, how long does it take?",
+      "czech": "Promiňte, jak dlouho to trvá?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332854"
+    },
+    {
+      "english": "Sorry, I’m lost, can you point it out?",
+      "czech": "Omlouvám se, jsem ztracený, ukážete mi to?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332858"
+    },
+    {
+      "english": "Do I go straight, or turn left?",
+      "czech": "Jdu rovně, nebo mám zabočit doleva?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332861"
+    },
+    {
+      "english": "Left or right, which one is faster?",
+      "czech": "Doleva, nebo doprava, co je rychlejší?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332865"
+    },
+    {
+      "english": "Great, that sounds right, thanks!",
+      "czech": "Super, to zní správně, děkuju!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332868"
+    },
+    {
+      "english": "Wait, what was the street name?",
+      "czech": "Počkej, jak se jmenuje ta ulice?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332871"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "czech": "Můžete mluvit pomaleji, prosím?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332873"
+    },
+    {
+      "english": "No problem, I’ll figure it out.",
+      "czech": "Nevadí, nějak to zvládnu.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332876"
+    },
+    {
+      "english": "Sorry, I don’t understand that word.",
+      "czech": "Promiňte, tomu slovu nerozumím.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332879"
+    },
+    {
+      "english": "Is there a restroom nearby, by the way?",
+      "czech": "Je tu poblíž toaleta, mimochodem?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332882"
+    },
+    {
+      "english": "How do I say it, in Czech?",
+      "czech": "Jak se to řekne česky?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332885"
+    },
+    {
+      "english": "Just one more, where exactly is it?",
+      "czech": "Ještě jednou, kde to přesně je?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332887"
+    },
+    {
+      "english": "Wow, that’s close, I’ll walk.",
+      "czech": "To je blízko, půjdu pěšky.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332891"
+    },
+    {
+      "english": "Okay, I got it, thanks a lot!",
+      "czech": "Dobře, rozumím, moc děkuju!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332894"
+    },
+    {
+      "english": "What’s the next landmark, after that?",
+      "czech": "Jaká je další památka, potom?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332897"
+    },
+    {
+      "english": "Can I take a taxi from here?",
+      "czech": "Můžu odsud taxíkem, nebo tramvají?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332899"
+    },
+    {
+      "english": "Thanks! I’ll be there in minutes.",
+      "czech": "Díky! Budu tam za pár minut.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332903"
+    },
+    {
+      "english": "Sorry to bother you, is it on this street?",
+      "czech": "Omlouvám se, neruším, je to tady v té ulici?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332905"
+    },
+    {
+      "english": "Could you tell me, how to get there?",
+      "czech": "Můžete mi říct, jak se tam dostanu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332908"
+    },
+    {
+      "english": "Do you know, where the station is?",
+      "czech": "Víš, kde je ta stanice?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332911"
+    },
+    {
+      "english": "Is this the right route, to the airport?",
+      "czech": "Je to správná cesta na letiště?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332913"
+    },
+    {
+      "english": "What do you recommend, for quickest directions?",
+      "czech": "Co byste doporučil, na nejrychlejší cestu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332916"
+    },
+    {
+      "english": "How about walking, is it safe here?",
+      "czech": "Můžu jít pěšky, je to tady bezpečné?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332920"
+    },
+    {
+      "english": "Is there a shortcut, through these streets?",
+      "czech": "Je tady nějaká zkratka, přes tyhle ulice?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332995"
+    },
+    {
+      "english": "Can I ask, which line goes there?",
+      "czech": "Můžu se zeptat, která linka tam jezdí?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.332998"
+    },
+    {
+      "english": "Where do people usually get off, for this?",
+      "czech": "Kde lidé obvykle vystupují, pro tohle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333000"
+    },
+    {
+      "english": "Is it better, by tram or by bus?",
+      "czech": "Je to lepší, tramvají, nebo autobusem?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333003"
+    },
+    {
+      "english": "Just to confirm, it’s near the river, right?",
+      "czech": "Jen si to ověřím, je to blízko u řeky, že?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333007"
+    },
+    {
+      "english": "Do I follow the signs, or ask again?",
+      "czech": "Mám se držet značek, nebo se zeptat znovu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333010"
+    },
+    {
+      "english": "Would you mind telling me, the quickest way?",
+      "czech": "Mohli byste mi říct, jak se tam dostat nejrychleji?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333013"
+    },
+    {
+      "english": "What’s the nearest stop, besides this one?",
+      "czech": "Jaká je nejbližší zastávka, kromě téhle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333016"
+    },
+    {
+      "english": "Can I get directions, step by step please?",
+      "czech": "Můžete mi dát pokyny, krok za krokem, prosím?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333019"
+    },
+    {
+      "english": "If I turn here, is it straight after?",
+      "czech": "Když odbočím tady, je to potom rovně?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333021"
+    },
+    {
+      "english": "Are there any landmarks, I should watch for?",
+      "czech": "Jsou tam nějaké památky, na co si dát pozor?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333024"
+    },
+    {
+      "english": "How far is it, roughly, from here?",
+      "czech": "Jak je to daleko, zhruba, odsud?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333026"
+    },
+    {
+      "english": "What time does the bus usually come?",
+      "czech": "V kolik obvykle přijíždí autobus?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333030"
+    },
+    {
+      "english": "Is this road still open, today?",
+      "czech": "Je tahle cesta dneska pořád otevřená?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333032"
+    },
+    {
+      "english": "Do you know, if it’s under construction?",
+      "czech": "Víš, jestli tam probíhají opravy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333037"
+    },
+    {
+      "english": "Could you point, where the entrance is?",
+      "czech": "Můžete mi ukázat, kde je vchod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333039"
+    },
+    {
+      "english": "Is there parking nearby, near the stop?",
+      "czech": "Je poblíž parkování, u té zastávky?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333041"
+    },
+    {
+      "english": "What’s the best option, if it rains?",
+      "czech": "Co je nejlepší, když prší?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333044"
+    },
+    {
+      "english": "Do you have a minute, for quick help?",
+      "czech": "Máte chvilku, na rychlou pomoc?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333047"
+    },
+    {
+      "english": "I’m heading there now, what should I do?",
+      "czech": "Jdu tam teď, co mám udělat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333050"
+    },
+    {
+      "english": "Is it on the left side, or right?",
+      "czech": "Je to vlevo, nebo vpravo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333052"
+    },
+    {
+      "english": "Which street connects here to that place?",
+      "czech": "Jaká ulice vede odtud k tomu místu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333055"
+    },
+    {
+      "english": "If I miss it, what’s the backup stop?",
+      "czech": "Když to ujdu, kde je záložní zastávka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333058"
+    },
+    {
+      "english": "Can we confirm, I go this way first?",
+      "czech": "Můžeme si potvrdit, že nejdřív jdu tudy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333061"
+    },
+    {
+      "english": "Thanks, could you write it down for me?",
+      "czech": "Díky, můžete mi to napsat, prosím?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333063"
+    },
+    {
+      "english": "You’ve got this, follow the easiest route.",
+      "czech": "Zvládneš to, drž se nejjednodušší cesty.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333075"
+    },
+    {
+      "english": "Great question, I’ll help you find it.",
+      "czech": "Skvělá otázka, pomůžu ti to najít.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333079"
+    },
+    {
+      "english": "Don’t worry, I’ll repeat the directions.",
+      "czech": "Neboj se, směle to zopakuju.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333082"
+    },
+    {
+      "english": "Stay calm, ask once, then walk confidently.",
+      "czech": "V klidu, zeptej se jednou, pak jdi sebevědomě.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333086"
+    },
+    {
+      "english": "Perfect, just tell me the main street.",
+      "czech": "Výborně, jen mi řekni tu hlavní ulici.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333088"
+    },
+    {
+      "english": "Nice, you’re close, what’s the next turn?",
+      "czech": "Super, jsi blízko, kam odbočit dál?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333092"
+    },
+    {
+      "english": "Thanks for helping, I really appreciate it.",
+      "czech": "Díky za pomoc, opravdu si toho vážím.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333095"
+    },
+    {
+      "english": "Good vibe, I’ll handle the rest from there.",
+      "czech": "Dobrá energie, zbytek už zvládnu sám.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333098"
+    },
+    {
+      "english": "Let’s make it easy, what’s the landmark here?",
+      "czech": "Udělejme to snadné, co je tady za orientační bod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333101"
+    },
+    {
+      "english": "You’re doing great, please guide me quickly.",
+      "czech": "Máš to, prosím, veď mě rychle.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333105"
+    },
+    {
+      "english": "I’ve got questions, but you can help me.",
+      "czech": "Mám otázky, ale ty mě můžeš navést.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333108"
+    },
+    {
+      "english": "Keep going, is there a crossing nearby?",
+      "czech": "Pokračuj, je tady poblíž přechod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333111"
+    },
+    {
+      "english": "I’m confident, just tell me the direction.",
+      "czech": "Mám to v hlavě, jen mi řekni směr.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333114"
+    },
+    {
+      "english": "All good, I’m ready for the next step.",
+      "czech": "V pohodě, jsem připravený na další krok.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333117"
+    },
+    {
+      "english": "Quick check, is this near the bus stop?",
+      "czech": "Rychlá kontrola, je to blízko zastávky?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333120"
+    },
+    {
+      "english": "That helps a lot, what street is it?",
+      "czech": "To mi hodně pomohlo, jak se ta ulice jmenuje?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333122"
+    },
+    {
+      "english": "You’re amazing, can you point it out?",
+      "czech": "Ty jsi skvělý, můžeš mi to ukázat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333125"
+    },
+    {
+      "english": "No stress, tell me what to watch for.",
+      "czech": "Bez stresu, na co si mám dát pozor?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333128"
+    },
+    {
+      "english": "Thanks, I’m learning fast, step by step.",
+      "czech": "Díky, učím se rychle, krok po kroku.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333132"
+    },
+    {
+      "english": "You nailed it, where do I turn next?",
+      "czech": "To sedí, kde mám zabočit dál?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333135"
+    },
+    {
+      "english": "I trust you, what’s the easiest route?",
+      "czech": "Věřím ti, co je nejjednodušší cesta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333139"
+    },
+    {
+      "english": "Stay positive, you’re guiding me well.",
+      "czech": "Drž si dobrou náladu, vedeš mě skvěle.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333143"
+    },
+    {
+      "english": "Nice tip, do I go straight first?",
+      "czech": "Super rada, jdu nejdřív rovně?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333145"
+    },
+    {
+      "english": "Perfect, now tell me how long it takes.",
+      "czech": "Výborně, a jak dlouho to trvá?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333148"
+    },
+    {
+      "english": "I’m ready, just confirm the route direction.",
+      "czech": "Jsem připravený, jen potvrď směr.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333151"
+    },
+    {
+      "english": "Keep it simple, what’s the next landmark?",
+      "czech": "Zjednoduš to, co je další orientační bod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333154"
+    },
+    {
+      "english": "You’ve helped me, I’ll move forward confidently.",
+      "czech": "Pomohls mi, jdu dál s jistotou.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333157"
+    },
+    {
+      "english": "Good job, tell me where the street starts.",
+      "czech": "Dobrá práce, kde ta ulice začíná?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333164"
+    },
+    {
+      "english": "Thanks again, you make this easier.",
+      "czech": "Díky ještě jednou, děláš to jednodušší.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333166"
+    },
+    {
+      "english": "You got this, I’ll follow your advice.",
+      "czech": "To zvládneš, já se budu držet tvé rady.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333170"
+    },
+    {
+      "english": "I’m nervous, can you reassure me, please?",
+      "czech": "Jsem nervózní, můžete mě uklidnit, prosím?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333173"
+    },
+    {
+      "english": "I just want the quietest route, if possible.",
+      "czech": "Chci jen tu klidnější cestu, pokud se dá.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333176"
+    },
+    {
+      "english": "Honestly, I feel lost, could you help?",
+      "czech": "Upřímně, jsem ztracený, můžete mi pomoct?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333179"
+    },
+    {
+      "english": "Take your time, I can wait here.",
+      "czech": "Dejte si na čas, já tu můžu počkat.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333182"
+    },
+    {
+      "english": "I’m trying to learn, so slow down a bit.",
+      "czech": "Snažím se učit, tak zpomalte, prosím.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333185"
+    },
+    {
+      "english": "Just tell me what you’d do, in my spot.",
+      "czech": "Řekněte mi, co byste dělal, kdybyste byl já.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333188"
+    },
+    {
+      "english": "I’m a little unsure, is this the right way?",
+      "czech": "Mám trochu nejistotu, je to správná cesta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333191"
+    },
+    {
+      "english": "I’d rather not rush, what’s the easiest option?",
+      "czech": "Spíš nechci spěchat, jaká je nejjednodušší cesta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333195"
+    },
+    {
+      "english": "If I’m late, what’s the fastest safe route?",
+      "czech": "Když nestíhám, kudy nejrychleji bezpečně?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333198"
+    },
+    {
+      "english": "I want to do this right, where should I start?",
+      "czech": "Chci to udělat správně, kde mám začít?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333201"
+    },
+    {
+      "english": "Please be patient, my Czech is limited.",
+      "czech": "Prosím, buďte trpělivý, moje čeština je slabá.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333204"
+    },
+    {
+      "english": "I’m thinking, do I go near the river?",
+      "czech": "Uvažuji, mám jít spíš k řece?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333207"
+    },
+    {
+      "english": "I’m looking for a calm walking path, not shortcuts.",
+      "czech": "Hledám klidnou cestu pěšky, ne zkratky.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333210"
+    },
+    {
+      "english": "I feel better when I know the landmarks.",
+      "czech": "Cítím se jistěji, když vidím orientační body.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333213"
+    },
+    {
+      "english": "Can you confirm, my plan makes sense?",
+      "czech": "Můžete potvrdit, že můj plán dává smysl?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333216"
+    },
+    {
+      "english": "I’m not sure, what would you suggest for me?",
+      "czech": "Nejsem si jistý, co byste mi doporučil?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333219"
+    },
+    {
+      "english": "I’d love a simple answer, no extra details.",
+      "czech": "Dejte mi prosím jednoduchou odpověď, bez detailů.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333222"
+    },
+    {
+      "english": "I’m trying to stay grounded, where’s the safest crossing?",
+      "czech": "Snažím se držet při zemi, kde je nejbezpečnější přechod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333226"
+    },
+    {
+      "english": "Sorry to bother you, I need clarity.",
+      "czech": "Omlouvám se, jen potřebuji jasno.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333229"
+    },
+    {
+      "english": "I’m comparing options, what’s most practical here?",
+      "czech": "Srovnávám možnosti, co je tady nejpraktičtější?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333232"
+    },
+    {
+      "english": "I’m okay to walk, how far is it?",
+      "czech": "Nevadí mi jít pěšky, jak daleko to je?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333235"
+    },
+    {
+      "english": "I’m trying to breathe, what’s the next step?",
+      "czech": "Zkouším se uklidnit, jaký je další krok?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333240"
+    },
+    {
+      "english": "If I take the wrong turn, what should I do?",
+      "czech": "Když miním odbočku, co mám udělat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333243"
+    },
+    {
+      "english": "I’d like to know the vibe of the route.",
+      "czech": "Chci vědět, jaká je ta trasa, jak působí.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333246"
+    },
+    {
+      "english": "I’m hopeful, can we aim for the center?",
+      "czech": "Jsem optimista, můžeme mířit do centra?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333250"
+    },
+    {
+      "english": "I’m anxious, could you give me one clear direction?",
+      "czech": "Jsem ve stresu, dáte mi jednu jasnou instrukci?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333253"
+    },
+    {
+      "english": "I need the real answer, where do I turn?",
+      "czech": "Potřebuji pravdu, kde se mám otočit?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333256"
+    },
+    {
+      "english": "My legs are tired, is there a shortcut nearby?",
+      "czech": "Bolí mě nohy, je tu blízko nějaká zkratka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333258"
+    },
+    {
+      "english": "I’m learning patiently, can I repeat your key steps?",
+      "czech": "Učím se trpělivě, můžu zopakovat vaše kroky?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333262"
+    },
+    {
+      "english": "Thanks, I feel calmer now, I can continue.",
+      "czech": "Díky, teď se cítím klidněji, můžu pokračovat.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333265"
+    },
+    {
+      "english": "Excuse me, where do I turn next?",
+      "czech": "Promiňte, kde mám zabočit příště?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333267"
+    },
+    {
+      "english": "Can you point me to that street?",
+      "czech": "Můžete mi ukázat tu ulici?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333270"
+    },
+    {
+      "english": "Is this the way to the tram stop?",
+      "czech": "Je tohle cesta na tramvajovou zastávku?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333272"
+    },
+    {
+      "english": "I’m running late, what’s the fastest here?",
+      "czech": "Nestíhám, kudy to půjde nejrychleji tady?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333276"
+    },
+    {
+      "english": "Quick question, how do I get there, please?",
+      "czech": "Můžu se rychle zeptat, jak se tam dostanu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T07:45:05.333278"
     }
   ],
-  "last_updated": "2026-11-08T07:00:42.363042"
+  "last_updated": "2026-11-09T07:45:05.333280"
 }
