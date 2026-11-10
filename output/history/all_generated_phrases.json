@@ -17279,7 +17279,727 @@
       "czech": "Můžu se rychle zeptat, jak se tam dostanu?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-09T07:45:05.333278"
+    },
+    {
+      "english": "One coffee, please, and a small water.",
+      "czech": "Jednu kávu, prosím, a malou vodu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662364"
+    },
+    {
+      "english": "Just water, no ice, please.",
+      "czech": "Jen vodu, bez ledu, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662379"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "czech": "Můžu si prohlédnout jídelní lístek, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662382"
+    },
+    {
+      "english": "What do you recommend, honestly?",
+      "czech": "Co doporučujete, upřímně?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662384"
+    },
+    {
+      "english": "I’ll have the same as my friend.",
+      "czech": "Dám si to samé, co má můj kamarád.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662387"
+    },
+    {
+      "english": "No problem, take your time, please.",
+      "czech": "Žádný problém, dejte si na čas, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662390"
+    },
+    {
+      "english": "Can I get it to go, please?",
+      "czech": "Můžu to dostat s sebou, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662393"
+    },
+    {
+      "english": "Is there anything spicy, not too much?",
+      "czech": "Je tu něco pálivého, ale ne moc?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662397"
+    },
+    {
+      "english": "I’m allergic to nuts, just warning you.",
+      "czech": "Mám alergii na ořechy, jen vás upozorním.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662400"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "czech": "Máte něco bez lepku?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662403"
+    },
+    {
+      "english": "Could we get the bill, please?",
+      "czech": "Můžeme dostat účet, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662406"
+    },
+    {
+      "english": "We’ll split it, thanks.",
+      "czech": "Rozdělíme to, díky.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662408"
+    },
+    {
+      "english": "One more, please, without waiting.",
+      "czech": "Ještě jedno, prosím, hned.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662411"
+    },
+    {
+      "english": "Sorry, I think I ordered wrong.",
+      "czech": "Promiňte, myslím, že jsem si to spletl.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662413"
+    },
+    {
+      "english": "It smells amazing, wow, seriously!",
+      "czech": "To nádherně voní, to je hustý!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662415"
+    },
+    {
+      "english": "This is delicious, thank you so much!",
+      "czech": "To je výborné, děkuju moc!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662417"
+    },
+    {
+      "english": "Is it possible to change it?",
+      "czech": "Dá se to upravit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662419"
+    },
+    {
+      "english": "Can I get extra sauce, please?",
+      "czech": "Můžu dostat extra omáčku, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662421"
+    },
+    {
+      "english": "Less salt, please, I can’t handle it.",
+      "czech": "Méně soli, prosím, nedá se to.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662424"
+    },
+    {
+      "english": "No, thanks, I’ll stick with water.",
+      "czech": "Ne, díky, dám si radši vodu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662428"
+    },
+    {
+      "english": "Do you have vegetarian meals?",
+      "czech": "Máte vegetariánská jídla?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662430"
+    },
+    {
+      "english": "Is that spicy sauce, or mild?",
+      "czech": "Je ta omáčka pálivá, nebo jemná?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662432"
+    },
+    {
+      "english": "Can I get it without onions?",
+      "czech": "Můžete to bez cibule, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662434"
+    },
+    {
+      "english": "Wait, this isn’t what I ordered.",
+      "czech": "Počkejte, tohle není moje objednávka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662436"
+    },
+    {
+      "english": "Perfect, this is exactly right.",
+      "czech": "Skvělé, přesně tohle potřebuju.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662438"
+    },
+    {
+      "english": "Is service included, or separate?",
+      "czech": "Je v ceně obsluha, nebo zvlášť?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662440"
+    },
+    {
+      "english": "One espresso, not too strong, please.",
+      "czech": "Jedno espresso, ne moc silné, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662443"
+    },
+    {
+      "english": "Just a quick snack, nothing fancy.",
+      "czech": "Jen rychlé občerstvení, nic extra.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662445"
+    },
+    {
+      "english": "I’ll take it, thank you, have a nice day!",
+      "czech": "Beru to, děkuju, mějte se hezky!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662447"
+    },
+    {
+      "english": "What’s the house specialty, today?",
+      "czech": "Jaká je dnes domácí specialita?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662450"
+    },
+    {
+      "english": "Do you have something light, please?",
+      "czech": "Můžete prosím něco lehkého?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662452"
+    },
+    {
+      "english": "Is this dish served hot?",
+      "czech": "Je to jídlo podávané horké?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662455"
+    },
+    {
+      "english": "Can I ask about the ingredients?",
+      "czech": "Můžu se zeptat na složení?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662457"
+    },
+    {
+      "english": "What comes with it, exactly?",
+      "czech": "Co k tomu přesně dostaneme?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662462"
+    },
+    {
+      "english": "Is there a lunch special right now?",
+      "czech": "Dáváte teď nějakou polední nabídku?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662464"
+    },
+    {
+      "english": "How big is the portion, roughly?",
+      "czech": "Jak velká je porce, zhruba?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662467"
+    },
+    {
+      "english": "Could you suggest a combo meal?",
+      "czech": "Můžete doporučit kombinaci k jídlu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662470"
+    },
+    {
+      "english": "Do you have any non-alcoholic drinks?",
+      "czech": "Máte něco bez alkoholu k pití?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662472"
+    },
+    {
+      "english": "What’s the wait time for food?",
+      "czech": "Jak dlouho se tu čeká na jídlo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662474"
+    },
+    {
+      "english": "Is it fresh, or more like frozen?",
+      "czech": "Je to čerstvé, nebo spíš mražené?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662477"
+    },
+    {
+      "english": "Can I taste it first, maybe?",
+      "czech": "Můžu si to nejdřív ochutnat?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662479"
+    },
+    {
+      "english": "Do you have spicy options available?",
+      "czech": "Máte i pálivé varianty?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662481"
+    },
+    {
+      "english": "Is the sauce homemade, by any chance?",
+      "czech": "Je ta omáčka domácí, náhodou?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662483"
+    },
+    {
+      "english": "What’s your most popular dessert?",
+      "czech": "Jaký je tu nejpopulárnější dezert?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662485"
+    },
+    {
+      "english": "Do you offer dairy-free choices?",
+      "czech": "Máte něco bez mléka, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662487"
+    },
+    {
+      "english": "Which drink pairs well with seafood?",
+      "czech": "Čemu se hodí k mořským plodům?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662489"
+    },
+    {
+      "english": "Can I get it a little cooler?",
+      "czech": "Můžete to prosím trochu zchladit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662490"
+    },
+    {
+      "english": "Would you say it’s filling, or light?",
+      "czech": "Je to spíš syté, nebo lehké?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662493"
+    },
+    {
+      "english": "Is there a kids’ menu here?",
+      "czech": "Máte tady dětské menu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662496"
+    },
+    {
+      "english": "Can I order the vegetarian version?",
+      "czech": "Můžu si dát tu vegetariánskou variantu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662498"
+    },
+    {
+      "english": "Do you have something with mushrooms?",
+      "czech": "Máte jídlo s houbami?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662500"
+    },
+    {
+      "english": "How do you serve the bread here?",
+      "czech": "Jak podáváte to pečivo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662507"
+    },
+    {
+      "english": "Do you have free refills on drinks?",
+      "czech": "Můžu mít neomezené doplňování nápojů?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662509"
+    },
+    {
+      "english": "Is this dish okay for tonight?",
+      "czech": "Je tohle vhodné na dnešní večer?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662511"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "czech": "V čem je rozdíl mezi těmi dvěma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662514"
+    },
+    {
+      "english": "Can we move this to another plate?",
+      "czech": "Můžete to dát na jiný talíř, prosím?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662516"
+    },
+    {
+      "english": "Would you like to add any extras?",
+      "czech": "Chcete přidat něco navíc?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662518"
+    },
+    {
+      "english": "Thanks, can I get a moment?",
+      "czech": "Děkuju, můžu si chvilku posoudit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662521"
+    },
+    {
+      "english": "Is there a waiting list for popular items?",
+      "czech": "Je tu pořadník na oblíbené věci?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662522"
+    },
+    {
+      "english": "Take a breath, then ask clearly, okay?",
+      "czech": "Nadechni se, pak se zeptej jasně, jo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662525"
+    },
+    {
+      "english": "I’m calm, I’ll order what I like.",
+      "czech": "Jsem v klidu, objednám si, co mám rád/a.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662528"
+    },
+    {
+      "english": "Trust your taste, you’ll pick the best.",
+      "czech": "Věř svému vkusu, vybereš to nejlepší.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662530"
+    },
+    {
+      "english": "Quick question, you’ll help me, right?",
+      "czech": "Rychlá otázka, vy mi poradíte, že jo?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662533"
+    },
+    {
+      "english": "Good job, you’re learning, step by step.",
+      "czech": "Dobrá práce, učíš se, krok za krokem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662536"
+    },
+    {
+      "english": "I’ll be confident, just like you said.",
+      "czech": "Budu si jistý/á, přesně jako říkáš.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662539"
+    },
+    {
+      "english": "You’re figuring it out, don’t rush.",
+      "czech": "Zvládáš to, nespěchej.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662543"
+    },
+    {
+      "english": "Nice, that sounds perfect for my mood.",
+      "czech": "Super, to zní přesně podle nálady.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662546"
+    },
+    {
+      "english": "Let’s keep it simple, I’m all in.",
+      "czech": "Nechme to jednoduché, jdu do toho naplno.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662548"
+    },
+    {
+      "english": "You’re doing great, ask for what you want.",
+      "czech": "Skvěle ti to jde, řekni, co chceš.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662550"
+    },
+    {
+      "english": "I like options, but I’ll choose wisely.",
+      "czech": "Mám rád/a možnosti, ale vyberu rozumně.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662553"
+    },
+    {
+      "english": "No pressure, we’ll make it work.",
+      "czech": "Bez tlaku, nějak to dopadne.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662556"
+    },
+    {
+      "english": "Bold choice, I’m excited to try.",
+      "czech": "Odvážná volba, těším se na ochutnání.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662558"
+    },
+    {
+      "english": "You can do it, speak slowly, please.",
+      "czech": "Zvládneš to, mluv pomalu, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662561"
+    },
+    {
+      "english": "That’s right, I’m learning, keep it coming.",
+      "czech": "Přesně tak, učím se, pokračujte dál.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662564"
+    },
+    {
+      "english": "I love this vibe, let’s order confidently.",
+      "czech": "To je skvělá atmosféra, objednejme sebevědomě.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662567"
+    },
+    {
+      "english": "Good point, I’ll confirm before I decide.",
+      "czech": "Dobrá poznámka, potvrdím si to, než se rozhodnu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662569"
+    },
+    {
+      "english": "You’re brave, and hunger helps, right?",
+      "czech": "Jsi statečný/á, a hlad pomáhá, že?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662572"
+    },
+    {
+      "english": "I’m getting better, each order builds confidence.",
+      "czech": "Zlepšuju se, každé objednání přidá jistotu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662574"
+    },
+    {
+      "english": "Ask, listen, relax, you’ll get it.",
+      "czech": "Zeptej se, posluž, odpočiň, zvládneš to.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662577"
+    },
+    {
+      "english": "You’re the boss of your meal, enjoy.",
+      "czech": "Jsi šéf/šéfka svého jídla, užij si to.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662579"
+    },
+    {
+      "english": "This is fun, I’m doing it in Czech!",
+      "czech": "To je zábava, dělám to česky!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662582"
+    },
+    {
+      "english": "Nice choice, trust the recommendation, please.",
+      "czech": "Dobrá volba, věřte doporučení, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662586"
+    },
+    {
+      "english": "I’ll keep it positive, we’ll figure it out.",
+      "czech": "Zůstanu pozitivní, nějak to vyřešíme.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662589"
+    },
+    {
+      "english": "You’re learning fast, this conversation clicks.",
+      "czech": "Učíš se rychle, tahle konverzace sedí.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662591"
+    },
+    {
+      "english": "Go ahead, I’m ready, take your time.",
+      "czech": "Pusťte to, jsem připravený/á, v klidu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662594"
+    },
+    {
+      "english": "Tell me what you love, I’m listening.",
+      "czech": "Řekněte, co máte rád/a, poslouchám vás.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662596"
+    },
+    {
+      "english": "We’ll nail this, one clear sentence at once.",
+      "czech": "To dáme, jedna jasná věta najednou.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662599"
+    },
+    {
+      "english": "I’m feeling unsure, can you guide me?",
+      "czech": "Jsem trochu nejistý, můžete mi poradit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662601"
+    },
+    {
+      "english": "Honestly, I’m craving something warm today.",
+      "czech": "Upřímně, dnes mám chuť na něco teplého.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662604"
+    },
+    {
+      "english": "I want comfort food, not anything too heavy.",
+      "czech": "Chci něco uklidňujícího, ne zas tak těžkého.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662606"
+    },
+    {
+      "english": "I’m patient, take your time with my order.",
+      "czech": "Mám čas, v klidu mi to vezměte, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662608"
+    },
+    {
+      "english": "I’m trying to eat lighter, what’s best?",
+      "czech": "Chci jíst lehčeji, co mi doporučíte?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662611"
+    },
+    {
+      "english": "I’m not in a hurry, please explain options.",
+      "czech": "Spěchat nemusím, klidně mi vysvětlete možnosti.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662615"
+    },
+    {
+      "english": "Honestly, I’m nervous about ordering here.",
+      "czech": "Upřímně, bojím se tady objednat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662618"
+    },
+    {
+      "english": "Let me think, I’ll decide in a moment.",
+      "czech": "Nechám si to projít hlavou, hned se rozhodnu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662622"
+    },
+    {
+      "english": "I just want something simple, no surprises.",
+      "czech": "Chci jen něco jednoduchého, bez překvapení.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662624"
+    },
+    {
+      "english": "I’d love a dish with fresh flavors.",
+      "czech": "Rád bych něco s čerstvými chutěmi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662626"
+    },
+    {
+      "english": "I’m craving spice, but not too much.",
+      "czech": "Mám chuť na trochu pikantní, ale ne moc.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662631"
+    },
+    {
+      "english": "Can we slow down, I want to get it right?",
+      "czech": "Můžeme to zpomalit, chci to udělat správně?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662633"
+    },
+    {
+      "english": "I’m in a reflective mood, something calm please.",
+      "czech": "Mám dnes klidnou náladu, prosím něco jemného.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662636"
+    },
+    {
+      "english": "I’m not sure, what’s your honest favorite?",
+      "czech": "Nejsem si jistý, co je vaše upřímně nejlepší?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662638"
+    },
+    {
+      "english": "I’d like to take it easy tonight, please.",
+      "czech": "Dneska si chci dát něco lehčího, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662641"
+    },
+    {
+      "english": "I’m trying new things, surprise me a little.",
+      "czech": "Zkouším něco nového, překvapte mě trochu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662643"
+    },
+    {
+      "english": "I want something satisfying, not greasy.",
+      "czech": "Chci něco, co zasytí, ale nebude mastné.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662645"
+    },
+    {
+      "english": "I’m okay with a classic choice, maybe.",
+      "czech": "Nevadí mi i klasika, klidně.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662648"
+    },
+    {
+      "english": "I’m coming in waves, I’ll order soon.",
+      "czech": "Jdu na to postupně, hned objednám.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662650"
+    },
+    {
+      "english": "Please be straight with me, what’s best here?",
+      "czech": "Buďte ke mně upřímní, co je tu nejlepší?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662653"
+    },
+    {
+      "english": "I’m a bit overwhelmed, but I’ll do my best.",
+      "czech": "Jsem trochu zahlcený, ale dám do toho maximum.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662656"
+    },
+    {
+      "english": "I’m keeping it small, just one portion.",
+      "czech": "Dám si jen jednu porci, radši malé množství.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662658"
+    },
+    {
+      "english": "I want to feel good after eating.",
+      "czech": "Chci se po jídle cítit dobře.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662660"
+    },
+    {
+      "english": "I’m trying to save money, any good deals?",
+      "czech": "Chci ušetřit, máte nějaké výhodné nabídky?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662662"
+    },
+    {
+      "english": "I need something filling, but still fresh.",
+      "czech": "Potřebuju syté jídlo, ale ať je čerstvé.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662665"
+    },
+    {
+      "english": "I’m not rushing, I’ll wait for your suggestion.",
+      "czech": "Nespěchám, počkám na vaši doporučení.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662668"
+    },
+    {
+      "english": "I’m choosing carefully, I don’t want regrets.",
+      "czech": "Přemýšlím, nechci pozdě litovat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662670"
+    },
+    {
+      "english": "I’m calm now, I’ll order what sounds right.",
+      "czech": "Už jsem klidný, objednám to, co mi sedí.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662673"
+    },
+    {
+      "english": "If it’s possible, I’d like less salt.",
+      "czech": "Kdyby to šlo, dal by se méně soli?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662675"
+    },
+    {
+      "english": "I’m grateful, thank you for your patience.",
+      "czech": "Děkuju, vážím si vaší trpělivosti.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662678"
+    },
+    {
+      "english": "I’ll have the lunch special, please.",
+      "czech": "Dám si denní menu, prosím.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662680"
+    },
+    {
+      "english": "What’s the spiciness level, mild or hot?",
+      "czech": "Jak je to pálivé, jemné nebo hodně?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662683"
+    },
+    {
+      "english": "Do you have a vegetarian option here?",
+      "czech": "Máte tady něco vegetariánského?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-10T08:06:39.662685"
     }
   ],
-  "last_updated": "2026-11-09T07:45:05.333280"
+  "last_updated": "2026-11-10T08:06:39.662686"
 }
