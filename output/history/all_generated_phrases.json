@@ -17999,7 +17999,727 @@
       "czech": "Máte tady něco vegetariánského?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-10T08:06:39.662685"
+    },
+    {
+      "english": "Breathe first, then answer calmly, okay?",
+      "czech": "Nejdřív se nadechni, pak odpověz klidně, jo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664177"
+    },
+    {
+      "english": "Pause a second, my mind is noisy.",
+      "czech": "Chvilku se zastav, v hlavě mi hučí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664192"
+    },
+    {
+      "english": "It’s fine, we’ll handle it step by step.",
+      "czech": "To je v pohodě, zvládneme to krok za krokem.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664196"
+    },
+    {
+      "english": "I’m letting this go, no drama.",
+      "czech": "Pustím to z hlavy, bez dramatu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664199"
+    },
+    {
+      "english": "Slow down, you’re rushing too much.",
+      "czech": "Zpomal, moc to ženeš.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664202"
+    },
+    {
+      "english": "Not today, I choose peace instead.",
+      "czech": "Ne dnes, volím radši klid.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664204"
+    },
+    {
+      "english": "Tell me later, I need calm first.",
+      "czech": "Řekni mi to později, potřebuji klid.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664206"
+    },
+    {
+      "english": "Hold on, I’m resetting my thoughts.",
+      "czech": "Počkej, resetuju si hlavu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664211"
+    },
+    {
+      "english": "I get it, but let’s breathe.",
+      "czech": "Chápu to, ale pojď dýchat.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664215"
+    },
+    {
+      "english": "Whatever happens, I stay steady.",
+      "czech": "Ať se děje cokoliv, zůstanu v klidu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664217"
+    },
+    {
+      "english": "Give me a moment, please.",
+      "czech": "Dáš mi chvilku, prosím?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664220"
+    },
+    {
+      "english": "That’s enough, I’m stepping back now.",
+      "czech": "Už dost, teď ustupuju.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664223"
+    },
+    {
+      "english": "I’m not overreacting, I’m protecting myself.",
+      "czech": "Nepřeháním, chráním si hranice.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664225"
+    },
+    {
+      "english": "Let it be, the day will move on.",
+      "czech": "Nech to být, den se posune.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664227"
+    },
+    {
+      "english": "I hear you, I just need space.",
+      "czech": "Rozumím, jen potřebuji prostor.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664230"
+    },
+    {
+      "english": "I’ll respond later, it’s better that way.",
+      "czech": "Odpovím později, tak je to lepší.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664234"
+    },
+    {
+      "english": "Okay, I’m switching to calm mode.",
+      "czech": "Dobře, přepínám na klidový režim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664237"
+    },
+    {
+      "english": "I’ll focus on this, not on noise.",
+      "czech": "Zaměřím se na tohle, ne na hluk.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664239"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "czech": "Bez obav, nějak to dáme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664242"
+    },
+    {
+      "english": "Right now, I choose kindness to me.",
+      "czech": "Teď volím k sobě laskavost.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664246"
+    },
+    {
+      "english": "Let’s reset, start again from zero.",
+      "czech": "Resetujme to, začneme od nuly.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664248"
+    },
+    {
+      "english": "I’m fine, thanks for checking in.",
+      "czech": "Mám se fajn, díky, že se ptáš.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664250"
+    },
+    {
+      "english": "I’m listening, but gently, no pressure.",
+      "czech": "Slyším tě, ale jemně, bez tlaku.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664253"
+    },
+    {
+      "english": "Stay present, don’t chase every thought.",
+      "czech": "Buď tady, nehoníš každou myšlenku.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664255"
+    },
+    {
+      "english": "I can handle this, one step at a time.",
+      "czech": "Zvládnu to, po jednom kroku.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664258"
+    },
+    {
+      "english": "Please, speak slower, I’m getting overwhelmed.",
+      "czech": "Prosím, mluv pomaleji, přetěžuju se.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664260"
+    },
+    {
+      "english": "I won’t fight it, I’ll breathe through.",
+      "czech": "Nebudu se prát, projdu to s nádechem.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664263"
+    },
+    {
+      "english": "When it gets loud, I ground myself.",
+      "czech": "Když je to moc, vrátím se k zemi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664265"
+    },
+    {
+      "english": "Thanks, that helps, I feel calmer now.",
+      "czech": "Díky, to mi pomohlo, teď je mi líp.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664268"
+    },
+    {
+      "english": "Let’s stop, I need a quiet reset.",
+      "czech": "Zastavme to, potřebuji tichý reset.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664270"
+    },
+    {
+      "english": "Can you help me calm my head, please?",
+      "czech": "Můžeš mi pomoct uklidnit hlavu, prosím?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664274"
+    },
+    {
+      "english": "What should I do first, when I panic?",
+      "czech": "Co mám dělat jako první, když panikařím?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664277"
+    },
+    {
+      "english": "Is it okay to take a short break?",
+      "czech": "Je v pořádku si dát krátkou pauzu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664279"
+    },
+    {
+      "english": "How do you stay calm in stressful talks?",
+      "czech": "Jak ty zůstáváš v klidu ve stresových rozhovorech?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664281"
+    },
+    {
+      "english": "Could you ask me one thing at a time?",
+      "czech": "Můžeš se mě doptat jen na jednu věc?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664283"
+    },
+    {
+      "english": "Do you have a tip for quieting thoughts?",
+      "czech": "Máš nějaký tip na zklidnění myšlenek?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664285"
+    },
+    {
+      "english": "What’s your go-to question for inner peace?",
+      "czech": "Jakou otázku si dáváš pro vnitřní klid?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664288"
+    },
+    {
+      "english": "Can I tell you something, without stress?",
+      "czech": "Můžu ti něco říct, bez stresu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664290"
+    },
+    {
+      "english": "Do you mind if I ask for advice?",
+      "czech": "Nevadí ti, když požádám o radu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664292"
+    },
+    {
+      "english": "Which is better, silence or gentle talk?",
+      "czech": "Co je lepší, ticho, nebo jemný rozhovor?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664294"
+    },
+    {
+      "english": "How do I respond, without sounding tense?",
+      "czech": "Jak mám odpovědět, abych zněl klidně?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664297"
+    },
+    {
+      "english": "Can we slow down, just for one minute?",
+      "czech": "Můžeme zpomalit, jen na jednu minutu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664301"
+    },
+    {
+      "english": "What if my feelings are loud, huh?",
+      "czech": "Co když jsou moje pocity hlasité, že?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664303"
+    },
+    {
+      "english": "Should I set a boundary, right now?",
+      "czech": "Mám si hned nastavit hranice?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664305"
+    },
+    {
+      "english": "Can you repeat that, slower, please?",
+      "czech": "Můžeš to zopakovat, pomaleji, prosím?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664307"
+    },
+    {
+      "english": "Do you want the short version or details?",
+      "czech": "Chceš krátkou verzi, nebo detaily?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664309"
+    },
+    {
+      "english": "How do you handle interruptions peacefully?",
+      "czech": "Jak zvládáš vyrušování v klidu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664312"
+    },
+    {
+      "english": "What’s the kindest thing I can say?",
+      "czech": "Co je nejhezčí, co můžu říct?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664314"
+    },
+    {
+      "english": "Can we talk, but with no pressure?",
+      "czech": "Můžeme si promluvit, ale bez tlaku?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664316"
+    },
+    {
+      "english": "Do you think I should take space?",
+      "czech": "Myslíš, že bych si měla vzít prostor?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664318"
+    },
+    {
+      "english": "What helps you, when your brain spirals?",
+      "czech": "Co ti pomáhá, když ti mozek šrotuje?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664320"
+    },
+    {
+      "english": "Can I ask, what’s really bothering you?",
+      "czech": "Můžu se zeptat, co tě opravdu trápí?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664323"
+    },
+    {
+      "english": "How can we fix this, gently together?",
+      "czech": "Jak to spravit, spolu, jemně?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664325"
+    },
+    {
+      "english": "Is there a phrase I can use?",
+      "czech": "Existuje věta, kterou můžu použít?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664326"
+    },
+    {
+      "english": "Can I be honest, I’m feeling overwhelmed?",
+      "czech": "Můžu být upřímný, jsem přetížený?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664329"
+    },
+    {
+      "english": "What’s your plan for today, peace-wise?",
+      "czech": "Jaký máš plán na dnes, v klidu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664331"
+    },
+    {
+      "english": "Do you want feedback, or just listening?",
+      "czech": "Chceš zpětnou vazbu, nebo jen poslouchat?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664333"
+    },
+    {
+      "english": "Should I ask one question, then pause?",
+      "czech": "Mám se zeptat jednu věc, a pak se zastavit?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664335"
+    },
+    {
+      "english": "How do you keep your tone soft, though?",
+      "czech": "Jak udržíš jemný tón, i když je to těžké?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664337"
+    },
+    {
+      "english": "Can we check in, before this gets messy?",
+      "czech": "Můžeme se krátce zkontrolovat, než to zhoustne?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664339"
+    },
+    {
+      "english": "Take it easy, nothing is urgent right now",
+      "czech": "Udělej si klid, nic teď není akutní",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664356"
+    },
+    {
+      "english": "Let it pass, like weather outside",
+      "czech": "Nech to odejít, jako počasí venku",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664360"
+    },
+    {
+      "english": "Breathe, do the next thing, that's all",
+      "czech": "Nadechni se, udělej další krok, jen tak",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664365"
+    },
+    {
+      "english": "Keep your tempo, you don’t have to hurry",
+      "czech": "Drž si tempo, nemusíš nikam spěchat",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664369"
+    },
+    {
+      "english": "Chill out, answer later when calmer",
+      "czech": "V klidu odpověz, později, až budeš v pohodě",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664372"
+    },
+    {
+      "english": "Don’t wrestle it, just release a bit",
+      "czech": "Nemačkej to, jen to trochu pusť",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664375"
+    },
+    {
+      "english": "Go slow, my mind will follow",
+      "czech": "Pomalu, hlava mě pak dožene",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664380"
+    },
+    {
+      "english": "Soft answers, no need to prove anything",
+      "czech": "Mluv mírně, nemusíš nic dokazovat",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664382"
+    },
+    {
+      "english": "It’s okay, even this will pass",
+      "czech": "To nevadí, i tohle přejde",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664385"
+    },
+    {
+      "english": "Nothing breaks, when you stay kind inside",
+      "czech": "Nic se nezlomí, když zůstaneš laskavý uvnitř",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664387"
+    },
+    {
+      "english": "You can’t pour from an empty cup",
+      "czech": "Z prázdné se nenalévá, napřed doplň sebe",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664389"
+    },
+    {
+      "english": "Keep it simple, peace likes simple",
+      "czech": "Drž to jednoduché, klid chce jednoduchost",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664391"
+    },
+    {
+      "english": "Focus on what you can steer today",
+      "czech": "Drž se toho, co dnes ovládáš",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664393"
+    },
+    {
+      "english": "Let the rest wait, not everything needs now",
+      "czech": "Zbytek počká, ne všechno chce hned teď",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664396"
+    },
+    {
+      "english": "Small calm beats big panic, every time",
+      "czech": "Malý klid porazí velký stres vždycky",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664398"
+    },
+    {
+      "english": "Don’t take it personally, it’s not your job",
+      "czech": "Neber to osobně, není to tvá práce",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664400"
+    },
+    {
+      "english": "Even a quiet day counts, don’t worry",
+      "czech": "I klidný den se počítá, neboj",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664403"
+    },
+    {
+      "english": "Step back, let space do its work",
+      "czech": "Udělej krok zpátky, ať udělá prostor",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664405"
+    },
+    {
+      "english": "Your pace is valid, no need to rush",
+      "czech": "Tvůj tempo je v pořádku, nemusíš spěchat",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664407"
+    },
+    {
+      "english": "Don’t feed thoughts, water your breath",
+      "czech": "Nekrm myšlenky, zavlaž svůj dech",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664411"
+    },
+    {
+      "english": "Keep your head cool, even when others heat up",
+      "czech": "Měj hlavu v chladu, i když druzí hřejí",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664413"
+    },
+    {
+      "english": "Let it be, the world won’t end",
+      "czech": "Nech to být, svět se nezhroutí",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664416"
+    },
+    {
+      "english": "Say less, listen more, you’ll settle",
+      "czech": "Řekni míň, poslouchej víc, uklidníš se",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664418"
+    },
+    {
+      "english": "Keep the door open, don’t lock your heart",
+      "czech": "Měj otevřené dveře, nezavírej srdce",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664420"
+    },
+    {
+      "english": "Take the scenic route, peace prefers it",
+      "czech": "Jdi klidnější cestou, tak se dýchá líp",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664422"
+    },
+    {
+      "english": "When doubt shows up, choose quiet actions",
+      "czech": "Když přijde pochybnost, zvol klidné kroky",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664425"
+    },
+    {
+      "english": "Don’t overthink, just be steady",
+      "czech": "Nepřemýšlej pořád, buď trpělivý",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664427"
+    },
+    {
+      "english": "Let it go, keep your inner balance",
+      "czech": "Pusť to, udrž si vnitřní rovnováhu",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664429"
+    },
+    {
+      "english": "You’re allowed to slow down and soften",
+      "czech": "Máš právo zpomalit, změkčit svůj přístup",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664432"
+    },
+    {
+      "english": "Peace is built quietly, one choice at once",
+      "czech": "Klid se staví potichu, krok po kroku",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664434"
+    },
+    {
+      "english": "I notice my body first, not the noise.",
+      "czech": "Nejdřív vnímám své tělo, ne ten hluk.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664437"
+    },
+    {
+      "english": "Some days I’m tired, and that’s enough.",
+      "czech": "Někdy jsem prostě unavená, a stačí to.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664439"
+    },
+    {
+      "english": "I’m choosing patience, even when it’s hard.",
+      "czech": "Volím trpělivost, i když je to těžké.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664508"
+    },
+    {
+      "english": "Right now, I can be kind to me.",
+      "czech": "Teď můžu být ke mně laskavý.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664512"
+    },
+    {
+      "english": "I don’t need certainty, I need steadiness.",
+      "czech": "Nepotřebuju jistotu, potřebuju klid.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664515"
+    },
+    {
+      "english": "Let me feel it, then I’ll respond.",
+      "czech": "Nechám to doznít, pak zareaguju.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664517"
+    },
+    {
+      "english": "My thoughts can talk, I won’t obey them.",
+      "czech": "Moje myšlenky můžou mluvit, já neposlechnu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664520"
+    },
+    {
+      "english": "I’m allowed to pause, even mid-task.",
+      "czech": "Můžu se zastavit, i když pracuju.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664522"
+    },
+    {
+      "english": "I’m learning, not failing, when I slow down.",
+      "czech": "Učím se, ne selhávám, když zpomalím.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664525"
+    },
+    {
+      "english": "I can say no, without guilt.",
+      "czech": "Umím říct ne, bez výčitek.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664527"
+    },
+    {
+      "english": "I trust the quiet, it guides me.",
+      "czech": "Věřím tichu, vede mě to.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664530"
+    },
+    {
+      "english": "This feeling is real, and it’s temporary.",
+      "czech": "Ten pocit je opravdový, a přesto pomíjí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664532"
+    },
+    {
+      "english": "I’ll be honest, I need a gentler day.",
+      "czech": "Budu upřímný, dnes potřebuju jemnější den.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664534"
+    },
+    {
+      "english": "I don’t chase answers, I calm first.",
+      "czech": "Neběhám za odpověďmi, nejdřív zklidním.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664537"
+    },
+    {
+      "english": "When I soften, everything gets clearer.",
+      "czech": "Když povolím, všechno je jasnější.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664539"
+    },
+    {
+      "english": "I can handle one small step today.",
+      "czech": "Dnes zvládnu jen jeden malý krok.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664541"
+    },
+    {
+      "english": "My boundaries protect my peace, not my pride.",
+      "czech": "Moje hranice chrání můj klid, ne ego.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664543"
+    },
+    {
+      "english": "I choose calm words, even if I’m shaken.",
+      "czech": "Volím klidná slova, i když jsem rozházený.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664546"
+    },
+    {
+      "english": "I can feel hurt, and still stay respectful.",
+      "czech": "Můžu cítit bolest, a přesto být slušný.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664550"
+    },
+    {
+      "english": "I don’t have to fix everything at once.",
+      "czech": "Nemusím opravit všechno najednou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664553"
+    },
+    {
+      "english": "I’m listening for my inner yes, softly.",
+      "czech": "Poslouchám své vnitřní ano, potichu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664555"
+    },
+    {
+      "english": "Some emotions are visitors, not owners.",
+      "czech": "Některé emoce jsou hosté, ne šéfové.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664558"
+    },
+    {
+      "english": "I’ll restart, even if I feel behind.",
+      "czech": "Začnu znovu, i když se cítím pozadu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664560"
+    },
+    {
+      "english": "I can be curious, not judgmental, right now.",
+      "czech": "Teď můžu být zvědavý, ne soudící.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664563"
+    },
+    {
+      "english": "I take space, so my mind can settle.",
+      "czech": "Dám si prostor, a myšlenky se srovnají.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664565"
+    },
+    {
+      "english": "I’m not stuck, I’m just recharging.",
+      "czech": "Nejsem uvízlý, jen se dobíjím.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664567"
+    },
+    {
+      "english": "I let silence do the heavy lifting.",
+      "czech": "Nechám ticho, ať to vezme na sebe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664569"
+    },
+    {
+      "english": "I can forgive myself, and move on.",
+      "czech": "Můžu se odpustit, a jít dál.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664571"
+    },
+    {
+      "english": "My peace grows when I tell the truth.",
+      "czech": "Můj klid roste, když mluvím pravdu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664573"
+    },
+    {
+      "english": "I’ll stay present, even during hard moments.",
+      "czech": "Zůstanu v přítomnosti, i když je to těžké.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-11T07:36:24.664576"
     }
   ],
-  "last_updated": "2026-11-10T08:06:39.662686"
+  "last_updated": "2026-11-11T07:36:24.664577"
 }
