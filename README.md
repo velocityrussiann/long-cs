@@ -1,6 +1,6 @@
 # Velocity Czech
 
-**56 Czech phrases in a ~10-minute lesson - a brand-new video every day.**
+**Up to 56 Czech phrases in a ~10-minute lesson - a brand-new video every day.**
 
 Velocity Czech is a daily Czech lesson for English speakers. Every episode is built from
 scratch: fresh topics, fresh phrases, natural Čeština audio and an English pronunciation
@@ -8,7 +8,7 @@ guide for every line. Watch, repeat out loud, and grow your Czech one chapter at
 
 ## What is inside every lesson
 
-- **56 real-life phrases** across **8 themed chapters**
+- **Up to 56 real-life phrases** across **8 themed chapters**, trimmed to fit the clock
 - **Native audio** for every Czech line
 - **English pronunciation** with stressed syllables in CAPITALS
 - A **new topic mix every day** - no repeated phrase lists
