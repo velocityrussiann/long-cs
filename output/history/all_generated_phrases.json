@@ -21071,7 +21071,399 @@
       "transliteration": "Kde je nejbliŽŠÍ zAstávka autoBUSU?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-18T10:18:31.549496"
+    },
+    {
+      "english": "What soups do you recommend today?",
+      "czech": "Jaké polévky dnes doporučujete?",
+      "transliteration": "YAKE pol-EV-ky dnes do-poRU-chu-ye-te",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Is this dish gluten-free?",
+      "czech": "Je tohle jídlo bez lepku?",
+      "transliteration": "JE TO-hle YID-lo bez LEP-ku",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I have a nut allergy, sorry.",
+      "czech": "Mám alergii na ořechy, promiňte.",
+      "transliteration": "MAM a-ler-GI-i na O-re-chy, pro-MIN-te",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Could we split a main course?",
+      "czech": "Můžeme si rozdělit hlavní jídlo?",
+      "transliteration": "MO-zhME si roz-DE-lit HLAV-ni YID-lo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Can I get that sauce on the side?",
+      "czech": "Můžu mít tu omáčku bokem?",
+      "transliteration": "MO-zhU MIT tu O-mAChku BO-kem",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Is it spicy, like mild or hot?",
+      "czech": "Je to pálivé, spíš mírné, nebo pálí hodně?",
+      "transliteration": "JE to PA-li-ve, spis MIErN-e, ne-bo PA-lí HOD-ně",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I’d like water, still please.",
+      "czech": "Dám si vodu, prosím, neperlivou.",
+      "transliteration": "DAAM si VO-du, pro-SIM, ne-PER-li-vou",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I breathe, and my shoulders drop.",
+      "czech": "Dýýchám a povolují mi ramena.",
+      "transliteration": "Dy chám a pvoolují mi ramena.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I choose slow, steady, and kind.",
+      "czech": "Volím pomalu, jistě a s laskavostí.",
+      "transliteration": "Volím pomalu, jistě a s laskavostí.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I pause to check in with me.",
+      "czech": "Udělám pauzu, abych se zkontrolovala.",
+      "transliteration": "Udelám pauzu, abych se zkontrolovala.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "My pace is allowed to be mine.",
+      "czech": "Můj tempo může být prostě moje.",
+      "transliteration": "Můj tempo může být prostě moje.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I relax my jaw right now.",
+      "czech": "Uvolním si hned teď čelist.",
+      "transliteration": "Uvolním si hned teď čelist.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I let worries pass like clouds.",
+      "czech": "Nechám starosti odplout jako mraky.",
+      "transliteration": "Nechám starosti odplout jako mraky.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I stop arguing with the moment.",
+      "czech": "Přestanu se přít s tím, co je teď.",
+      "transliteration": "Přestanu se přít s tím, co je teď.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I feel tense when the phone rings.",
+      "czech": "Cítím napětí, když zazvoní telefon.",
+      "transliteration": "Tsitim NAPĚtí, když zaZvoní TELeFON.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I’m happy, just for no reason.",
+      "czech": "Mám radost, i bez důvodu.",
+      "transliteration": "MÁM raDOST, i BEZ DUvoDU.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "That compliment made me blush.",
+      "czech": "Ten kompliment mě rozčervenal.",
+      "transliteration": "TEN KOMpliment mě rozTSeRvenal.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I feel lonely even in a crowd.",
+      "czech": "Je mi samotnému i mezi lidmi.",
+      "transliteration": "JE mi SAmoTnému i MEzi LIDmi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I’m grateful you’re here with me.",
+      "czech": "Jsem vděčný, že tu se mnou jsi.",
+      "transliteration": "JSEM VDĚČNÝ, že TU se MNOu Jsi.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I’m nervous about tonight’s plan.",
+      "czech": "Mám strach z toho, jak to dnes večer dopadne.",
+      "transliteration": "MÁM STRACH z TOHO, jak to DNES veČER doPAdne.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I feel irritated by slow Wi-Fi.",
+      "czech": "Štve mě pomalé Wi-Fi.",
+      "transliteration": "Štve mě POMalé wi-FI.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I breathe, then I speak clearly.",
+      "czech": "Nadechnu se, a pak mluvím jasně.",
+      "transliteration": "Nadechnu se, a pak MluVím jasně.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I can handle awkward moments.",
+      "czech": "Zvládnu i trapné chvilky.",
+      "transliteration": "Zvládnu i TRapné CHvilky.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I set my own pace today.",
+      "czech": "Dnes si určuji svůj vlastní rytmus.",
+      "transliteration": "Dnes si URčuji svůj VLASTní rytmus.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "My voice matters, even softly.",
+      "czech": "Můj hlas má význam, i když je tichý.",
+      "transliteration": "Můj HLAS má VÝznam, i Když je tichý.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I make eye contact, calmly.",
+      "czech": "Dělám oční kontakt, klidně.",
+      "transliteration": "DěLÁM oční KONtakt, KliDNĚ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I belong here, right now.",
+      "czech": "Patřím sem, právě teď.",
+      "transliteration": "PaTŘÍm sem, PRÁvě TEĎ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I ask one good question.",
+      "czech": "Položím jednu dobrou otázku.",
+      "transliteration": "PoLOŽím JEDnu doBRou oTÁzku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "You listen like it matters.",
+      "czech": "Ty posloucháš, jako by to mělo váhu.",
+      "transliteration": "ty posloucháš, jako by to mělo váhu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "We laugh, and it heals.",
+      "czech": "Spolu se smějeme, a je nám líp.",
+      "transliteration": "spolu se smějeme, a je nám líp.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Thanks for keeping my secrets.",
+      "czech": "Díky, že držíš moje tajemství.",
+      "transliteration": "díky, že držíš moje tajemství.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "You tell me the truth gently.",
+      "czech": "Říkáš mi pravdu jemně, ale na rovinu.",
+      "transliteration": "říkáš mi pravdu jemně, ale na rovinu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "I feel safe with you.",
+      "czech": "S tebou se cítím v bezpečí.",
+      "transliteration": "s tebou se cítím v bezpečí.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "When life gets loud, you calm me.",
+      "czech": "Když je toho moc, uklidníš mě.",
+      "transliteration": "když je toho moc, uklidníš mě.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Let’s check in, no big deal.",
+      "czech": "Pojďme se jen tak ozvat, bez tlaku.",
+      "transliteration": "pojďme se jen tak ozvat, bez tlaku.",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Feel your hands resting, no effort.",
+      "czech": "Cítím ruce, jen tak odpočívají.",
+      "transliteration": "Citím ruce, jen TAK odpočívaJÍ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Notice sounds near you, like now.",
+      "czech": "Všímej si zvuků kolem, právě teď.",
+      "transliteration": "VŠÍmej si ZVUků KOLO, PRAvě teď.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Relax your jaw, unclench gently.",
+      "czech": "Uvolni čelist, jemně ji povol.",
+      "transliteration": "Uvolni čeLIST, JE Mně ji POvol.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Look at one object slowly, really.",
+      "czech": "Vyber si jeden předmět a dívej se pomalu.",
+      "transliteration": "Vyber si JEden PŘEDmět a DÍvej se POmaLU.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Warm your face with one breath.",
+      "czech": "Zahřej si tvář jedním pomalým nádechem.",
+      "transliteration": "ZAHrej si TVÁŘ JEdním poMALým NÁdechem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Name one feeling in your body.",
+      "czech": "Pojmenuj jeden pocit ve svém těle.",
+      "transliteration": "POJmenuj JEden POcit ve svém TĚle.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Let your eyes soften, just a moment.",
+      "czech": "Nech oči povolit, jen na chvíli.",
+      "transliteration": "NEch oči povOLIT, JEN na CHVÍli.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Do you have almond croissants?",
+      "czech": "Máte prosím mandlové croissanty?",
+      "transliteration": "Máte PROSÍM mandlové kROASANTy?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Can I get a latte, please?",
+      "czech": "Můžu si dát prosím latté?",
+      "transliteration": "Můžu si dát PROSÍM lat-té?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Is the cheesecake homemade today?",
+      "czech": "Je ten dnešní tvarohový dort domácí?",
+      "transliteration": "Je TEN dnešní VAR-ho-vý dorť do-MÁ-cí?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Do you have decaf coffee?",
+      "czech": "Máte prosím kávu bez kofeinu?",
+      "transliteration": "Máte PROSÍM ká-vu bez KO-fe-i-nu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "What’s fresh from the oven right now?",
+      "czech": "Co je teď čerstvé z pece?",
+      "transliteration": "CO je TEĎ ČERSTVÉ z PÉ-ce?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Do you offer hot chocolate?",
+      "czech": "Dáváte horkou čokoládu?",
+      "transliteration": "DÁVÁ-te HOR-kou čoko-LÁ-du?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "How much is a slice of strudel?",
+      "czech": "Kolik stojí kousek štrúdlu?",
+      "transliteration": "KO-lik STO-jí KOU-sek ŠTRÚD-lu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Track habits for just one week",
+      "czech": "Sleduj své návyky jen jeden týden.",
+      "transliteration": "SLEDUJ sve naVYky jen jeDEN TYden.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Choose progress, not perfect plans",
+      "czech": "Vyber si pokrok, ne dokonalé plány.",
+      "transliteration": "VYber si poKROK, ne doKO nalé PLÁNY.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Say what you want, out loud",
+      "czech": "Řekni nahlas, co opravdu chceš.",
+      "transliteration": "ŘEKni NA hlas, co OPRAVdu CHCEŠ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Turn your journal into a habit",
+      "czech": "Udělej si z deníku zvyk, piš pár vět.",
+      "transliteration": "UďEJ si z deNÍku ZVYK, PIŠ pár VĚT.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Do one uncomfortable task today",
+      "czech": "Udělaj dnes jednu nepohodlnou věc.",
+      "transliteration": "UděLÁJ dnes JEdnou nePOHOdlnou VĚC.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Ask, what would I do next?",
+      "czech": "Zeptej se, co udělám teď jako další.",
+      "transliteration": "ZEPtej se, CO uDĚLÁM teď jaKO dalŠÍ.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
+    },
+    {
+      "english": "Make your desk messy, not your mind",
+      "czech": "Uklidni stůl, ať máš v hlavě klid.",
+      "transliteration": "U KLIĎ stůl, ať MÁŠ v HLAVĚ klid.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-19T10:32:59.457398"
     }
   ],
-  "last_updated": "2026-11-18T10:18:31.549496"
+  "last_updated": "2026-11-19T10:32:59.457398"
 }
