@@ -22247,7 +22247,399 @@
       "transliteration": "Řekni mi to JMéno poTIchu, MIluju to.",
       "category": "Love",
       "generated_at": "2026-11-21T09:56:14.237803"
+    },
+    {
+      "english": "I need a quieter treadmill time",
+      "czech": "Potřebuji klidnější čas na běžeckém pásu.",
+      "transliteration": "Potřebuju klidnějŠÍ čas na BĚŽECKÉM pásu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Can you recommend a good coach?",
+      "czech": "Doporučíte mi dobrého trenéra?",
+      "transliteration": "Doporučíte mi DObrého TREnéra?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Where are the lockers for gym?",
+      "czech": "Kde jsou v šatně skříňky na věci?",
+      "transliteration": "Kde jsou v ŠATně SKŘÍŇKY na VĚCI?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I feel dizzy, can we pause?",
+      "czech": "Je mi trochu na omdlení, můžeme na chvíli přestat?",
+      "transliteration": "Je mi troCHU na OMdlení, MŮžeme na chvíli PŘEstat?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "What muscles do squats work?",
+      "czech": "Na jaké svaly působí dřepy?",
+      "transliteration": "Na jaKÉ SVALY působí DŘEpy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "How do I pace my cardio?",
+      "czech": "Jak mám správně rozložit tempo při kardiu?",
+      "transliteration": "Jak mám správně rozloŽIT TEMpo při KARdiu?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Is there a sauna after workout?",
+      "czech": "Je po tréninku v ceně sauna?",
+      "transliteration": "Je po TRÉNinku v CENĚ SAUNA?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I need to deposit cash, please.",
+      "czech": "Potřebuju vložit hotovost, prosím.",
+      "transliteration": "PotRĚbuju vloZIT HOTOvost, proSÍm.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Can you help me set up mobile banking?",
+      "czech": "Můžete mi pomoct nastavit mobilní bankovnictví?",
+      "transliteration": "MŮžete mi POmoc nasTAVit MObilní BANkovnictví?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Why is my account balance different?",
+      "czech": "Proč se mi liší zůstatek na účtu?",
+      "transliteration": "PROč se mi LIší ZŮstatek na Účtu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I’d like to open a savings account.",
+      "czech": "Chtěl bych si otevřít spořicí účet.",
+      "transliteration": "CHTěl bych si OTEvřít SPOŘicí ÚčET.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Can I get cash from my card today?",
+      "czech": "Můžu si dnes vybrat hotovost kartou?",
+      "transliteration": "MŮžu si DNES vyBRAT HOTOvost KARtou?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "My PIN doesn’t work, please reset it.",
+      "czech": "Můj PIN nefunguje, prosím resetujte ho.",
+      "transliteration": "MŮj PIN NEfunguje, proSÍm reSĚtuJte ho.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I want to transfer money to a phone number.",
+      "czech": "Chci poslat peníze na telefonní číslo.",
+      "transliteration": "CHCI poslat PENÍze na TELEfONní ČÍslo.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I can start again today",
+      "czech": "Můžu začít znovu i dnes",
+      "transliteration": "MŮŽU ZAČÍT ZNOVU i DNES",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Move your body, lift your mood",
+      "czech": "Hýbej se, zvedneš si náladu",
+      "transliteration": "HÝBEJ se, ZVEDNEŠ si NÁLADU",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Softer words make harder feelings ease",
+      "czech": "Měkčí slova uleví i těžkým pocitům",
+      "transliteration": "MĚKČÍ slova ULEVÍ i TĚŽKÝM PO CITU M",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Let sunlight into your thoughts",
+      "czech": "Pusť do myšlenek sluneční světlo",
+      "transliteration": "PUSŤ do MYŠLENEK SLUNEČNÍ S VĚTLO",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Say yes to rest guilt-free",
+      "czech": "Řekni ano odpočinku bez výčitek",
+      "transliteration": "ŘEKNI ano ODPOČINKU bez VÝČITEK",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Notice one good thing each hour",
+      "czech": "Všímej si jedné dobré věci každou hodinu",
+      "transliteration": "VŠÍMEJ si JEDNÉ dobré VĚCI KAŽDOU hodINU",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Small courage counts, right now",
+      "czech": "Malá odvaha se počítá, právě teď",
+      "transliteration": "MALÁ odvaha se POČÍTÁ, PRÁVĚ TEĎ",
+      "category": "Positive Life",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Can I see other brands too?",
+      "czech": "Můžu se podívat i na jiné značky?",
+      "transliteration": "Muzu se PODIVAT i na jine ZNACKY?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "What is the total cost today?",
+      "czech": "Kolik to dnes vyjde celkem?",
+      "transliteration": "KOLIK to dnes vyjde CE L KEM?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "How much cheaper if I buy two?",
+      "czech": "O kolik to vyjde levněji, když vezmu dva?",
+      "transliteration": "O KOLIK to vyjde LEVNEJI, KDYZ vezmu DVA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Do you have a box with it?",
+      "czech": "Má to i krabici, prosím?",
+      "transliteration": "MA to i KRABICI, proSIM?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Is it worth paying for this version?",
+      "czech": "Stojí to za tuhle dražší verzi?",
+      "transliteration": "STOJI to za tuhle DRAZSI verzi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Can I return it if it doesn’t work?",
+      "czech": "Můžu to vrátit, když to nebude fungovat?",
+      "transliteration": "MUzu to VRATIT, kdyz to NEBUDE fungovat?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Are there any coupons online for this?",
+      "czech": "Existují na to nějaké slevové kupóny online?",
+      "transliteration": "EXISTUJI na TO nejake SLEVO VE ku PONY online?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Thank you for making space to listen.",
+      "czech": "Děkuju, že dáváš prostor poslouchat.",
+      "transliteration": "Děkuju, že dáváš PROSTOR poslouchat.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I’m grateful for your follow-through.",
+      "czech": "Jsem vděčný za to, že věci dotahuješ.",
+      "transliteration": "Jsem VĎEČNÝ za to, že věci DOTAHUJEŠ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Your help saved me time today.",
+      "czech": "Díky tvé pomoci jsem dnes ušetřil čas.",
+      "transliteration": "Díky TVÉ pomoci jsem dnes UŠETŘIL čas.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I appreciate how you handled that calmly.",
+      "czech": "Oceňuju, jak klidně sis s tím poradil.",
+      "transliteration": "Oceňuju, jak KLIDNĚ sis s tím PORADIL.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Thanks for checking in at the right moment.",
+      "czech": "Díky, že ses ozval ve správný čas.",
+      "transliteration": "Díky, že ses OZVAL ve SPRÁVNÝ čas.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I’m thankful you noticed what I needed.",
+      "czech": "Jsem vděčný, že jsi poznal, co potřebuju.",
+      "transliteration": "Jsem VĎEČNÝ, že jsi POZNAL, co potřebuju.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I needed that reassurance, thank you.",
+      "czech": "Tohle ujištění jsem potřeboval, děkuju.",
+      "transliteration": "Tohle UJIŠTĚNÍ jsem potřeboval, DĚKUJU.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I agree, and I mean it.",
+      "czech": "Souhlasím, a myslím to vážně.",
+      "transliteration": "Souhlasím, a MUSLÍM to vážně.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "That matches how I see it.",
+      "czech": "To sedí přesně s tím, jak to vidím.",
+      "transliteration": "To SEDÍ přesně s tím, jak to VIDÍM.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Yes, that’s fair and balanced.",
+      "czech": "Jo, to je fér a vyvážené.",
+      "transliteration": "Jo, to je FÉR a vyVÁŽENÉ.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I’m with you on this one.",
+      "czech": "Jsem na stejné vlně s tebou.",
+      "transliteration": "Jsem na stejNÉ vlně s teBOU.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Exactly, that’s the point.",
+      "czech": "Přesně tak, to je ten důvod.",
+      "transliteration": "PŘESně tak, to je ten DŮVOD.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I think we should go for it.",
+      "czech": "Myslím, že bychom do toho měli jít.",
+      "transliteration": "MYSlím, že bychom do TOHO měli JÍT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I disagree, respectfully, but I can’t.",
+      "czech": "Nesouhlasím, s respektem, ale ne.",
+      "transliteration": "NESouhlasím, s RESPEKTEm, ale NE.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Looks like a storm might hit.",
+      "czech": "Vypadá to, že by mohla přijít bouřka.",
+      "transliteration": "Vypadá to, že by MOHLA přijít bouřka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I swear the pressure feels weird.",
+      "czech": "Mám pocit, že na mě tlačí tlak vzduchu.",
+      "transliteration": "MÁM pocit, že na mě tlačí TLAK vzduchu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Do you hear that thunder too?",
+      "czech": "Slyšíš taky ten hrom?",
+      "transliteration": "SLYŠÍŠ taky ten HROM?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "My mood matches this gloomy sky.",
+      "czech": "Moje nálada ladí s tou šedou oblohou.",
+      "transliteration": "MOJE nálada LADÍ s tou šedou oblohou.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "It s oddly nice for walking.",
+      "czech": "Je to zvláštně fajn na procházku.",
+      "transliteration": "Je to ZVLÁŠTNĚ fajn na PROCHÁZKU.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Are you staying out today?",
+      "czech": "Budeš dneska venku, nebo radši ne?",
+      "transliteration": "BUDEŠ dneska VENKU, nebo radši ne?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "The sunset looks unreal right now.",
+      "czech": "Ten západ slunce teď vypadá neuvěřitelně.",
+      "transliteration": "Ten ZÁPAD slunce TEĎ vypadá neuvěřitelně.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I make my bed, then start fresh.",
+      "czech": "Urovnám si postel a začnu od začátku.",
+      "transliteration": "Urovnám si postel a ZACNU od zacatku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I check my calendar and priorities.",
+      "czech": "Podívám se do kalendáře a na priority.",
+      "transliteration": "Podívám se do kalendáře a na PRIORITY.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I take a few minutes to stretch.",
+      "czech": "Dám si pár minut na protažení.",
+      "transliteration": "Dam si pár MINUT na proTAZENI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I put my shoes by the door.",
+      "czech": "Dám si boty k dveřím, ať v tom nemám chaos.",
+      "transliteration": "Dam si BOTY k DVERIM, ať v tom nemam CHAOS.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I grab a healthy breakfast on the go.",
+      "czech": "Vezmu si k snídani něco zdravého, i když spěchám.",
+      "transliteration": "Vezmu si ke SNIdANI neco ZDRAVEHO, i kdyz SPECHAM.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I fill my water bottle for later.",
+      "czech": "Naplním si lahev s vodou dopředu.",
+      "transliteration": "Naplním si LAhev s voDOu DOPREDU.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "I answer one message, then another.",
+      "czech": "Odpovím na jednu zprávu a pak na další.",
+      "transliteration": "Odpovím na JEDNU ZPRAVU a pak na DALSÍ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T09:53:42.237059"
     }
   ],
-  "last_updated": "2026-11-21T09:56:14.237803"
+  "last_updated": "2026-11-22T09:53:42.237059"
 }

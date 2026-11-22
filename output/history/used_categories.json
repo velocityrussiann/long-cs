@@ -395,7 +395,39 @@
     {
       "category": "Love",
       "date": "2026-11-21"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-22"
     }
   ],
-  "last_updated": "2026-11-21T09:56:14.256791"
+  "last_updated": "2026-11-22T09:53:42.250685"
 }
