@@ -22639,7 +22639,399 @@
       "transliteration": "Odpovím na JEDNU ZPRAVU a pak na DALSÍ.",
       "category": "Daily Routine",
       "generated_at": "2026-11-22T09:53:42.237059"
+    },
+    {
+      "english": "Hi, I m Alex, nice to meet",
+      "czech": "Ahoj, já jsem Alex, těší mě",
+      "transliteration": "AHoj, ya SEM Alex, TESHi me",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Good morning, are you waiting here?",
+      "czech": "Dobrý den, čekáte tu někde?",
+      "transliteration": "DOBry den, CHEKáte tu NĚkde?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I m new to Czech, can we talk?",
+      "czech": "Jsem tu nová, můžeme si popovídat?",
+      "transliteration": "SEM tu NOva, MUžeme si popOVIdat?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Where are you from, if you don t mind?",
+      "czech": "Odkud jste, jestli nevadí?",
+      "transliteration": "ODkud jste, JESTli neVADí?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Nice to meet you, I m curious",
+      "czech": "Rád vás poznávám, zajímá mě to",
+      "transliteration": "RAD vas POZnáváM, ZAjíma ME to",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "How s your evening going so far?",
+      "czech": "Jak se vám dnes večer daří?",
+      "transliteration": "Jak se vam dnes VEČer daŘÍ?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Should I say hello, or good day?",
+      "czech": "Mám pozdravit jako dobrý den, nebo ahoj?",
+      "transliteration": "MÁm POZdravit jako DOBry den, NEbo AHoj?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I keep showing up, even small",
+      "czech": "Pořád se ukazuju, i když to málo stačí.",
+      "transliteration": "Porad se ukazuju, i kdyz to malo staci.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Success is built on honest effort",
+      "czech": "Úspěch stavím na poctivé práci.",
+      "transliteration": "Uspech stavim na poctive praci.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Today I choose progress over comfort",
+      "czech": "Dnes volím růst místo pohodlí.",
+      "transliteration": "Dnes volim rust misto pohodli.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I break tasks into doable steps",
+      "czech": "Rozdělím to na zvládnutelné kroky.",
+      "transliteration": "Rozdelim to na zvladnutelne kroky.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I listen, then I act confidently",
+      "czech": "Nejdřív poslouchám, pak konám s jistotou.",
+      "transliteration": "Nejdri posloucham, pak konam s jistotou.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I turn setbacks into direction",
+      "czech": "Když se něco nepovede, přesměruju směr.",
+      "transliteration": "Kdyz se neco nepovede, premeruju smer.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "My habits support the life I want",
+      "czech": "Moje návyky mě vedou k tomu, co chci.",
+      "transliteration": "Moje navyky me vedou k tomu, co chci.",
+      "category": "Success",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Do you take contactless payments?",
+      "czech": "Berete platby bezkontaktně?",
+      "transliteration": "BERete platby BEZkontaktne?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Is this line for security?",
+      "czech": "Je tohle fronta na bezpečnostní kontrolu?",
+      "transliteration": "Je tohle FRONta na BEZpecnostni kontrolu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "How long does passport control take?",
+      "czech": "Jak dlouho trvá kontrola pasů?",
+      "transliteration": "Jak DLOUho TRVA kontrola pasu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Can I refill my water here?",
+      "czech": "Můžu si tady doplnit vodu?",
+      "transliteration": "MUzu si TADY doplnit VODU?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Where is the smoking area?",
+      "czech": "Kde je vyhrazené místo pro kuřáky?",
+      "transliteration": "Kde je vyhraZENE MISTO pro KURaky?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "My bag is stuck on the belt.",
+      "czech": "Můj kufr zůstává na pásu, prosím.",
+      "transliteration": "Muj KUFr ZUSTAVA na PASU, prosim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I think my luggage is missing.",
+      "czech": "Myslím, že moje zavazadlo chybí.",
+      "transliteration": "MYslim, ze moje ZAVazadlo CHYbi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I’m trusting the process, one day at a time.",
+      "czech": "Důvěřuju procesu, krok po kroku.",
+      "transliteration": "Důvěřuju PROCESU, KROK po KROKU.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Let’s make room for good news.",
+      "czech": "Uděláme si místo pro dobrou zprávu.",
+      "transliteration": "UDĚLÁME si MÍSTO pro DOBROU ZPRÁVU.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I refuse to call this the end.",
+      "czech": "Odmítám tomu říkat konec.",
+      "transliteration": "ODMÍTÁM tomu ŘÍKAT KONEC.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I’ll keep my heart open to options.",
+      "czech": "Nechám srdce otevřené možnostem.",
+      "transliteration": "NECHÁM Srdce OTEVŘENÉ moŽNOSTEM.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "What if help arrives right on time?",
+      "czech": "Co když pomoc přijde přesně včas?",
+      "transliteration": "CO KDYŽ POMOC PŘIJDE PŘESNĚ VČAS?",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I’ll take hope with me today.",
+      "czech": "Dneska si s sebou vezmu naději.",
+      "transliteration": "DNESKA si seBOU vezmu NADĚJI.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "We’ll find a softer way through.",
+      "czech": "Najdeme jemnější cestu dál.",
+      "transliteration": "NAJDEME JEMNĚJŠÍ CEŚTU dál.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Tonight we sing old folk songs.",
+      "czech": "Dnes večer si zazpíváme staré lidové písně.",
+      "transliteration": "Dnes večer si zazpíváme staré lidové písně.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "They light candles on All Souls' Day.",
+      "czech": "Na Dušičky zapalují svíčky u hrobů.",
+      "transliteration": "Na DUŠičky zapalují SVÍČky u hrobů.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "At Easter, kids paint eggs together.",
+      "czech": "O Velikonocích děti společně barví vejce.",
+      "transliteration": "O VELIKONOCÍCH děti SPOLEČNĚ barví Vejce.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "We trade small sweets at Christmas.",
+      "czech": "Na Štědrý den si vyměňujeme drobné cukroví.",
+      "transliteration": "Na ŠtěDRÝ den si VYMĚŇUJEme DROBné cukroví.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "The barber brings blessings on his day.",
+      "czech": "Když přijde holič, říkají mu dobré přání.",
+      "transliteration": "Když PŘIJde holič, říkají mu DOBRé přání.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "We keep a weather lore for spring.",
+      "czech": "Podle starých pověstí si hlídáme jarní počasí.",
+      "transliteration": "Podle STARÝCH pověstí si HLÍDÁME JARNÍ počasí.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "In Moravia, they pour slivovice for guests.",
+      "czech": "Na Moravě hostům nalévají slivovici.",
+      "transliteration": "Na MORAVě hostům NALÉVAjí SLIVOVICI.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Let the games begin, okay?",
+      "czech": "Tak jo, začneme hry?",
+      "transliteration": "Tak jo, zacneme hry?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Cheers, everyone, for making it!",
+      "czech": "Na zdraví všichni, že jste přišli!",
+      "transliteration": "Na zdraví vsichni, ze jste prisli!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Dance break right now, please!",
+      "czech": "Dáme si hned taneční pauzu?",
+      "transliteration": "Dáme si hned tancni pauzu?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I saved you a seat!",
+      "czech": "Mám pro tebe připravené místo.",
+      "transliteration": "Mam pro tebe pripravene misto.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "This playlist is pure fire tonight.",
+      "czech": "Ta playlistka dnes večer je fakt šťáva.",
+      "transliteration": "Ta playlistka dnes vecer je fakt stava.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "We should light the candles now.",
+      "czech": "Teď zapálíme svíčky, jo?",
+      "transliteration": "Ted zapalime svicky, jo?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Time for speeches, keep it short!",
+      "czech": "Teď si připijeme řečmi, ať to netrvá dlouho.",
+      "transliteration": "Ted si pripijeme recmi, at to netrva dlouho.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Today, I feel genuinely grateful.",
+      "czech": "Dnes se cítím opravdu vděčný.",
+      "transliteration": "Dnes se citim OPRAVDU vdecny.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "That unexpected kindness made my day.",
+      "czech": "Ta nečekaná laskavost mi zlepšila den.",
+      "transliteration": "Ta NECEKANA laskavost mi ZLEPSILA den.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "My heart is full right now.",
+      "czech": "Moje srdce je teď plné.",
+      "transliteration": "MOJE srdce je TED plne.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Little moments feel bright to me.",
+      "czech": "Ty malé chvíle jsou pro mě jasné.",
+      "transliteration": "Ty male CHVILE jsou pro me JASNE.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I needed this, and it helps.",
+      "czech": "Tohle jsem potřeboval, a pomáhá mi to.",
+      "transliteration": "Tohle JSEM potreboval, a POMAHÁ mi to.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Singing along always lifts me up.",
+      "czech": "Zpívání si s tím vždycky zvedne náladu.",
+      "transliteration": "ZPIVANI si s tim VZDYCKY zvedne naladu.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Even chores can feel oddly joyful.",
+      "czech": "I domácí práce můžou být divně radostné.",
+      "transliteration": "I DOMACI prace muzou byt DIVNE radostne.",
+      "category": "Joy",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Can I call you right now?",
+      "czech": "Můžu ti zavolat hned teď?",
+      "transliteration": "MUžu ti ZAvolat HNED teď",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Are you in a meeting?",
+      "czech": "Jsi teď na schůzce?",
+      "transliteration": "Jsi TEď na SCHůzce",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "I’m calling about the delivery.",
+      "czech": "Volám kvůli té dodávce.",
+      "transliteration": "VOlam KVu li té DOdaVce",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Call me when you’re free.",
+      "czech": "Zavolej mi, až budeš mít čas.",
+      "transliteration": "ZAvol ej mi, až BUdeš mít ČAS",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Do you have two minutes?",
+      "czech": "Máš dvě minuty?",
+      "transliteration": "Máš DVE miNUty",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Can you text me the details?",
+      "czech": "Pošleš mi ty detaily SMSkou?",
+      "transliteration": "POšleš mi ty DEtaily ESemESkou",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Just sent you a quick update.",
+      "czech": "Právě jsem ti poslal krátkou aktualizaci.",
+      "transliteration": "PRáVě jsem ti POslal KRÁtkou aKUtaLIZaci",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-23T10:53:37.751764"
     }
   ],
-  "last_updated": "2026-11-22T09:53:42.237059"
+  "last_updated": "2026-11-23T10:53:37.751764"
 }
