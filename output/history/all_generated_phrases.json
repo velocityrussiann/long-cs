@@ -23031,7 +23031,399 @@
       "transliteration": "PRáVě jsem ti POslal KRÁtkou aKUtaLIZaci",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-23T10:53:37.751764"
+    },
+    {
+      "english": "Say it first, even if awkward.",
+      "czech": "Řekni to první, i když je to trapné.",
+      "transliteration": "RĚkni to PRVNÍ, i KDYŽ je to TRAPNÉ.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Walk in, ask for what you need.",
+      "czech": "Veď se tam, vejdi dovnitř, a řekni, co potřebuješ.",
+      "transliteration": "Vejdi do TAM, vejdi DOvnitř, a ŘEkni, co POTŘEbuješ.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Own your mistake, and fix it.",
+      "czech": "Přiznej chybu, a hned to oprav.",
+      "transliteration": "PŘIznaj CHYbu, a HNED to OPRAV.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Protect your values, quietly but firmly.",
+      "czech": "Chraň své hodnoty, potichu, ale pevně.",
+      "transliteration": "CHRAŇ své HOdnoty, poTICHu, ale PEvně.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Be brave enough to start small today.",
+      "czech": "Buď dost odvážný, abys začal malinko už dnes.",
+      "transliteration": "BUď dost ODvážný, aBYS začal MALINko už DNES.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Pause, breathe, then respond honestly.",
+      "czech": "Zastav se, nadechni se, a odpověz upřímně.",
+      "transliteration": "ZaSTAV se, NAdechni se, a ODpoVĚZ UPŘÍMně.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Leave the argument, but keep your dignity.",
+      "czech": "Odejdi od hádky, a zachovej si důstojnost.",
+      "transliteration": "OdeJDI od HÁdky, a ZACHOVej si DŮSTojnost.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "What time is check-in, please?",
+      "czech": "V kolik je check-in, prosím?",
+      "transliteration": "V kolik je check-in, prosim?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "How late can I check in?",
+      "czech": "Jak pozdě můžu přijít na check-in?",
+      "transliteration": "Jak pozde muzu prijit na check-in?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Do you have laundry service?",
+      "czech": "Máte tu službu praní prádla?",
+      "transliteration": "Mate tu sluzbu prani pradla?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Is there an elevator in the building?",
+      "czech": "Je tu výtah v budově?",
+      "transliteration": "Je tu vytaH v budove?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "My room is facing the street.",
+      "czech": "Můj pokoj má okna do ulice.",
+      "transliteration": "Muj pokoj ma okna do ulice.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "The bed feels wonderfully comfortable.",
+      "czech": "Postel je tady opravdu pohodlná.",
+      "transliteration": "Postel je tady opravdu pohodlna.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Do you offer airport transfer?",
+      "czech": "Nabízíte transfer na letiště?",
+      "transliteration": "Nabizite transfer na letiste?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "How do I get to city hall?",
+      "czech": "Jak se dostanu na radnici?",
+      "transliteration": "Jak se dostanu na RADnici?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Does this bus go past there?",
+      "czech": "Je ten autobus jede kolem toho místa?",
+      "transliteration": "JE ten autobus jede KOLEM toho MÍSTA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Is it faster to walk or tram?",
+      "czech": "Je rychlejší jít pěšky, nebo tramvají?",
+      "transliteration": "Je RYCHLEJŠÍ jít PĚŠKY, nebo TRAMVAJÍ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Where is the nearest crossing?",
+      "czech": "Kde je nejbližší přechod pro chodce?",
+      "transliteration": "Kde je NEJBLIŽŠÍ PŘECHOD pro CHODCE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Can I avoid the uphill part?",
+      "czech": "Dá se to obejít bez kopce?",
+      "transliteration": "DA se to O obejít bez KO Pce?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Is the route stroller-friendly?",
+      "czech": "Je ta cesta vhodná i pro kočárek?",
+      "transliteration": "Je ta CESTA vhodná i pro KOČÁREK?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "What time does the tram run?",
+      "czech": "V kolik jezdí ten tramvajový spoj?",
+      "transliteration": "V KOLIK JEZDI ten TRAMVAJOVÝ spoj?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "czech": "Potřebuji dnes k lékaři.",
+      "transliteration": "PotŘebUji dnes k LÉkaři.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Is this appointment covered by insurance?",
+      "czech": "Je to hrazené pojišťovnou?",
+      "transliteration": "Je to HraZENÉ pojišťOVnou?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "What are the next steps?",
+      "czech": "Jaký je další postup?",
+      "transliteration": "Jaký je DAlší POStup?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Do I need a referral?",
+      "czech": "Potřebuji doporučení od praktika?",
+      "transliteration": "PotŘeBUji doPOruČENí od prakTÍka?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Could you explain the diagnosis again?",
+      "czech": "Můžete mi tu diagnózu zopakovat?",
+      "transliteration": "MůŽete mi tu diAGnózu zopAKovat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Should I stop any medications?",
+      "czech": "Mám vysadit nějaké léky?",
+      "transliteration": "Mám vySAdit nějaKÉ léky?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "What warning signs should I watch for?",
+      "czech": "Na jaké varovné příznaky si mám dávat pozor?",
+      "transliteration": "Na jaKÉ vaROvné PŘÍznaky si mám DÁvat poZOR?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I keep the habit, not the mood.",
+      "czech": "Držím návyk, ne náladu.",
+      "transliteration": "DRžím NÁvyk, NE NÁlaDu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Small steps count, even on rough days.",
+      "czech": "Malé kroky se počítají, i v těžkých dnech.",
+      "transliteration": "MAlé KROky se POčíTají, i v TĚžkých DNECH.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I do the work, then rest guilt-free.",
+      "czech": "Udělám práci, pak si odpočinu bez výčitek.",
+      "transliteration": "UděLÁM PRÁci, pak si odPOčinu BEZ VÝčiTek.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "When it drags, I still move.",
+      "czech": "Když se to vleče, stejně se pohnu.",
+      "transliteration": "Když se TO vleČe, stejNĚ se POhnu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I set a timer and show up again.",
+      "czech": "Nastavím budík, a jdu dál.",
+      "transliteration": "NAStaVím BUdík, a JDU DÁl.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I finish one thing before switching.",
+      "czech": "Dokončím jednu věc, než přepnu.",
+      "transliteration": "dOKONčím JEdnu VĚc, než PŘEpnU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I train consistency like a muscle.",
+      "czech": "Učím se konzistenci, jako sval.",
+      "transliteration": "UČím se konzisTENci, jaKO SVAL.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Pause, then choose the kindest move.",
+      "czech": "Zastav se, a pak zvol to nejlaskavější řešení.",
+      "transliteration": "Zastav SE, a pak zvol to nejLASKAVĚJŠÍ řešení.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Wise people ask, not assume.",
+      "czech": "Moudří lidé se ptají, ne předpokládají.",
+      "transliteration": "Moudří LIDÉ se ptají, ne předPOKLÁDAJÍ.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I trade urgency for steady progress.",
+      "czech": "Vyměním naléhavost za vytrvalý krok dopředu.",
+      "transliteration": "Vyměním naLĚHAVOST za vyTRVALÝ krok DOpru.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Less drama, more discernment, please.",
+      "czech": "Méně dramatu, víc nadhledu a rozvahy.",
+      "transliteration": "MÉNĚ DRAMatu, víc NADHLEDU a rozVÁHY.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I can be calm and still firm.",
+      "czech": "Můžu být klidná a zároveň pevná.",
+      "transliteration": "Můžu být KLIDNÁ a zároveň PEVNÁ.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I learn from today, not from shame.",
+      "czech": "Poučím se z dneška, ne ze studu.",
+      "transliteration": "POUČÍM se z DNEŠKA, ne ze STUDU.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Let your actions match your values.",
+      "czech": "Nech, ať tvoje činy odpovídají tvým hodnotám.",
+      "transliteration": "Nech, ať TOJÍ činy odPOVÍDAJÍ tvým HODNOTÁM.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I steady my breathing, then move",
+      "czech": "Uklidním dech a pak se pohnu.",
+      "transliteration": "Uklidnim dech a pak se pohnu.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I don’t quit, I adjust and continue",
+      "czech": "Nezastavím, jen přizpůsobím tempo a jedu dál.",
+      "transliteration": "Nezastavim, jen prizpusobim tempo a jedu dal.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I practice bravery in small moments",
+      "czech": "Trénuju odvahu v malých chvílích.",
+      "transliteration": "Trénuju odváhu v malách chviĺich.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "My strength shows up in choices",
+      "czech": "Moje síla se ukazuje v mých volbách.",
+      "transliteration": "Moje silа se ukazuje v mych volbach.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I can be tired and still strong",
+      "czech": "Můžu být unavený, a přesto silný.",
+      "transliteration": "Muzе byt unaveny, a presto silny.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I hold the line, even quietly",
+      "czech": "Držím linii, i když je to tiše.",
+      "transliteration": "Drzim linii, i kdyz je to tise.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I turn discomfort into useful feedback",
+      "czech": "Přeměním nepohodu v užitečnou zpětnou vazbu.",
+      "transliteration": "Preměnim nepohodu v uzitečnou zpetnou vazbu.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Can we talk for ten minutes?",
+      "czech": "Můžeme si promluvit na deset minut?",
+      "transliteration": "Můžeme si promluvit na DESET minut?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Who needs help with homework?",
+      "czech": "Kdo potřebuje pomoct s domácím úkolem?",
+      "transliteration": "Kdo POTŘEBUJE pomoct s domácím úKOLEM?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Let’s make a shared chore list.",
+      "czech": "Udělejme společný seznam domácích prací.",
+      "transliteration": "UDĚLEJME společný SEZNAM domácích PRACÍ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Dinner smells amazing, thank you.",
+      "czech": "Večeře voní skvěle, děkuju ti.",
+      "transliteration": "VEČEŘE voní SKVĚLE, DĚKUJU ti.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "After school, socks in the basket.",
+      "czech": "Po škole, ponožky do koše.",
+      "transliteration": "Po ŠKOLE, POnožky do KOŠE.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "I’ll do dishes, you fold laundry.",
+      "czech": "Já umyju nádobí, ty poskládáš prádlo.",
+      "transliteration": "Já uMYJU náDOBÍ, ty poSKLÁDÁŠ PRÁDLO.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
+    },
+    {
+      "english": "Please keep water in the shower.",
+      "czech": "Prosím, nenech vodu téct zbytečně.",
+      "transliteration": "Prosím, nE nech VODU téct ZBYTEČNĚ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T12:37:13.032700"
     }
   ],
-  "last_updated": "2026-11-23T10:53:37.751764"
+  "last_updated": "2026-11-24T12:37:13.032700"
 }
