@@ -23815,7 +23815,399 @@
       "transliteration": "S TE-bou mi v HLAVĚ LÍP.",
       "category": "Friendship",
       "generated_at": "2026-11-25T11:27:02.466043"
+    },
+    {
+      "english": "I feel excited about this new job.",
+      "czech": "Těším se na tu novou práci.",
+      "transliteration": "Te ším se na tu novo u pra ci.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Right now, I feel kind of overwhelmed.",
+      "czech": "Teď se trochu přetahuju, je toho moc.",
+      "transliteration": "Teď se tro ch u př e t a hu ji, je ho mo c.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m anxious waiting for the test results.",
+      "czech": "Jsem nervózní, čekám na výsledky testu.",
+      "transliteration": "Jsem ner vo z ní, če kám na v ý sled ky tes tu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "That song always lifts my mood.",
+      "czech": "Ta písnička mi vždycky zvedne náladu.",
+      "transliteration": "Ta pís ni čka mi vžd ycky z v e d ne ná la du.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I feel awkward, but I’ll manage.",
+      "czech": "Je mi trapně, ale nějak to zvládnu.",
+      "transliteration": "Je mi tra pně, ale ně jak to z vlád nu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m grateful for small kindnesses.",
+      "czech": "Mám vděčnost i za maličkosti, co někdo udělá.",
+      "transliteration": "Mám v děč nost i za ma lič ko sti, co ně kdo u děl á.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I feel disappointed about the missed train.",
+      "czech": "Mrzí mě to zpoždění, ten vlak mi ujela.",
+      "transliteration": "M r ží mě to z pož dě ní, ten vlak mi u je la.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I can be brave and gentle.",
+      "czech": "Můžu být odvážná a zároveň jemná.",
+      "transliteration": "Můžu být ODVAŽNÁ a zároveň JEMNÁ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "No need to win this moment.",
+      "czech": "Nemusím tenhle moment vyhrát.",
+      "transliteration": "Nemusím tenhle MOMENT vyhrát.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I return to my body, now.",
+      "czech": "Vrátím se teď k svému tělu.",
+      "transliteration": "VRÁTÍM se teď k svému TĚLU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m safe enough to slow down.",
+      "czech": "Jsem dost v bezpečí, abych zpomalil.",
+      "transliteration": "JSEM dost v BEZPEČÍ, abych ZPOMALIL.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Let your attention soften, slowly.",
+      "czech": "Nech pozornost změknout, pomalu.",
+      "transliteration": "Nech POZORNOST změknout, POMALU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I choose what I carry today.",
+      "czech": "Dnes si vybírám, co si vezmu s sebou.",
+      "transliteration": "Dnes si vyBÍRÁM, co si vezmu seBOU.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I don’t have to explain everything.",
+      "czech": "Nemusím vysvětlovat všechno.",
+      "transliteration": "Nemusím vySVĚTLovat VŠECHNO.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Motivation, I’m coming anyway today",
+      "czech": "Motivace, já k tobě stejně dnes dojdu",
+      "transliteration": "Motivace, ja k tobe STEJNE dnes DOjdu",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Do it scared, move anyway",
+      "czech": "Udělej to se strachem, stejně se hýbej",
+      "transliteration": "Udelej to se strachem, STEJNE se HYbej",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "One call, then I’m free",
+      "czech": "Jedna zpráva a pak mám klid",
+      "transliteration": "Jedna ZPRAva a pak maM klid",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’ll start with the tiny version",
+      "czech": "Začnu tou nejmenší možnou verzí",
+      "transliteration": "Zacnu tu NEJmensi moznoU VERzi",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Set a timer, just begin",
+      "czech": "Nastav si budík, a začni hned",
+      "transliteration": "Nastav si buDIK, a ZACni hned",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I can change my pace now",
+      "czech": "Můžu teď zpomalit a jít dál",
+      "transliteration": "MuZu ted zpomaLit a jIT DAL",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Not perfect, just progress today",
+      "czech": "Dneska stačí pokrok, ne dokonalost",
+      "transliteration": "DNeska staci poKROK, ne doKoNALost",
+      "category": "Motivation",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I think they had a stroke",
+      "czech": "Myslím, že měl mozkovou příhodu",
+      "transliteration": "Myslím, že měl MOZ-kovou PŘI-hodu",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Try to keep their airway open",
+      "czech": "Snažte se udržet volné dýchací cesty",
+      "transliteration": "SNAŽ-te se uDRŽet VOL-né DÝ-chací CES-ty",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Do they have trouble speaking",
+      "czech": "Dokážou mluvit normálně?",
+      "transliteration": "Dokážou MLU-vit NOR-mál-ně?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Ask them to smile for me",
+      "czech": "Zkuste jim říct, ať se usmějí",
+      "transliteration": "ZKUS-te jim ŘÍCT, ať SE uSMĚJÍ",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Their arm is suddenly weak",
+      "czech": "Najednou jim ochablo rameno",
+      "transliteration": "NA-jed-nou jim OCHab-lo RA-me-no",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "What is their name and age",
+      "czech": "Jak se jmenují a kolik je jim let",
+      "transliteration": "Jak se JME-nu-jí a KO-lik je jim LET",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Do they know what day it is",
+      "czech": "Vědí, jaký je dnes den?",
+      "transliteration": "VĚDÍ, jaKÝ je DNES den?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m finally trying rock climbing",
+      "czech": "Konečně zkouším lezení po skalách,",
+      "transliteration": "KONEČNĚ ZKOUŠÍM LEZENÍ PO SKALÁCH,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I go to open mic nights",
+      "czech": "Chodím na open mic večery,",
+      "transliteration": "CHODÍM NA OPEN MIC V EČERY,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m learning Czech through podcasts",
+      "czech": "Učím se česky z podcastů,",
+      "transliteration": "UČÍM SE ČESKY Z PODCASTŮ,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I unwind with a long bath",
+      "czech": "Odpočívám u dlouhé vany,",
+      "transliteration": "ODPOČÍVÁM U DLOUHÉ VANy,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I volunteer at the animal shelter",
+      "czech": "Dobrovolničím v útulku pro zvířata,",
+      "transliteration": "DOBROVOLNIČÍM V ÚTULKU PRO ZVÍŘATA,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I hit the library after work",
+      "czech": "Po práci zajdu do knihovny,",
+      "transliteration": "PO PRÁCI ZAJDU DO KNIHOVNY,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m practicing mindfulness with daily walks",
+      "czech": "Cvičím všímavost při každodenních procházkách,",
+      "transliteration": "CVIČÍM VŠÍMAVOST PŘI KAŽDODENNÍCH PROCHÁZKÁCH,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Thanks for your quick response",
+      "czech": "Děkuju za vaši rychlou odpověď.",
+      "transliteration": "DěKUju za VAši RYchlou ODPověď.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "You went out of your way",
+      "czech": "Opravdu jste si pro mě zašel",
+      "transliteration": "Opravdu jste si pro mě ZAšel/a NAvíc.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "That was considerate, really thank you",
+      "czech": "Bylo to opravdu ohleduplné, děkuju.",
+      "transliteration": "Bylo to Opravdu OHleduplné, DĚkuju.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I needed that, you noticed",
+      "czech": "Opravdu jsem to potřeboval",
+      "transliteration": "Opravdu jsem to POtřeboval/a, VŠIMla sis.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Please know I noticed your effort",
+      "czech": "Chci, abyste věděl",
+      "transliteration": "CHci, aByste VĚděl/a, že jsem si VŠiml/a VAšeho USilí.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Can I help you with that?",
+      "czech": "Můžu vám s tím pomoct?",
+      "transliteration": "Můžu VÁm s tím POmoci?",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "You shared your seat, wow",
+      "czech": "Sdílel",
+      "transliteration": "Sdílel/a jste se mnou MÍsto, DÍky!",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I want to live deliberately, not on autopilot.",
+      "czech": "Chci žít záměrně, ne na autopilota.",
+      "transliteration": "Chci ŽÍT ZÁMĚRNĚ, ne na autoPILOTA.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "My purpose is showing up fully.",
+      "czech": "Můj smysl je ukazovat se naplno.",
+      "transliteration": "MŮJ SMYSL je ukaZOVAT se naPLNO.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I choose goals that fit my values.",
+      "czech": "Volím cíle, které odpovídají mým hodnotám.",
+      "transliteration": "VoLÍM CÍLE, které ODPOVíDÁjí mým HOdnoTÁM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I turn everyday stress into motivation.",
+      "czech": "Každodenní stres obracím v motivaci.",
+      "transliteration": "KAŽdoDENNí STRES obRÁ́CÍM v moTIVACI.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I keep promises, even small ones.",
+      "czech": "Držím sliby, i ty malé.",
+      "transliteration": "DRŽÍM SLIBy, i ty MÁLÉ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I seek calm, and then act.",
+      "czech": "Hledám klid, a pak konám.",
+      "transliteration": "HLEDÁM klid, a pak KOnáM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I make room for joy, daily.",
+      "czech": "Každý den si udělám prostor pro radost.",
+      "transliteration": "KAŽdÝ den si uDĚLÁM proSTOR pro RA_DOST.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Start with a wrong answer on purpose",
+      "czech": "Začni schválně špatnou odpovědí, ať to rozjedeš.",
+      "transliteration": "Zacni SCHVALNE spatnou ODPOVEDI, at to ROZJEDEs.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Change the scene, keep the feeling",
+      "czech": "Změň prostředí, ale nech pocity stejné.",
+      "transliteration": "Zmen PROSTREDI, ale nech POCITY stejné.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Describe it like you sell it",
+      "czech": "Popiš to, jako bys to prodával.",
+      "transliteration": "POpis to, JAko bys to PRODAVAL.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Turn a problem into a question",
+      "czech": "Převrať problém v otázku a sleduj, co se objeví.",
+      "transliteration": "PrevRAT PROBLEM v OTAZKU a SLEDUJ, co se OBJEVÍ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Use one object as your muse",
+      "czech": "Vezmi jeden předmět a udělej z něj múzu.",
+      "transliteration": "Vezmi JEDEN predmět a UDELEJ z nej MUZU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Write three wild options, no judging",
+      "czech": "Napiš tři bláznivé možnosti, bez hodnocení.",
+      "transliteration": "NApíš TRi BLÁZNIVÉ MOŽNOSTI, bez HOdnoCENÍ.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "Give it a new audience",
+      "czech": "Představ si, že to míří na úplně jiné lidi.",
+      "transliteration": "PREDSTAV si, ZE to MIRi na UPLNE JINE LIDI.",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T11:01:18.477759"
     }
   ],
-  "last_updated": "2026-11-25T11:27:02.466043"
+  "last_updated": "2026-11-26T11:01:18.477759"
 }
