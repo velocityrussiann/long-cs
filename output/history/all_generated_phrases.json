@@ -24207,7 +24207,399 @@
       "transliteration": "PREDSTAV si, ZE to MIRi na UPLNE JINE LIDI.",
       "category": "Creativity",
       "generated_at": "2026-11-26T11:01:18.477759"
+    },
+    {
+      "english": "I’m ready to start, what next?",
+      "czech": "Jsem připravený začít, co bude dál?",
+      "transliteration": "Jsem prIpRAVENý začít, co bude dál?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Can you show me how this works?",
+      "czech": "Můžeš mi ukázat, jak to funguje?",
+      "transliteration": "Můžeš mi ukázat, jak to FUNguje?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Please attach the file to the email",
+      "czech": "Prosím přiložte soubor k tomu e-mailu.",
+      "transliteration": "ProSÍM priložte SOuBor k toMU e-maiLU.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I need to book the meeting room",
+      "czech": "Potřebuji si zarezervovat zasedací místnost.",
+      "transliteration": "PoTRĚbuji si zAREzervovat ZAseDAcí MÍstnost.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Where should I save this document?",
+      "czech": "Kam to mám uložit jako dokument?",
+      "transliteration": "Kam to máM ULOŽit jaKo dokuMENT?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’ll draft the reply, please review",
+      "czech": "Připravím odpověď, prosím, zkontrolujte ji.",
+      "transliteration": "PřiPRAVÍM odPOvěď, proSÍM, zkontroLuJte ji.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m bringing the laptop charger today",
+      "czech": "Dneska přinesu nabíječku k notebooku.",
+      "transliteration": "DNESka přiNESU NAbíječku k noteBOOku.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "How late does this stop have buses?",
+      "czech": "Jak pozdě jezdí od téhle zastávky bus?",
+      "transliteration": "Jak POZDě jezdí od téhle zastávky bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Is there a transfer here?",
+      "czech": "Je tady možnost přestupu?",
+      "transliteration": "Je tady MOŽNOST přestupu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Which platform for tram number three?",
+      "czech": "Která zastávka je pro tramvaj číslo tři?",
+      "transliteration": "Která ZASTÁVKA je pro tramvaj ČÍSLO tři?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Where can I buy a day pass?",
+      "czech": "Kde koupím jednodenní jízdenku?",
+      "transliteration": "Kde KOUPÍM jednodenní JÍZDENKU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Do I need a subscription pass?",
+      "czech": "Mám si koupit předplatní jízdenku?",
+      "transliteration": "Mám si KOUPIT předplatní JÍZDENKU?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Is Wi Fi available on this bus?",
+      "czech": "Má tenhle autobus Wi-Fi?",
+      "transliteration": "Má TEnhle autobus Wi-FI?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Does the driver wait if I’m late?",
+      "czech": "Počká řidič, když nestihnu příjezd?",
+      "transliteration": "POČKÁ řidič, když nestihnu PŘÍJEZ D?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Okay, I hear you. We wait.",
+      "czech": "Dobře, rozumím ti. Počkáme.",
+      "transliteration": "DOBře, rozumím TI. počkáME.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Hold on, let me think first.",
+      "czech": "Chvilku, nejdřív si to promyslím.",
+      "transliteration": "CHVILku, nejdřív si to promysLÍm.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Just a moment, I’m not done yet.",
+      "czech": "Ještě chvilku, ještě to neskončilo.",
+      "transliteration": "JEŠtě chvilku, JEŠtě to neSKONčilo.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I won’t interrupt, go at your pace.",
+      "czech": "Nechci tě přerušovat, dělej svým tempem.",
+      "transliteration": "neCHCI tě přeRŮŠit, dělej svým TEMpem.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Thanks, I need a little time.",
+      "czech": "Díky, potřebuji trochu času.",
+      "transliteration": "DÍky, poTŘEbuji TROchu času.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "We can pause, then continue together.",
+      "czech": "Můžeme se na chvíli zastavit, a pak pokračovat spolu.",
+      "transliteration": "můŽEMe se na CHVÍli zasTAvit, a pak poKRAČOvat SPOlu.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Please, don’t rush my decision.",
+      "czech": "Prosím, nespěchej s mým rozhodnutím.",
+      "transliteration": "proSÍM, neSPĚCHEj s mým rozHOdnU.tím.",
+      "category": "Patience",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m totally down for that.",
+      "czech": "Jsem do toho úplně, ale úplně pro.",
+      "transliteration": "jsem do toho ÚPLNĚ, ale ÚPLNĚ pro",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "That’s so random, I love it.",
+      "czech": "To je taková kravina, a já to miluju.",
+      "transliteration": "to je TAKOVÁ kravina, a já to MILUJU",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Give me a sec, please.",
+      "czech": "Dáš mi na chvilku?",
+      "transliteration": "dáš mi NA chvilku",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I can’t believe this happened.",
+      "czech": "To snad není možný, fakt se to stalo.",
+      "transliteration": "to snad NENÍ možný, FAKT se to STALO",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "You’re killing me, stop it.",
+      "czech": "Ty mě ničíš, přestaň s tím.",
+      "transliteration": "ty mě NIČÍŠ, přestaň s TÍM",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’ll hit you up later.",
+      "czech": "Později ti dám vědět.",
+      "transliteration": "POZDĚJI ti dám VĚDĚT",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Just tell me straight, please.",
+      "czech": "Řekni mi to na rovinu, prosím.",
+      "transliteration": "ŘEKni mi to NA rovinu, prosím",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "What day is best for you?",
+      "czech": "Který den vám nejvíc vyhovuje,",
+      "transliteration": "KTERY den vam nejvic vyhovuje, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Let’s set a realistic deadline.",
+      "czech": "Nastavme si realistický termín,",
+      "transliteration": "NASTAVME si REALISTICKY TERMIN, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Should we split tasks among us?",
+      "czech": "Můžeme rozdělit úkoly mezi nás,",
+      "transliteration": "MOuzeme ROZDELIT ukoly MEZI NAS, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’ll handle the reservations, ok?",
+      "czech": "Já to vyřídím s rezervacemi, dobře?",
+      "transliteration": "JA to vyRIDIM s REZERVACEMI, dobre",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Let’s confirm what we need to bring.",
+      "czech": "Potřebujeme si ujasnit, co si vzít s sebou,",
+      "transliteration": "POTREBUJEME si uJASNIT, co si VZIT s SEBOU, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Do you prefer mornings or afternoons?",
+      "czech": "Dáváte přednost ráno, nebo odpoledne,",
+      "transliteration": "DAVAte prednost RAno, nebo odPOLEDNE, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Can we choose a cheaper option?",
+      "czech": "Můžeme vybrat i levnější variantu,",
+      "transliteration": "MOuzeme vyBRAT i LEVNESI VARIANTU, E",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m ready to release the tension.",
+      "czech": "Jsem připravený pustit napětí.",
+      "transliteration": "Jsem připravený PUSTIT napětí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "Let’s put it in the past.",
+      "czech": "Dáme tomu minulost.",
+      "transliteration": "Dáme tomu MINULOST.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I don’t want to carry this.",
+      "czech": "Nechci to dál nosit.",
+      "transliteration": "NeCHCI to dál NOSIT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "You can make it right, starting now.",
+      "czech": "Můžeš to napravit, začni hned.",
+      "transliteration": "Můžeš to NA PRAVIT, ZAČNI hned.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m forgiving you, but I need clarity.",
+      "czech": "Odpouštím ti, ale potřebuju jasno.",
+      "transliteration": "OdpouŠTÍM ti, ale poTŘEbujeJU jasNO.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’ll choose kindness over being hurt.",
+      "czech": "Vyberu si laskavost, ne bolest.",
+      "transliteration": "VyBĚru si LASKavost, NE bolest.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "We can talk again without snapping.",
+      "czech": "Můžeme si znovu promluvit, bez výbuchů.",
+      "transliteration": "Můžeme si ZNOvu proMLUVIT, bez VÝbuchů.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I celebrate small progress, not perfection",
+      "czech": "Oslavuju malý pokrok, ne dokonalost",
+      "transliteration": "OslaVUju malý poKROK, ne doKoNALost",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I say yes to one quiet moment",
+      "czech": "Řeknu ano jednomu tichému okamžiku",
+      "transliteration": "Řeknu aNO jeDNOMu TICHému oKAMžiku",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "A friendly text can change everything",
+      "czech": "Jedna milá zpráva umí zázraky",
+      "transliteration": "JEden milá ZPRÁva uMÍ ZÁzraky",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I dance in my kitchen for fun",
+      "czech": "V kuchyni si zacvičím, jen tak pro radost",
+      "transliteration": "V kuCHYni si zaCVIČÍm, jen tak pro RAdoSt",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I take a mindful sip of water",
+      "czech": "Dám si vědomý doušek vody",
+      "transliteration": "Dám si VĚdoMÝ douŠEK VOdy",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "My playlist makes my shoulders drop",
+      "czech": "Moje playlisty uvolní ramena",
+      "transliteration": "MÓje PLAYlisty uVOLní RAmeNA",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I notice one beautiful detail today",
+      "czech": "Dnes si všimnu jednoho krásného detailu",
+      "transliteration": "Dnes si VIŠimnu JEDnoho KRÁsnÉho deTAILu",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m investing in my long-term growth.",
+      "czech": "Investuju do dlouhodobého růstu, krok za krokem.",
+      "transliteration": "Investuju DO dlouhodobého RUSTU, krok za KROkem.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "New goals keep me moving forward.",
+      "czech": "Nové cíle mě drží v pohybu vpřed.",
+      "transliteration": "Nove CILE me dri v pohybu VPREd.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "My focus is getting sharper every day.",
+      "czech": "Můj fokus se každým dnem zostřuje.",
+      "transliteration": "Muj FOKUS se kazdym dnem ZOSTRUJUje.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m building momentum, not perfection.",
+      "czech": "Stavím si tempo, ne dokonalost.",
+      "transliteration": "Stavim si TEMpo, ne doKONalost.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I recover faster after setbacks.",
+      "czech": "Po nezdarech se zotavuju rychleji.",
+      "transliteration": "Po NEzdarech se ZOTaVuju RYCHleji.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "My learning sticks because I review.",
+      "czech": "Učím se tak, že si to průběžně připomínám.",
+      "transliteration": "Ucim se TAK, ze si to PRUbezne priPOMinam.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I’m growing stronger through small wins.",
+      "czech": "Sílu nabírám z malých vítězství.",
+      "transliteration": "Silu NAbiram z malych VItezstvi.",
+      "category": "Growth",
+      "generated_at": "2026-11-27T10:58:41.342174"
     }
   ],
-  "last_updated": "2026-11-26T11:01:18.477759"
+  "last_updated": "2026-11-27T10:58:41.342174"
 }
