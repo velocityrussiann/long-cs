@@ -24599,7 +24599,399 @@
       "transliteration": "Silu NAbiram z malych VItezstvi.",
       "category": "Growth",
       "generated_at": "2026-11-27T10:58:41.342174"
+    },
+    {
+      "english": "I start with one honest sentence.",
+      "czech": "Začnu jednou upřímnou větou.",
+      "transliteration": "Zacnu jednou UPŘÍmnou VĚtou.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I write messy, then I choose.",
+      "czech": "Píšu nepořádně, a pak si vyberu.",
+      "transliteration": "PÍsu nepoŘÁDNĚ, a pak si vyBERU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "A shower clears my ideas, fast.",
+      "czech": "Sprcha mi rychle vyčistí hlavu.",
+      "transliteration": "SP RCHA mi RYchle vyČIS TÍ hlavu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I change rooms, not my dreams.",
+      "czech": "Změním místnost, ne svoje sny.",
+      "transliteration": "ZměNÍM MÍstnost, ne sVOJE sny.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I let curiosity lead the next step.",
+      "czech": "Nechám zvědavost, ať vede další krok.",
+      "transliteration": "NEchám ZVĚdavost, ať VEDe další KROK.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I steal ten minutes from scrolling.",
+      "czech": "Ukrajuju si deset minut z brouzdání.",
+      "transliteration": "UkrAjuju si DESET miNut z BROUZDÁNÍ.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I read one paragraph, then act.",
+      "czech": "Přečtu jeden odstavec, a pak něco udělám.",
+      "transliteration": "PŘEčtu JEden ODstavec, a pak něco UDĚLÁM.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I want your kisses, not permission.",
+      "czech": "Chci tvé polibky, ne svolení.",
+      "transliteration": "CHci tve POLibky, ne SVOlení.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I fall for you again today.",
+      "czech": "Dnes do tebe znovu padám.",
+      "transliteration": "DNES do tebe ZNOVU paDÁM.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "You make ordinary moments feel magic.",
+      "czech": "Děláš z obyčejných chvil kouzlo.",
+      "transliteration": "DĚLÁŠ z OBYčejných CHvíl KOUzlo.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Let me be your safe place.",
+      "czech": "Chci být tvým bezpečným místem.",
+      "transliteration": "CHCI bÝt tvým BEZpečným MÍSTEM.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I choose your smile over everything.",
+      "czech": "Volím tvůj úsměv před vším.",
+      "transliteration": "VOLÍM tvůj ÚSMĚv PŘED vším.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I love how you listen to me.",
+      "czech": "Miluju, jak mě posloucháš.",
+      "transliteration": "MIluju, JAK mě POSlouCHÁŠ.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "When you touch my hand, wow.",
+      "czech": "Když se mě dotkneš, je mi to krásně.",
+      "transliteration": "KDYž se mě DOTkneš, je mi to KRÁsně.",
+      "category": "Love",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I want to improve my stamina",
+      "czech": "Chci zlepšit svou vytrvalost",
+      "transliteration": "CHCI zlepšit SVOU vytrva lost",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Do you offer a class intro?",
+      "czech": "Máte zkušební vstup do lekce?",
+      "transliteration": "MAte ZKUSební VSTUP do lekce",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "How do I track my heart rate?",
+      "czech": "Jak si mám měřit tep při tréninku?",
+      "transliteration": "JAK si MAm měřit TEP při treninku",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "What time is the busiest gym?",
+      "czech": "Kdy je v posilovně nejvíc lidí?",
+      "transliteration": "KDY je v posilovně nejVÍC LIDI",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I need a spotter for bench press",
+      "czech": "Můžete mi prosím pomoct jako dopomoc u benchlístu?",
+      "transliteration": "MŮŽETE mi prosím pomoct JAKO dopomoc u benchlístu",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Can I use a resistance band?",
+      "czech": "Můžu si půjčit odporovou gumu?",
+      "transliteration": "MŮŽU si PŮJČIT odporovou GUMU",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I’m doing interval training today",
+      "czech": "Dneska cvičím intervalový trénink",
+      "transliteration": "DNESka cvičím INTERvalový trenink",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Can I see prices for sizes?",
+      "czech": "Můžu vidět ceny podle velikostí?",
+      "transliteration": "Muzhu videt ceny podlE velikostI?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Is there a cheaper brand alternative?",
+      "czech": "Máte i levnější alternativu jiné značky?",
+      "transliteration": "Mate i levnejsi alternativu jine znacKy?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "What’s the price after student discount?",
+      "czech": "Jaká je cena se studentskou slevou?",
+      "transliteration": "Jaka je cena se studentskou slevou?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Does this come with free delivery?",
+      "czech": "Je k tomu zdarma doprava?",
+      "transliteration": "Je k tomu zdarma doprava?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Can I get a receipt for returns?",
+      "czech": "Můžu dostat účtenku kvůli vrácení?",
+      "transliteration": "Muzhu dostat uctenku kvuli vraceni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Is this the best deal today?",
+      "czech": "Je to dneska ta nejlepší nabídka?",
+      "transliteration": "Je to dneska ta nejlepsi nabidka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "How long will this discount last?",
+      "czech": "Jak dlouho platí tahle sleva?",
+      "transliteration": "Jak dlouho plati tahle sleva?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I choose hope, even today",
+      "czech": "Volím naději, i dnes",
+      "transliteration": "Volím NADĚJI, i dnes",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Set boundaries, feel lighter and free",
+      "czech": "Nastavuj hranice, bude ti lehčeji",
+      "transliteration": "Nastavuj HRANICE, bude ti LEHČEJI",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "My pace is still progress",
+      "czech": "Můj tempo je pořád pokrok",
+      "transliteration": "MŮJ TĚMPO je POŘÁD POKROK",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I talk myself through, calmly",
+      "czech": "Mluvím na sebe klidně, krok za krokem",
+      "transliteration": "MLUVÍM na SEBE KLIDNĚ, KROK za KROKEM",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Turn stress into focused action",
+      "czech": "Převádím stres v soustředěnou akci",
+      "transliteration": "PŘEVÁDÍM stres v SOUSTŘEDĚNOU AKCI",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Small kindness to others, too",
+      "czech": "Dopřeju laskavost i někomu dalšímu",
+      "transliteration": "DOPŘEJU LASKAVOST i NEKOMU dalŠÍMU",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Choose one thing, then breathe",
+      "czech": "Vyberu jednu věc, pak se nadechnu",
+      "transliteration": "VYBERU jednu VĚC, pak se NAdEC HNU",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Thanks for noticing my effort today.",
+      "czech": "Děkuju, že si všímáš mého dnešního úsilí.",
+      "transliteration": "Děkuju, že si VŠÍMÁŠ mého dnešního ÚSILÍ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I’m grateful you answered so quickly.",
+      "czech": "Jsem vděčný, že jsi odpověděl tak rychle.",
+      "transliteration": "Jsem vděčný, že jsi ODPOVĚDĚL tak RYCHLE.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Thank you for your clear direction.",
+      "czech": "Děkuju za jasné nasměrování.",
+      "transliteration": "Děkuju za JASNÉ NASMĚROVÁNÍ.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I appreciate you keeping it simple.",
+      "czech": "Oceňuju, že to podáváš jednoduše.",
+      "transliteration": "Oceňuju, že to PODÁVÁŠ jednoduše.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Thanks for being there when it mattered.",
+      "czech": "Děkuju, že tu jsi, když to opravdu bylo důležité.",
+      "transliteration": "Děkuju, že tu JSI, když to OPRAVDU bylo důležité.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Your help made today feel lighter.",
+      "czech": "Tvoje pomoc mi dneska ulehčila.",
+      "transliteration": "Tvoje POMOC mi dneska ULEHČILA.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I’m thankful for the honest feedback.",
+      "czech": "Jsem vděčný za upřímnou zpětnou vazbu.",
+      "transliteration": "Jsem vděčný za UPŘÍMNOU zpětnou VAZBU.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "That breeze feels so refreshing.",
+      "czech": "Ten vánek je fakt osvěžující.",
+      "transliteration": "Ten VAnek je fakt OSvezujici.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I can't tell if it's getting hotter.",
+      "czech": "Nemůžu poznat, jestli se to otepluje.",
+      "transliteration": "NeMUzu poZNAT, jestli se TO oTEpluje.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Do you hear the birds already?",
+      "czech": "Slyšíš už ty ptáky, nebo ne?",
+      "transliteration": "SLYsis uz ty PTAky, nebo NE?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "The sky looks oddly bright today.",
+      "czech": "Dneska vypadá obloha až podezřele světle.",
+      "transliteration": "DNEska vyPÁda obLoha az poDEZreLE SVETle.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "My skin feels dry with this wind.",
+      "czech": "Mám kůži takovou suchou z toho větru.",
+      "transliteration": "MÁm KOzi taKOUvou suCHOU z toho VEtru.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Is the air clearer than yesterday?",
+      "czech": "Připadá ti dneska vzduch čistší než včera?",
+      "transliteration": "PŘIpadá ti DNEska Vzduch CIštší než VEra?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Looks like a sunset might be nice.",
+      "czech": "To vypadá na hezký západ slunce, co myslíš.",
+      "transliteration": "To vyPÁda na HEZky ZÁpad SLUNce, co mysLÍš.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Can I pay by card here, please",
+      "czech": "Můžu tady zaplatit kartou, prosím",
+      "transliteration": "Muzu tady zaplatit KARTOU, PROSIM",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Do you accept Apple Pay here?",
+      "czech": "Přijímáte tady Apple Pay?",
+      "transliteration": "Prijimate tady APPLE PAY?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "How do I lock my card?",
+      "czech": "Jak si zablokuju kartu?",
+      "transliteration": "Jak si ZABLOKUJU KARtu?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I lost my card, I need help",
+      "czech": "Ztratil jsem kartu, potřebuji pomoct",
+      "transliteration": "ZTRATIL jsem KARtu, POTREBUJU pomoct",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "I think there was a duplicate charge",
+      "czech": "Myslím, že mi dvakrát strhli stejnou platbu",
+      "transliteration": "MYSLIM, ze mi DVAKRAT STRHLI stejnou PLATBU",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Where can I get a bank statement?",
+      "czech": "Kde si můžu vyzvednout výpis z účtu",
+      "transliteration": "Kde si MUZU vyzvednout VY PIS z UCTU",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
+    },
+    {
+      "english": "Can I download statements in the app?",
+      "czech": "Můžu si výpisy stáhnout v aplikaci",
+      "transliteration": "Muzu si VY PISY STÁHNOUT v APLIKACI",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-28T10:34:36.773743"
     }
   ],
-  "last_updated": "2026-11-27T10:58:41.342174"
+  "last_updated": "2026-11-28T10:34:36.773743"
 }
